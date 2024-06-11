@@ -23,16 +23,17 @@
         p Los actores que intervienen en el registro de usuarios son cinco (5): 
     .row.justify-content-start.align-items-center.mb-5
       .col-lg-6 
-        .col-4
-          figure
-            img.img-38(src='@/assets/curso/temas/tema4/img-3.svg', alt='')    
-        p Se encuentran los usuarios del servicio público de extensión agropecuaria quienes formarán parte las asociaciones u organizaciones de productores, estas deberán solicitar su inscripción y registro ante el municipio correspondiente al lugar donde se ubiquen los predios (Ministerio de Agricultura y Desarrollo Rural Agencia de Desarrollo Rural - ADR, 2019). 
-        .col-4
-          img.img-38(src='@/assets/curso/temas/tema4/img-4.svg', alt='')    
-        p En medida se encuentran las alcaldías municipales y distritales, a través de las secretarías de agricultura o la dependencia que designen, estos velarán por la veracidad de la información depositada en el registro.
-        .col-4
-          img.img-38(src='@/assets/curso/temas/tema4/img-5.svg', alt='')    
-        p Las gobernaciones departamentales, a través de las secretarías de agricultura o la dependencia que designen, velarán porque los municipios actualicen el registro durante los tres (3) meses de cada año. (Ministerio de Agricultura y Desarrollo Rural Agencia de Desarrollo Rural - ADR, 2019).
+        .row.justify-content-start.align-items-center
+          .col-4
+            figure
+              img.img-38(src='@/assets/curso/temas/tema4/img-3.svg', alt='')    
+          p Se encuentran los usuarios del servicio público de extensión agropecuaria quienes formarán parte las asociaciones u organizaciones de productores, estas deberán solicitar su inscripción y registro ante el municipio correspondiente al lugar donde se ubiquen los predios (Ministerio de Agricultura y Desarrollo Rural Agencia de Desarrollo Rural - ADR, 2019). 
+          .col-4
+            img.img-38(src='@/assets/curso/temas/tema4/img-4.svg', alt='')    
+          p En medida se encuentran las alcaldías municipales y distritales, a través de las secretarías de agricultura o la dependencia que designen, estos velarán por la veracidad de la información depositada en el registro.
+          .col-4
+            img.img-38(src='@/assets/curso/temas/tema4/img-5.svg', alt='')    
+          p Las gobernaciones departamentales, a través de las secretarías de agricultura o la dependencia que designen, velarán porque los municipios actualicen el registro durante los tres (3) meses de cada año. (Ministerio de Agricultura y Desarrollo Rural Agencia de Desarrollo Rural - ADR, 2019).
       .col-lg-6  
         figure 
           img(src='@/assets/curso/temas/tema4/img-7.png', alt='')    
