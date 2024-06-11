@@ -2,14 +2,18 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 66%
+    right: 82%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
+    top: 60%
+    right: 5%
+  &-3
+    animation: float1 1.8s ease-in-out infinite alternate
+    position: absolute
+    top: 21%
+    right: 82%
 
 @keyframes float1
   0%
@@ -17,3 +21,149 @@
 
   100%
     transform: translateY(0px)
+
+.banner-interno__fondo
+  background-image: url(../assets/curso/portada/fondo-banner.svg)  !important  
+
+  
+.fnd-1.bloque-texto-f.color-secundario:before 
+    background-color: #F6F6F6 !important
+.fnd-1
+  .bloque-texto-f__comillas i 
+    color: $color-secundario
+.fnd-1-
+  .bloque-texto-f__comillas i 
+    color: $color-acento-botones
+.fnd-2
+    background-color: $color-primario
+    p 
+      color: white !important
+.fnd-3.bloque-texto-f.color-primario:before 
+    background-color: $color-primario
+.fnd-3
+  .bloque-texto-f__comillas i 
+    color: $color-secundario  
+.fnd-4
+  background-color: #43C0FF  !important  
+.img-fnd-flot
+  position: relative
+  width: 100%
+  .fl-box
+    color: #fff
+    padding: 20px
+    border-radius: 1rem
+    margin-top: 1rem
+    background-color: #FFD5B8
+  .b-img
+      display: none  
+  @media (min-width: 992px)
+    .b-img
+      display: block
+      width: 100%                                                                                                                                                                                                                                                           
+    .fl-box
+      position: absolute
+      background-color: #ffffff00
+      top: 48%
+      transform: translatey(-52%)
+      width: 70%
+      color: #fff
+      padding: 20px
+      border-radius: 1rem
+      p
+        color: black      
+        font-size: 0.9rem !important
+        
+
+.img-fnd-flot2
+  position: relative
+  width: 100%
+  .fl-box2
+    position: absolute
+    background-color: #ffffff00
+    top: 50%
+    left: 6%
+    transform: translatey(-47%)
+    width: 82%
+    color: #fff
+    padding: 20px
+    border-radius: 1rem
+    p
+      font-size: 0.6rem !important
+      color: white
+  .b-img2
+  .fl-box2
+    width: 90%
+      
+  @media (min-width: 992px)
+    .b-img2
+      display: block
+      width: 100%                                                                                                                                                                                                                                                           
+    .fl-box2
+      top: 50%
+      transform: translatey(-50%)
+      p
+        font-size: 1rem !important
+                
+.linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title 
+    background-color: #99F2CE
+.linea-tiempo-d__item__content__slot 
+    background-color: #E4FBF2
+.linea-tiempo-d__item--selected    
+  .linea-tiempo-d__item__dots:after 
+    border-left: 5px dotted #01927F
+
+$crd-icon-size: 120px
+$crd-padding: 1.5rem
+$crd-width: calc(100% - ((#{$crd-icon-size} / 2))) 
+
+.crd_02 
+  position: relative
+  display: flex
+  flex-direction: row
+  justify-content: start
+  align-items: center   
+  z-index: 1
+  &::before
+    content: ""
+    position: absolute
+    top: 58%
+    right: 0
+    width: 94%
+    height: 100%
+    transform: translateY(-50%);
+    border-radius: 15px;
+    z-index: -1;
+    background-image: url(../assets/curso/temas/tema3/img-7.svg)
+    background-repeat: no-repeat
+    
+  &__icon
+    order: 1
+    flex-basis: auto
+    width: $crd-icon-size
+    margin-right: 15px
+    img   
+      width: $crd-icon-size
+  &__txt
+    flex: 1 
+    order: 2
+    p 
+      color: #fff !important 		
+	
+.list 
+  width: 100%
+  display: flex !important
+  &__item 
+    &__icon 
+      position: relative
+      width: 3rem
+      margin-right: 0.65rem
+      margin-top: 4px
+       
+  &__txt 
+    p:first-child,
+    h5:first-child     
+      margin-top: 0.8rem
+
+
+.img-38      
+  height: 38px
