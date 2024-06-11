@@ -45,6 +45,38 @@
     color: $color-secundario  
 .fnd-4
   background-color: #43C0FF  !important  
+.fnd-5
+  background-color: #E4FBF2 !important    
+.fnd-6
+  background-color: #F6F6F6 !important    
+  content: ""
+  background-repeat: no-repeat 
+  display: flex
+  justify-content: center
+  align-items: center
+  &-1 
+    background-image: url(../assets/curso/temas/tema2/1.png)
+  &-2
+    background-image: url(../assets/curso/temas/tema2/2.png)
+  &-3 
+    background-image: url(../assets/curso/temas/tema2/3.png)
+  &-4 
+    background-image: url(../assets/curso/temas/tema2/4.png)
+  &-5 
+    background-image: url(../assets/curso/temas/tema2/5.png)
+  &-6 
+    background-image: url(../assets/curso/temas/tema2/6.png)
+  &-7 
+    background-image: url(../assets/curso/temas/tema2/7.png)
+  &-8 
+    background-image: url(../assets/curso/temas/tema2/8.png)
+  &-9 
+    background-image: url(../assets/curso/temas/tema2/9.png)                                
+  &-10
+    background-image: url(../assets/curso/temas/tema2/10.png)
+  &-11
+    background-image: url(../assets/curso/temas/tema2/11.png)        
+
 .img-fnd-flot
   position: relative
   width: 100%
@@ -164,6 +196,87 @@ $crd-width: calc(100% - ((#{$crd-icon-size} / 2)))
     h5:first-child     
       margin-top: 0.8rem
 
-
 .img-38      
   height: 38px
+.tt 
+  color: #02DD84
+  background-color: #E4FBF2
+  border-radius: 1rem 0rem 1rem 0rem
+  display: flex
+  justify-content: center
+  align-items: center
+  h3 
+    font-size: 2rem
+    color: #02DD84
+    margin: 0
+
+.img-fnd-flot3
+  position: relative
+  width: 100%
+  .fl-box3
+    color: #fff
+    padding: 20px
+    margin-top: 1rem
+    background-color: #017B65
+    p
+      color: #ffffff
+  .b-img3
+    display: none
+  @media (min-width: 992px)
+    .b-img3
+      display: block
+      width: 100%
+
+    .fl-box3
+      position: absolute
+      background-color: #ffffff00
+      top: 47%
+      transform: translateY(-50%)
+      padding-left: 2rem
+      width: 61%
+      color: #fff
+      border-radius: 1rem
+
+      p
+        color: #ffffff
+        
+
+	  
+
+.crd_03 
+  position: relative
+  display: flex
+  flex-direction: row
+  justify-content: start
+  align-items: center 
+  padding: 1rem 1rem .5rem 0   
+  z-index: 1
+
+  &::before
+    content: ""
+    position: absolute
+    top: 0
+    right: 0
+    width: $crd-width
+    height: 100%    
+    background-color: #E4FBF2
+    border-radius: 15px
+    z-index: -1
+  &__icon
+    order: 1
+    flex-basis: auto
+    width: $crd-icon-size
+    img   
+      width: $crd-icon-size
+  &__txt
+    flex: 1 
+    order: 2    		
+	
+
+.tarjeta-avatar > img 
+    width: 120px  
+.tarjeta-avatar .tarjeta 
+  padding-top: 20px !important    
+  display: flex
+  justify-content: center
+  align-items: center
