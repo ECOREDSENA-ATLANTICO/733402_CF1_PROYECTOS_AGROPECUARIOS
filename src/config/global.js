@@ -318,31 +318,49 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
+          nombre: 'Roberto Augusto Bernal Duque',
+          cargo: 'Experto temático',
+          centro:
+            'Centro de Desarrollo Agroempresarial - Regional Cundinamarca',
+        },
+
+        {
+          nombre: 'Yeison Farid Méndez Ortiz',
+          cargo: 'Experto temático',
+          centro: 'Centro Agropecuario “La Granja” – Regional Tolima.',
+        },
+        {
+          nombre: 'Orlando Barón Méndez',
+          cargo: 'Experto temático',
+          centro:
+            'Centro de Desarrollo Agroempresarial - Regional Cundinamarca',
+        },
+        {
+          nombre: 'Paula Andrea Taborda Ortiz',
+          cargo: 'Diseñadora Instruccional',
+          centro: 'Centro de Diseño y Metrología – Regional Distrito Capital',
+        },
+        {
+          nombre: 'Sandra Patricia  Hoyos Sepúlveda',
+          cargo: 'Diseñadora Instruccional',
+          centro: 'Centro para la Industria de la Comunicación Gráfica',
+        },
+        {
+          nombre: 'Silvia Milena Sequeda Cárdenas',
+          cargo: 'Evaluadora Instruccional',
+          centro: 'Centro de diseño y Metrología – Regional Distrito Capital ',
+        },
+        {
           nombre: 'Rafael Neftalí Lizcano Reyes',
-          cargo: 'Responsable de Desarrollo Curricular',
+          cargo: 'Asesor pedagógico',
           centro:
-            'Centro Industrial del Diseño y la Manufactura Regional Santander',
+            'Centro Industrial del Diseño y la Manufactura – Regional Santander',
         },
         {
-          nombre: 'Diana Julieth Núñez Ortegón',
-          cargo: 'Experta Temática',
-          centro: 'Centro de Comercio y Servicio - Regional Tolima',
-        },
-        {
-          nombre: 'Paola Alexandra Moya Peralta',
-          cargo: 'Diseñadora instruccional',
+          nombre: 'Fabian Cuartas Donado',
+          cargo: 'Evaluador Instruccional',
           centro:
-            'Centro de la Industria, la Empresa y los Servicios - Regional Norte de Santander',
-        },
-        {
-          nombre: 'Carolina Coca Salazar',
-          cargo: 'Asesora Metodológica',
-          centro: 'Centro de Diseño y Metrología - Distrito Capital',
-        },
-        {
-          nombre: 'Sandra Patricia Hoyos Sepúlveda',
-          cargo: 'Corrector de estilo',
-          centro: 'Centro de Diseño y Metrología - Distrito Capital',
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
         },
       ],
     },
@@ -350,32 +368,32 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nelson Vera',
+          nombre: 'Carmen Alicia Martinez Torres',
+          cargo: 'Diseño web',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
+        },
+        {
+          nombre: 'Jorge Leonardo Camacho Pardo',
+          cargo: 'Desarrollo Fullstack',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
+        },
+        {
+          nombre: 'Eulises Orduz Amezquita',
+          cargo: 'Actividad Didáctica',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
+        },
+        {
+          nombre: 'Carmen Alicia Martinez Torres',
           cargo: 'Producción audiovisual',
           centro:
             'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
         {
-          nombre: 'Alexander acosta',
+          nombre: 'Alexander Rafael Acosta Bedoya',
           cargo: 'Producción audiovisual',
-          centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
-        },
-        {
-          nombre: 'Carmen Martínez',
-          cargo: 'Producción audiovisual',
-          centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
-        },
-        {
-          nombre: 'Jorge Leonardo Camacho',
-          cargo: 'Desarrollo Fullstack ',
-          centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
-        },
-        {
-          nombre: 'Carmen Martínez',
-          cargo: 'Diseño de contenidos digitales',
           centro:
             'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
@@ -384,18 +402,6 @@ export default {
     {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
-        {
-          nombre: 'Fabian Cuartas',
-          cargo: 'Validación de diseño y contenido',
-          centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
-        },
-        {
-          nombre: 'Gilberto Herrera',
-          cargo: 'Validación de diseño y contenido',
-          centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
-        },
         {
           nombre: 'Carolina Coca Salazar',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
@@ -409,7 +415,19 @@ export default {
             'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
         {
-          nombre: 'Jairo Valencia Ebrat',
+          nombre: 'Juan Carlos Cardona Acosta',
+          cargo: 'Validación de recursos digitales',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
+        },
+        {
+          nombre: 'Luz Karime Amaya',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
+        },
+        {
+          nombre: 'Jairo Luis Valencia Ebratt',
           cargo: 'Validación de recursos digitales ',
           centro:
             'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
