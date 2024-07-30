@@ -152,7 +152,7 @@
         .bloque-texto-g__texto.p-4
           p.mb-0 En el proceso de extensión agropecuaria los profesionales del sector deben realizar el acompañamiento a productores según el grado de organización, si son población dispersa pero definida por un territorio (vereda) o línea productiva (ganadera, agrícola, agroindustrial); si hacen parte de una organización comunitaria (asociación, cooperativa, etc.) o si tienen una empresa agropecuaria rural. En este acompañamiento el extensionista fortalece, capacita y acompaña a la organización en temas normativos para ello debe tener en cuenta el PDEA que en el artículo 29 lo define como el Plan departamental de extensión agropecuaria el cual es el instrumento de planificación cuatrienal en cada departamento, que en coordinación con sus municipios, distritos y demás actores del SNIA, definirá los elementos estratégicos y operativos para la prestación del servicio de extensión. En este mismo artículo 29 se hace referencia a los elementos mínimos que debe tener el PDEA (Congreso de Colombia, 2017):
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center
       .col-lg-4
         figure.mb-5
           img(src='@/assets/curso/temas/tema2/img-13.png', alt='')
@@ -225,8 +225,130 @@
                 img(src='@/assets/curso/temas/tema2/img-r.svg' alt='AvatarTop')
             h2.text-center
             p.text-center Desarrollo y uso de nuevas tecnologías para la información y la comunicación TIC para impulsar, apoyar y/o soportar los distintos procesos de gestión de conocimiento que hacen parte de la extensión agropecuaria.
-          
 
+
+    Separador
+    #2_1.titulo-segundo.color-acento-contenido
+      h2 2.3 Resolución 407 de octubre 30 de 2018
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-8
+        p <em>La Resolución 407 de 2018 en el Capítulo IV artículo 4.2 adopta los lineamientos para los Planes Departamentales de Extensión Agropecuaria que a continuación se describen:</em>
+        p <em>El PDEA como instrumento de planificación del subsistema de extensión agropecuaria. En la formulación se debe tener en cuenta documentos como el Plan Estratégico de Ciencia Tecnología para el Sector Agropecuario (PECTIA), planes y acuerdos estratégicos, Agendas integradas de competitividad, planes de desarrollo municipal, plan agropecuario municipal y departamental, Planes de Acción para la Transformación del Regional (PART), Planes de Desarrollo con Enfoque Territorial (PDET), Planes Integrales Comunitarios y Municipales de Sustitución y Desarrollo Alternativo (PISDA), Programa Nacional Integral de Sustitución de Cultivos de Uso Ilícito (PNIS), esquemas y planes de ordenamiento territorial vigentes, zonas de protección nacional, regional, local; aptitud y vocación de uso generados por la Unidad de Planificación Rural Agropecuaria (UPRA); Estudio general de suelos para los departamentos; Plan de Manejo y Ordenamiento de Cuencas (POMCA); datos del censo nacional agropecuario 2014.</em>
+
+      .col-lg-4
+        figure.mb-5
+          img(src='@/assets/curso/temas/tema2/img-14.png', alt='')
+
+
+
+    .row.justify-content-center.align-items-center
+      .col-lg-12
+        .titulo-sexto.color-acento-contenido
+          h5 Figura 3.
+          span Actores en el marco de formulación de los PDEA
+        .row.justify-content-center.align-items-center
+          .col-lg-12
+            figure.mb-5
+              ImagenInfografica.color-primario.mb-5
+                template(v-slot:imagen)
+                  figure
+                    img(src='@/assets/curso/temas/tema2/img-15-.png', alt='Actores en el marco de formulación de los PDEA: MADR. Adopción d lineamientos para la formulación de PDEA, resolución 407 de 2018(MADR) ADR. Acompañamiento técnico a la secretaria de agricultura departamentales en su tarea de formulación a través de sus UTT, en términos de metodología y articulación institucional.Departamentos. Contar con un equipo de profesionales para la formulación. Formular la PDEA en coordinación con sus municipios (CMDR), distritos y demás actores del SNIA. Realizar audiencias publicas regionales. Presentar PDEA ante la Asamblea para su aprobación.Municipios y/o Distrito. Contar con un equipo de profesionales para la formulación de proyectos. Formular los proyectos para la ejecución del PDEA.')
+                    figcaption Secretarios de Cadenas Pecuarias Ministerio de Agricultura
+
+
+                .tarjeta.fnd-7.p-3(x="13.8%" y="37.7%" numero="1")
+                  .h5.mb-2 MADR
+                  p.mb-0 Adopción de lineamientos para la formulación de PDEA
+                  p.mb-0.tx-1 Resolución 407 de 2018 (MADR)
+                  p.tx-2 01
+
+                .tarjeta.fnd-7.p-3(x="34.8%" y="37.7%" numero="2")
+                  .h5.mb-2 ADR
+                  p.mb-0 Acompañamiento técnico a las secretarias de agricultura departamentales en su tarea de formulación a través de sus UTT, en términos de 
+                    span.tx-1 metodologías y articulación institucional.
+                  p.tx-2 02
+
+                .tarjeta.fnd-7.p-3(x="56.6%" y="35.9%" numero="3")
+                  .h5.mb-2 Departamentos
+                  p.mb-0 ✔ Contar con un equipo de profesionales para la formulación.
+                  p.mb-0 ✔ Formular los PDEA en coordinación con sus municipios (CMDR), distritos y demás actores del SNIA.
+                  p.mb-0 ✔ Realizar audiencias publicas regionales
+                  p.mb-0 ✔ Presentar el PDEA ante la asamblea para su aprobación. 
+                  p.tx-2 03
+                .tarjeta.fnd-7.p-3(x="77.65%" y="35.9%" numero="4")
+                  .h5.mb-2 Municipios y/o distritos
+                  p.mb-0 ✔ Contar con un equipo de profesionales para la formulación de proyectos.
+                  p.mb-0 ✔ Formular los proyectos para la ejecución del PDEA.
+                  p.tx-2 04
+
+
+    .row.justify-content-center.align-items-center.mb-3
+      .col-lg-3
+        figure.mb-5
+          img(src='@/assets/curso/temas/tema2/img-16.png', alt='')
+
+      .col-lg-9
+        .list.mb-3(data-aos="fade-down")
+          .list__item
+            .list__item__icon
+              img(src='@/assets/curso/temas/tema4/img-2.svg', alt='')
+          .list__txt
+            h5.mb-0 Participación de los actores en la formulación del PDEA
+        p En la etapa de formulación participan los municipios y distritos, realizando el fortalecimiento de los Consejos Municipales de Desarrollo Rural (CMDR) que son los espacios de diálogo y concertación de las necesidades e iniciativas en materia de extensión agropecuaria; entre los actores que deben tener representación están las comunidades étnicas, las mujeres, los jóvenes y cualquier otra población.
+
+        .list.mb-3(data-aos="fade-down")
+          .list__item
+            .list__item__icon
+              img(src='@/assets/curso/temas/tema4/img-2.svg', alt='')
+          .list__txt
+            h5.mb-0 Formulación cuatrienal del PDEA
+        p Solo se debe formular para un periodo nomayor de cuatro años en los cuales las entidades prestadores del servicio de extensión agropecuaria prestarán el servicio a partir de las orientaciones del PDEA.
+
+        p Proceso de formulación del PDEA: 
+
+
+
+    TabsA.color-secundario.mb-5
+      .tarjeta.fnd-5.p-4(titulo="Preparación")
+        .row.justify-content-center.align-items-center.mb-5
+          .col-lg-8
+            p En esta etapa los equipos formuladores de las secretarías de agricultura departamental y con el acompañamiento técnico de la Agencia de Desarrollo Rural (ADR), determinan los tiempos, movimientos recursos, mecanismos de coordinación con los municipios y demás actores del SNIA para la puesta en marcha del proceso.
+          .col-lg-4
+            figure.mb-5
+              img(src='@/assets/curso/temas/tema2/img-18.svg', alt='')
+
+      .tarjeta.fnd-5.p-4(titulo="Diagnóstico")
+        .row.justify-content-center.align-items-center.mb-5
+          .col-lg-8
+            p Esta fase debe tener en cuenta tres consideraciones, primero revisión de la información secundaria, establecer las capacidades del territorio, tipos de cadenas productivas importantes, características demográfica y los instrumentos de planificación para el sector agropecuario; segundo identificación de principales problemas o retos cómo operan las cadenas productivas sus principales problemas o retos, etc y por último caracterización de los usuarios, que es el levantamiento de la información primaria con la que se clasifica a los productores por niveles según los criterios de gradualidad establecidos por el MADR en el instrumento de registro y clasificación de usuarios.
+          .col-lg-4
+            figure.mb-5
+              img(src='@/assets/curso/temas/tema2/img-18.svg', alt='')
+      .tarjeta.fnd-5.p-4(titulo="Análisis")
+        .row.justify-content-center.align-items-center.mb-5
+          .col-lg-8
+            p Se realiza el estudio de la información primaria y secundaria con el fin de establecer, en un primer lugar la composición socio productiva, segundo identificar las principales problemáticas, retos y brechas en extensión agropecuaria, tercero la población sujeto del servicio respecto a sus condiciones socioeconómicas, culturales y productivas y en cuarto lugar las características de los mercados en los que se mueven los productos agrícolas.
+          .col-lg-4
+            figure.mb-5
+              img(src='@/assets/curso/temas/tema2/img-18.svg', alt='')
+      .tarjeta.fnd-5.p-4(titulo="Identificación")
+        .row.justify-content-center.align-items-center.mb-5
+          .col-lg-8
+            p Es la base en la cual se concretarán los programas de extensión agropecuaria del PDEA los cuales deben incluir líneas de acción, ejes temáticos, estrategias, actividades, objetivos, indicadores, las metas a alcanzar y el cronograma. Luego desde los municipios y distritos se deben formular y ejecutar proyectos de extensión agropecuaria, teniendo en cuenta los parámetros establecidos en los programas de extensión agropecuaria del PDEA.
+          .col-lg-4
+            figure.mb-5
+              img(src='@/assets/curso/temas/tema2/img-18.svg', alt='')
+      .tarjeta.fnd-5.p-4(titulo="Divulgación del PDEA")
+        .row.justify-content-center.align-items-center.mb-5
+          .col-lg-8
+            p Al finalizar el proceso de formulación del PDEA, pasa a sanción de la Asamblea Departamental quien mediante ordenanza los aprueba y pasa a divulgarse a los actores del SNIA a través de medios electrónicos y/o físicos.
+          .col-lg-4
+            figure.mb-5
+              img(src='@/assets/curso/temas/tema2/img-18.svg', alt='')
+
+
+    
 </template>
 
 <script>
