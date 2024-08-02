@@ -12,7 +12,7 @@
 
 
     .row.justify-content-center.align-items-center
-      .col-lg-8
+      .col-lg-10
 
         .img-fnd-flot3.mb-3
           img.b-img3(src='@/assets/curso/temas/tema2/img-1.svg' alt='Background Image')
@@ -65,12 +65,12 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6    
-        figure
+        figure.mb-5
           img(src='@/assets/curso/temas/tema2/img-4.png', alt='')         
       .col-lg-6      
         p.mb-4 La Ley 1876 de diciembre 27 de 2017 del Sistema Nacional de Innovación Agropecuaria, se establece con el objeto de crear y poner en marcha el Sistema Nacional de Innovación Agropecuaria (SNIA), compuesto por subsistemas, planes estratégicos, instrumentos de planificación y participación, plataformas de gestión, procedimientos para su implementación, así como mecanismos para su financiación, seguimiento y evaluación; además crea nuevas funciones, competencias y mecanismos de articulación de las entidades y organismos de coordinación del orden nacional y territorial que componen el SNIA y crea el servicio público de extensión agropecuaria y normas para su prestación (Diciembre 27 de 2017 DO N° 50.461).
-        p La Ley 1876 de 2017 se crea en el artículo 4 del SNIA, como un subsistema del Sistema Nacional de Competitividad, Ciencia, Tecnología e Innovación (SNCCT), que será coordinado por el Ministerio de Agricultura y Desarrollo Rural (MADR); el SNIA está integrado por tres subsistemas:
-        .row.justify-content-center.align-items-center.mb-5
+        p.mb-5 La Ley 1876 de 2017 se crea en el artículo 4 del SNIA, como un subsistema del Sistema Nacional de Competitividad, Ciencia, Tecnología e Innovación (SNCCT), que será coordinado por el Ministerio de Agricultura y Desarrollo Rural (MADR); el SNIA está integrado por tres subsistemas:
+        .row.justify-content-center.align-items-center
           .row.tt.mb-2
             .col-2
               h3.mb-0 01	
@@ -96,7 +96,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-12
             figure.mb-5
-              img(src='@/assets/curso/temas/tema2/img-5.png', alt='')
+              img(src='@/assets/curso/temas/tema2/img-5-.png', alt='')
               figcaption Nota. Elaboración propia
 
 
@@ -104,13 +104,13 @@
       .col-lg-6
         p En la formulación de proyectos productivos agropecuarios se debe tener en cuenta las orientaciones que en materia de normatividad existente en el país, la Ley 1876 de 2017 Diciembre 27 de 2017 DO N° 50.461 es el marco normativo que guía la política agraria en Colombia; en el Título III, artículo 24 define la extensión agropecuaria como un bien y un servicio de carácter público, permanente y descentralizado; y comprende las acciones de acompañamiento integral orientadas a diagnosticar, recomendar, actualizar, capacitar, transferir, asistir, empoderar y generar competencias en los productores agropecuarios para que estos incorporen en su actividad productiva prácticas, productos tecnológicos, tecnologías, conocimientos y comportamientos que beneficien su desempeño y mejoren su competitividad y sostenibilidad, así como su aporte a la seguridad alimentaria y su desarrollo como ser humano integral.
 
-        p La norma establece cinco aspectos que se deben tener en cuenta en el momento de prestar el servicio de extensión agropecuaria, como son:
+        p.mb-5 La norma establece cinco aspectos que se deben tener en cuenta en el momento de prestar el servicio de extensión agropecuaria, como son:
 
       .col-lg-6
         figure.mb-5
           img(src='@/assets/curso/temas/tema2/img-6.png', alt='')
 
-    .row.justify-content-center.d-flex.align-items-stretch.mb-5
+    .row.justify-content-center.d-flex.align-items-stretch
     
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
@@ -143,7 +143,7 @@
             .p-3
               h6.text-center Desarrollo de habilidades para la participación de los productores en espacios de política pública.
     
-    p Al mismo tiempo estos aspectos hacen parte de la herramienta de registro y clasificación de usuarios en la que se debe registrar a los productores para poder ser beneficiarios de los proyectos agropecuarios que sean gestionados en el municipio.
+    p.mb-5 Al mismo tiempo estos aspectos hacen parte de la herramienta de registro y clasificación de usuarios en la que se debe registrar a los productores para poder ser beneficiarios de los proyectos agropecuarios que sean gestionados en el municipio.
 
     .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5
         .bloque-texto-g__img(
@@ -160,71 +160,52 @@
 
         SlyderF.mb-5(columnas="col-lg-6 col-xl-6")
           .tarjeta.color-acento-botones.p-4.fnd-6.fnd-6-1
-            .row.justify-content-center.mb-3
-              .col-8
-                img(src='@/assets/curso/temas/tema2/img-r.svg' alt='AvatarTop')
-            h2.text-center 
-            p.text-center Líneas productivas priorizadas a atender mediante los servicios de extensión agropecuaria, sus limitantes y requerimientos.
+            .row.justify-content-center.align-items-end
+              .col-lg-12
+                p.text-center.mb-5 Líneas productivas priorizadas a atender mediante los servicios de extensión agropecuaria, sus limitantes y requerimientos.
 
           .tarjeta.color-acento-botones.p-4.fnd-6.fnd-6-2
-            .row.justify-content-center.mb-3
-              .col-8
-                img(src='@/assets/curso/temas/tema2/img-r.svg' alt='AvatarTop')
-            h2.text-center 
-            p.text-center Población objeto del servicio caracterizada respecto a sus condiciones socioeconómicas, culturales y productivas.
+            .row.justify-content-center.align-items-end
+              .col-lg-12
+                p.text-center.mb-5 Población objeto del servicio caracterizada respecto a sus condiciones socioeconómicas, culturales y productivas.
           .tarjeta.color-acento-botones.p-4.fnd-6.fnd-6-3
-            .row.justify-content-center.mb-3
-
-            h2.text-center 
-            p.text-center.px-3 Estrategias y actividades requeridas para dar solución a las problemáticas y/o potenciar los sistemas productivos, el capital social, el capital humano, y la gestión de los recursos naturales, con sus respectivos cronogramas de ejecución.
+            .row.justify-content-center.align-items-end
+              .col-lg-12
+                p.text-center.mb-5 Estrategias y actividades requeridas para dar solución a las problemáticas y/o potenciar los sistemas productivos, el capital social, el capital humano, y la gestión de los recursos naturales, con sus respectivos cronogramas de ejecución.
           .tarjeta.color-acento-botones.p-4.fnd-6.fnd-6-4
-            .row.justify-content-center.mb-3
-              .col-8
-                img(src='@/assets/curso/temas/tema2/img-r.svg' alt='AvatarTop')
-            h2.text-center 
-            p.text-center Los objetivos, indicadores y metas en términos de productividad, competitividad y generación de ingresos.
+            .row.justify-content-center.align-items-end
+              .col-lg-12
+                p.text-center.mb-5 Los objetivos, indicadores y metas en términos de productividad, competitividad y generación de ingresos.
           .tarjeta.color-acento-botones.p-4.fnd-6.fnd-6-5
-            .row.justify-content-center.mb-3
-              .col-8
-                img(src='@/assets/curso/temas/tema2/img-r.svg' alt='AvatarTop')
-            h2.text-center 
-            p.text-center La planificación financiera y de gastos asociados a la prestación del servicio.
+            .row.justify-content-center.align-items-end
+              .col-lg-12
+                p.text-center.mb-5 La planificación financiera y de gastos asociados a la prestación del servicio.<br><br><br>
 
           .tarjeta.color-acento-botones.p-4.fnd-6.fnd-6-6
-            .row.justify-content-center.mb-3
-
-            h2.text-center 
-            p.text-center Programas y proyectos regionales para la generación de capacidades, acceso a mercados y provisión de bienes, servicios e infraestructura sectorial, con los cuales deba articularse el servicio de extensión agropecuaria.
+            .row.justify-content-center.align-items-end
+              .col-lg-12
+                p.text-center.mb-5 Programas y proyectos regionales para la generación de capacidades, acceso a mercados y provisión de bienes, servicios e infraestructura sectorial, con los cuales deba articularse el servicio de extensión agropecuaria.
           .tarjeta.color-acento-botones.p-4.fnd-6.fnd-6-7
-            .row.justify-content-center.mb-3
-              .col-8
-                img(src='@/assets/curso/temas/tema2/img-r.svg' alt='AvatarTop')
-            h2.text-center 
-            p.text-center Las acciones regionales de manejo sostenible de los recursos naturales, de gestión del riesgo agroclimático y de adaptación al cambio climático.
+            .row.justify-content-center.align-items-end
+              .col-lg-12
+                p.text-center.mb-5 Las acciones regionales de manejo sostenible de los recursos naturales, de gestión del riesgo agroclimático y de adaptación al cambio climático.
           .tarjeta.color-acento-botones.p-4.fnd-6.fnd-6-8
-            .row.justify-content-center.mb-3
-              .col-8
-                img(src='@/assets/curso/temas/tema2/img-r.svg' alt='AvatarTop')
-            h2.text-center
-            p.text-center Los sistemas territoriales de innovación, alianzas interinstitucionales, redes e iniciativas orientadas a la innovación agropecuaria regional, que deban ser articuladas con el servicio público de extensión agropecuaria.
+            .row.justify-content-center.align-items-end
+              .col-lg-12
+                p.text-center.mb-5 Los sistemas territoriales de innovación, alianzas interinstitucionales, redes e iniciativas orientadas a la innovación agropecuaria regional, que deban ser articuladas con el servicio público de extensión agropecuaria.
           .tarjeta.color-acento-botones.p-4.fnd-6.fnd-6-9
-            .row.justify-content-center.mb-3
-
-            h2.text-center 
-            p.text-center La articulación con los planes y programas de prestación de servicios de extensión o asistencia técnica agropecuaria adelantados con recursos de los Fondos Parafiscales Agropecuarios y Pesqueros. En el caso que el PDEA incluya productores ya beneficiados por la parafiscalidad agropecuaria, en la definición de la tarifa del servicio no se tendrá en cuenta el aporte correspondiente.
+            .row.justify-content-center.align-items-end
+              .col-lg-12
+                p.text-center.mb-5 La articulación con los planes y programas de prestación de servicios de extensión o asistencia técnica agropecuaria adelantados con recursos de los Fondos Parafiscales Agropecuarios y Pesqueros. En el caso que el PDEA incluya productores ya beneficiados por la parafiscalidad agropecuaria, en la definición de la tarifa del servicio no se tendrá en cuenta el aporte correspondiente.
 
           .tarjeta.color-acento-botones.p-4.fnd-6.fnd-6-10
-            .row.justify-content-center.mb-3
-              .col-8
-                img(src='@/assets/curso/temas/tema2/img-r.svg' alt='AvatarTop')
-            h2.text-center
-            p.text-center Programas y proyectos para mejorar y/o mantener el estatus sanitario, fitosanitario y de inocuidad en la producción agropecuaria.
+            .row.justify-content-center.align-items-end
+              .col-lg-12
+                p.text-center.mb-5 Programas y proyectos para mejorar y/o mantener el estatus sanitario, fitosanitario y de inocuidad en la producción agropecuaria.
           .tarjeta.color-acento-botones.p-4.fnd-6.fnd-6-11
-            .row.justify-content-center.mb-3
-              .col-8
-                img(src='@/assets/curso/temas/tema2/img-r.svg' alt='AvatarTop')
-            h2.text-center
-            p.text-center Desarrollo y uso de nuevas tecnologías para la información y la comunicación TIC para impulsar, apoyar y/o soportar los distintos procesos de gestión de conocimiento que hacen parte de la extensión agropecuaria.
+            .row.justify-content-center.align-items-end
+              .col-lg-12
+                p.text-center.mb-5 Desarrollo y uso de nuevas tecnologías para la información y la comunicación TIC para impulsar, apoyar y/o soportar los distintos procesos de gestión de conocimiento que hacen parte de la extensión agropecuaria.
 
 
     Separador
@@ -311,44 +292,398 @@
 
     TabsA.color-secundario.mb-5
       .tarjeta.fnd-5.p-4(titulo="Preparación")
-        .row.justify-content-center.align-items-center.mb-5
+        .row.justify-content-center.align-items-center
           .col-lg-8
             p En esta etapa los equipos formuladores de las secretarías de agricultura departamental y con el acompañamiento técnico de la Agencia de Desarrollo Rural (ADR), determinan los tiempos, movimientos recursos, mecanismos de coordinación con los municipios y demás actores del SNIA para la puesta en marcha del proceso.
           .col-lg-4
-            figure.mb-5
+            figure
               img(src='@/assets/curso/temas/tema2/img-18.svg', alt='')
 
       .tarjeta.fnd-5.p-4(titulo="Diagnóstico")
-        .row.justify-content-center.align-items-center.mb-5
+        .row.justify-content-center.align-items-center
           .col-lg-8
             p Esta fase debe tener en cuenta tres consideraciones, primero revisión de la información secundaria, establecer las capacidades del territorio, tipos de cadenas productivas importantes, características demográfica y los instrumentos de planificación para el sector agropecuario; segundo identificación de principales problemas o retos cómo operan las cadenas productivas sus principales problemas o retos, etc y por último caracterización de los usuarios, que es el levantamiento de la información primaria con la que se clasifica a los productores por niveles según los criterios de gradualidad establecidos por el MADR en el instrumento de registro y clasificación de usuarios.
           .col-lg-4
-            figure.mb-5
+            figure
               img(src='@/assets/curso/temas/tema2/img-18.svg', alt='')
       .tarjeta.fnd-5.p-4(titulo="Análisis")
-        .row.justify-content-center.align-items-center.mb-5
+        .row.justify-content-center.align-items-center
           .col-lg-8
             p Se realiza el estudio de la información primaria y secundaria con el fin de establecer, en un primer lugar la composición socio productiva, segundo identificar las principales problemáticas, retos y brechas en extensión agropecuaria, tercero la población sujeto del servicio respecto a sus condiciones socioeconómicas, culturales y productivas y en cuarto lugar las características de los mercados en los que se mueven los productos agrícolas.
           .col-lg-4
-            figure.mb-5
+            figure
               img(src='@/assets/curso/temas/tema2/img-18.svg', alt='')
       .tarjeta.fnd-5.p-4(titulo="Identificación")
-        .row.justify-content-center.align-items-center.mb-5
+        .row.justify-content-center.align-items-center
           .col-lg-8
             p Es la base en la cual se concretarán los programas de extensión agropecuaria del PDEA los cuales deben incluir líneas de acción, ejes temáticos, estrategias, actividades, objetivos, indicadores, las metas a alcanzar y el cronograma. Luego desde los municipios y distritos se deben formular y ejecutar proyectos de extensión agropecuaria, teniendo en cuenta los parámetros establecidos en los programas de extensión agropecuaria del PDEA.
           .col-lg-4
-            figure.mb-5
+            figure
               img(src='@/assets/curso/temas/tema2/img-18.svg', alt='')
       .tarjeta.fnd-5.p-4(titulo="Divulgación del PDEA")
-        .row.justify-content-center.align-items-center.mb-5
+        .row.justify-content-center.align-items-center
           .col-lg-8
             p Al finalizar el proceso de formulación del PDEA, pasa a sanción de la Asamblea Departamental quien mediante ordenanza los aprueba y pasa a divulgarse a los actores del SNIA a través de medios electrónicos y/o físicos.
           .col-lg-4
-            figure.mb-5
+            figure
               img(src='@/assets/curso/temas/tema2/img-18.svg', alt='')
 
 
+    .row.justify-content-center.align-items-center
+      .col-lg-12
+        .titulo-sexto.color-acento-contenido
+          h5 Figura 4.
+          span Enfoque de extensión agropecuaria desglosado en los cinco aspectos y sus respectivos componentes
+        .row.justify-content-center.align-items-center
+          .col-lg-12.fnd-9
+            .row.justify-content-center.align-items-center
+              .col-lg-12.fnd-10
+                h5.mt-4 Ministerio de Agricultura y Desarrollo Rural
+                h2 Aspectos del enfoque PDEA
+                h4.tx-1 Resolución 407 de 2018
+
+                LineaTiempoC.color-acento-botones
+                  .row(titulo="Desarrollo de capacidades humanas - tecnicas")
+                    .col-md-6.mb-4.mb-md-0.px-5
+                      p.mb-0 • Identificación de la actividad productiva principal.
+                      p.mb-0 • Identificación de actividades productivas secundarias.
+                      p.mb-0 • Tipo de herramientas y equipos empleados en el proceso productivo.
+                      p.mb-0 • Uso de Buenas Prácticas Agrícolas y Pecuarias.
+                      p.mb-0 • Estructuras de comercialización de los productos.
+                      p.mb-0 • Mercados.
+                      p.mb-0 • Valor agregado en los procesos de producción.
+                      p.mb-0 • Tipo mano de obra empleada.
+                      p.mb-5 • Acceso a crédito y bancarización.
+
+                    .col-md-6
+                      figure.mb-5
+                        img(src='@/assets/curso/temas/tema2/img-20.png')
+                  .row(titulo="Desarrollo de capacidades Sociales")
+                    .col-md-6.mb-4.mb-md-0.px-5
+                      p.mb-0 • Vinculación a algún tipo de organización.
+                      p.mb-0 • Realización de actividades productivas de manera colectiva.
+                      p.mb-0 • Procesos de emprendimiento y asociatividad.
+                      p.mb-0 • Participación en alianzas comerciales.
+                      p.mb-0 • Acceso a apoyo técnico para el manejo de su sistema productivo.
+                      p.mb-0 • Uso de sellos de calidad y certificaciones.
+                      p.mb-0 • Conocimiento sobre propiedad intelectual.
+
+                    .col-md-6
+                      figure
+                        img(src='@/assets/curso/temas/tema2/img-21.png')
+                  .row(titulo="Acceso a la información y uso de las TIC")
+                    .col-md-6.mb-4.mb-md-0.px-5
+                      p.mb-0 • Acceso a fuentes de información.
+                      p.mb-0 • Acceso a las TIC.
+                      p.mb-0 • Uso de las TIC como herramientas para la toma de decisiones.
+                      p.mb-0 • Habilidades y competencias en el uso de TIC.
+                      p.mb-0 • Apropiación social del conocimiento tradicional y científico.
+
+                    .col-md-6
+                      figure
+                        img(src='@/assets/curso/temas/tema2/img-22.png')
+                  .row(titulo="Sostenibilidad ambiental")
+                    .col-md-6.mb-4.mb-md-0.px-5
+                      p.mb-0 • Practicas de manejo y conservación del medio ambiente y de la biodiversidad.
+                      p.mb-0 • Prácticas ambientales sostenibles y/o sustentables.
+                      p.mb-0 • Actividades de mitigación y adaptación al cambio climático.
+                      p.mb-0 • Cumplimiento de normatividad ambiental.
+
+                    .col-md-6
+                      figure
+                        img(src='@/assets/curso/temas/tema2/img-23.png')
+                  .row(titulo="Habilidades para la participación política en instancias para tal fin")
+                    .col-md-6.mb-4.mb-md-0.px-5
+                      p.mb-0 • Conocimiento sobre instancias y mecanismos de participación.
+                      p.mb-0 • Conocimiento sobre herramientas para la participación.
+                      p.mb-0 • Ejercicio de control político y social.
+                      p.mb-0 • Fomento de la autogestión de las comunidades.
+
+                    .col-md-6
+                      figure
+                        img(src='@/assets/curso/temas/tema2/img-24.png')
+          figcaption Nota. Secretarios de Cadenas Pecuarias Ministerio de Agricultura
+
+    Separador
+    #2_4.titulo-segundo.color-acento-contenido
+      h2 2.4 Resolución 422 de 05 de julio de 2019
+
+    p.mb-5 Mediante esta resolución se reglamenta el artículo 33 de la Ley 1876 de 2017; tiene por objeto reglamentar la relación con el procedimiento y los requisitos de habilitación de las Entidades Prestadoras del Servicio de Extensión Agropecuaria (EPSEA) para la elaboración, publicación y actualización del registro de EPSEA habilitadas para la prestación del servicio público de extensión agropecuaria. A continuación, se relacionan los aspectos más relevantes:
+
+    .list.mb-3(data-aos="fade-down")
+          .list__item
+            .list__item__icon
+              img(src='@/assets/curso/temas/tema4/img-2.svg', alt='')
+          .list__txt
+            h5.mb-0 Requisitos de habilitación de Entidades Prestadoras del Servicio de Extensión Agropecuaria (EPSEA)
+    p Las entidades que pueden inscribirse en el registro de EPSEA son las que se encuentran en el artículo 32 de la ley 1876 de 2017 y que acrediten los requisitos del artículo 33 de la misma Ley. Las entidades que deseen constituirse como EPSEA deben tener un equipo mínimo con los siguientes perfiles:      
+
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-12.fnd-11
+        .row.justify-content-center.align-items-center
+          .col-lg-12.fnd-10
+            .tarjeta
+              SlyderA.py-3(tipo="b")
+                .row.p-4
+                  .col-md-6.mb-4.mb-md-0
+                    h5 Director: 
+                    p Un (1) profesional titulado en alguna de las siguientes profesiones: administración; economía; contaduría pública; agronomía; biología, microbiología y afines; ingeniería agrícola, forestal y afines; ingeniería agroindustrial, alimentos y afines; ingeniería agronómica, pecuaria y afines; medicina veterinaria; zootecnia; ingeniería administrativa y afines; ingeniería industrial y afines; antropología, artes liberales; sociología, trabajo social y afines; derecho; con tarjeta profesional vigente.
+
+                  .col-md-6
+                    figure
+                      img(src='@/assets/curso/temas/tema2/img-25.png')
+                .row.p-4
+                  .col-md-6.mb-4.mb-md-0
+                    h5 Coordinador de proyectos agropecuarios: 
+                    p Un (1) profesional titulado en alguna de las siguientes profesiones: agronomía; biología, microbiología y afines; ingeniería agrícola, forestal y afines; administración; economía; ingeniería agroindustrial, alimentos y afines; ingeniería agronómica, pecuaria y afines; medicina veterinaria; zootecnia, con tarjeta profesional vigente.
+                  .col-md-6
+                    figure
+                      img(src='@/assets/curso/temas/tema2/img-26.png')
+                .row.p-4
+                  .col-md-6.mb-4.mb-md-0
+                    h5 Coordinador administrativo y financiero:
+                    p Un (1) profesional titulado en alguna de las siguientes profesiones: administración; economía; contaduría pública; ingeniería industrial y afines con tarjeta profesional vigente.
+
+                  .col-md-6
+                    figure
+                      img(src='@/assets/curso/temas/tema2/img-27.png')
+                .row.p-4
+                  .col-md-6.mb-4.mb-md-0
+                    h5 Coordinador de procesos asociativos y comerciales:
+                    p Un (1) profesional titulado en alguna de las siguientes profesiones: administración; economía; ingeniería administrativa y afines; ingeniería industrial y afines; antropología, artes liberales; sociología, trabajo social y afines con tarjeta profesional vigente.
+
+                  .col-md-6
+                    figure
+                      img(src='@/assets/curso/temas/tema2/img-28.png')
+                .row.p-4
+                  .col-md-6.mb-4.mb-md-0
+                    h5 Coordinador ambiental: 
+                    p Un (1) profesional titulado en alguna de las siguientes profesiones: ingeniería ambiental, sanitaria y afines; ingeniería civil y afines; geología, otros programas de ciencias naturales; administración; ingeniería agrícola, forestal y afines; biología, microbiología y afines, con tarjeta profesional vigente.
+                    
+                  .col-md-6
+                    figure
+                      img(src='@/assets/curso/temas/tema2/img-29.png')
+                .row.p-4
+                  .col-md-6.mb-4.mb-md-0
+                    h5 Asesor jurídico: 
+                    p Un (1) profesional titulado en derecho, con tarjeta profesional vigente, con título de posgrado en alguno de los siguientes niveles de formación: especialización universitaria; maestría; doctorado. 
+                    
+                  .col-md-6
+                    figure
+                      img(src='@/assets/curso/temas/tema2/img-30.png')
+
+
+
+    .row.justify-content-center.align-items-center.mb-3
+      .col-lg-3
+        figure.mb-5
+          img(src='@/assets/curso/temas/tema2/img-31.png', alt='')
+
+      .col-lg-9
+        .list.mb-3(data-aos="fade-down")
+          .list__item
+            .list__item__icon
+              img(src='@/assets/curso/temas/tema4/img-2.svg', alt='')
+          .list__txt
+            h5.mb-0 Capacidades para ejecutar los PDEA
+        p Son las capacidades humanas, técnico productivas, de mercadeo y comercialización, así como las capacidades sociales integrales y el fortalecimiento de la asociatividad, desarrollo empresarial, innovación, investigación y uso de las TIC, gestión sostenible de recursos naturales y desarrollo de habilidades para la participación de los productores en la política pública sectorial, con que debe contar la entidad que pretende habilitarse como EPSEA.
+        .list.mb-3(data-aos="fade-down")
+          .list__item
+            .list__item__icon
+              img(src='@/assets/curso/temas/tema4/img-2.svg', alt='')
+          .list__txt
+            h5.mb-0 Vínculo comprobable con organizaciones de formación, capacitación, ciencia, tecnología e innovación
+        p En este ítem las entidades deben demostrar, mediante documento idóneo, que cuentan con vínculos vigentes, tales como contratos, convenios, alianzas y/o acuerdos, con entidades de educación, de formación y/o de capacitación en el sector agropecuario, o con centros de investigación y de desarrollo tecnológico, que en general adelanten actividades de ciencia, tecnología e innovación del sector agropecuario. 
+      .list.mb-3(data-aos="fade-down")
+        .list__item
+          .list__item__icon
+            img(src='@/assets/curso/temas/tema4/img-2.svg', alt='')
+        .list__txt
+          h5.mb-0 Capacidad Financiera 
+      p Las entidades deben acreditar la siguiente capacidad financiera: 1. Índice de Liquidez mayor o igual a 1.00 veces. (Activo Corriente / Pasivo Corriente); 2. Índice de endeudamiento menor o igual al 75.00%. (Pasivo Total / Activo Total).
+      .list.mb-3(data-aos="fade-down")
+        .list__item
+          .list__item__icon
+            img(src='@/assets/curso/temas/tema4/img-2.svg', alt='')
+        .list__txt
+          h5.mb-0 Constitución y situación legal conforme
+      p Las entidades que deseen registrarse como EPSEA deben cumplir con los requisitos establecidos en el Artículo Noveno de la presente Ley.
+
     
+    .row.justify-content-center.align-items-center.mb-3
+      .col-lg-3
+        figure.mb-5
+          img(src='@/assets/curso/temas/tema2/img-32.png', alt='')
+
+      .col-lg-9
+        .list.mb-3(data-aos="fade-down")
+          .list__item
+            .list__item__icon
+              img(src='@/assets/curso/temas/tema4/img-2.svg', alt='')
+          .list__txt
+            h5.mb-0 Requisitos especiales para la habilitación de las Unidades Municipales de Asistencia Técnica Agropecuaria (UMATA), Centros Provinciales de Gestión Agroempresarial (CPGA)
+        p tanto las UMATA como los CPGA, pueden realizar el proceso de habilitación como EPSEA para poder prestar el servicio de Extensión Agropecuaria en el municipio correspondiente.
+        .list.mb-3(data-aos="fade-down")
+          .list__item
+            .list__item__icon
+              img(src='@/assets/curso/temas/tema4/img-2.svg', alt='')
+          .list__txt
+            h5.mb-0 RequisRecurso humano, formación profesional experiencia y desarrollo de competencias
+        p Las dos entidades UMATA y CPGA deben contar con un equipo de profesionales que presente los siguientes  perfiles:
+
+    .row.justify-content-center.align-items-center
+      .col-lg-12.fnd-12.mb-5
+        .row.justify-content-center.align-items-center
+          .col-lg-5.img-12.mb-4
+            img.img-425(src='@/assets/curso/temas/tema2/img-33-1-.svg' alt='Director: un (1) profesional en áreas agropecuarias o profesiones afines con el sector agropecuario, medio ambiental o pesquero con tarjeta profesional vigente; así como experiencia en el sector agropecuario, medio ambiente o pesquero no menor de tres (3) años.')
+            h5 Director: 
+            p un (1) profesional en áreas agropecuarias o profesiones afines con el sector agropecuario, medio ambiental o pesquero con tarjeta profesional vigente; así como experiencia en el sector agropecuario, medio ambiente o pesquero no menor de tres (3) años.
+          .col-lg-7.img-13.mb-4
+            img.img-426(src='@/assets/curso/temas/tema2/img-33-2-.svg' alt='Coordinador de proyectos agropecuarios: un (1) profesional titulado en alguna de las profesiones de los siguientes núcleos básicos de conocimiento en: agronomía; biología, microbiología y afines; ingeniería agrícola, forestal y afines; administración; economía; ingeniería agroindustrial, alimentos y afines; ingeniería agronómica, pecuaria y afines; medicina veterinaria; zootecnia, con tarjeta profesional vigente (si aplica), con título de posgrado en alguno de los siguientes niveles de formación: especialización universitaria; maestría; doctorado, con experiencia profesional específica de dos (2) años en coordinación, ejecución y supervisión de proyectos agropecuarios, pesquero, acuícola, forestal o desarrollo rural.')
+            h5 Coordinador de proyectos agropecuarios: 
+            p Un (1) profesional titulado en alguna de las profesiones de los siguientes núcleos básicos de conocimiento en: agronomía; biología, microbiología y afines; ingeniería agrícola, forestal y afines; administración; economía; ingeniería agroindustrial, alimentos y afines; ingeniería agronómica, pecuaria y afines; medicina veterinaria; zootecnia, con tarjeta profesional vigente (si aplica), con título de posgrado en alguno de los siguientes niveles de formación: especialización universitaria; maestría; doctorado, con experiencia profesional específica de dos (2) años en coordinación, ejecución y supervisión de proyectos agropecuarios, pesquero, acuícola, forestal o desarrollo rural.
+
+
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-8
+          .list.mb-3(data-aos="fade-down")
+            .list__item
+              .list__item__icon
+                img(src='@/assets/curso/temas/tema4/img-2.svg', alt='')
+            .list__txt
+              h5.mb-0 Capacidades para ejecutar los Planes Departamentales de Extensión Agropecuaria (PDEA): 
+          p Se definen como las capacidades humanas técnico-productivas, de mercadeo y comercialización, así como las capacidades sociales integrales y el fortalecimiento de la asociatividad, desarrollo empresarial, innovación, investigación y uso de las TIC, gestión sostenible de recursos naturales y desarrollo de habilidades para la participación de los productores en la política pública sectorial, con que debe contar la entidad que pretende habilitarse como EPSEA.
+          p Vínculo comprobable con organizaciones de formación, capacitación, ciencia, tecnología e innovación: las entidades UMATA y CPGA que pretendan habilitarse como EPSEA, deberán cumplir con los mismos requisitos que las entidades privadas y que se relacionaron anteriormente.
+        .col-lg-4
+          figure.mb-5
+            img(src='@/assets/curso/temas/tema2/img-34.png', alt='')
+
+
+
+    .row.justify-content-center
+      .col-xl-8
+        .tarjeta.p-3.fnd-13
+          .row.justify-content-around.align-items-center
+            .col-auto
+              img(src="@/assets/curso/temas/tema3/img-6.svg").img65
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  p.mb-0 Para mayor información sobre requisitos solicitados por la ley pueden dirigirse al enlace, donde encontrarán la normatividad vigente en el sector agropecuario en Colombia.
+                .col-sm-auto
+                  a.boton.color-acento-botones(href="https://www.minagricultura.gov.co/ministerio/direcciones/Documents/Resoluci%C3%B3n%200422%20del%2005-07-2019.pdf" target="_blank")
+                    span Enlace
+                    i.fas.fa-file-download
+
+      
+    Separador
+    #2_5.titulo-segundo.color-acento-contenido
+      h2 2.5 Decreto 1319 de 01 de octubre 2020 - Fondo Nacional de Extensión Agropecuaria (FNEA)
+    
+    p.mb-5  El Decreto Ley 1319 define la naturaleza, el objeto y la forma de operación del fondo, importante para el entendimiento de la reglamentación referente a la administración de los recursos que beneficiarán los usuarios del servicio público de extensión agropecuaria. 
+
+    .row.justify-content-center.align-items-center
+      .col-lg-10
+
+        .bloque-texto-f.color-secundario.pt-4.px-5.fnd-1-.fnd-1
+          .bloque-texto-f__comillas
+            i.fas.fa-quote-left
+            i.fas.fa-quote-right
+          h5.text-regular.bloque-texto-f__texto El Fondo Nacional de Extensión Agropecuaria (FNEA) operará como una cuenta, sin personería jurídica, conformado por subcuentas departamentales y/o subsectoriales, adscrito y bajo la administración de la Agencia de Desarrollo Rural (ADR), el cual estará destinado a la financiación de la prestación del servicio Público de Extensión Agropecuaria, ejecutado a través de los Planes Departamentales de Extensión Agropecuaria (PDEA).
+          
+          .bloque-texto-f__autor.mb-3
+            h5.mb-0 (Decreto ley 1319 de 2020)
+
+
+    .row.justify-content-center.align-items-center.mb-5.fnd-14.p-5
+      .col-lg-12
+        h5.mb-5 Según reza el Decreto, los recursos del FNEA de acuerdo con lo establecido estarán conformados por:
+      .row.d-flex.align-items-stretch.mb-3
+        .col-lg-3.mb-5
+          .tarjeta-numerada.color-secundario.p-der
+            .tarjeta-numerada__numero
+              .h2 1.
+            p Los recursos propios de los entes territoriales. 
+        .col-lg-3.mb-4
+          .tarjeta-numerada.color-acento-botones.p-der
+            .tarjeta-numerada__numero
+              .h2.text-white 2.
+            p Los recursos del presupuesto general de la nación. 
+        .col-lg-3.mb-4
+          .tarjeta-numerada.color-secundario.p-der
+            .tarjeta-numerada__numero
+              .h2 3.
+            p Los recursos de libre inversión del componente de propósito general del sistema general de participaciones. 
+        .col-lg-3.mb-4
+          .tarjeta-numerada.color-acento-botones.p-der
+            .tarjeta-numerada__numero
+              .h2.text-white 4.
+            p Los recursos de cooperación internacional. 
+      .row.justify-content-center.mb-3        
+        .col-lg-6.mb-4
+          .tarjeta-numerada.color-secundario.px-5.py-3
+            .tarjeta-numerada__numero
+              .h2 5.
+            p Los instrumentos financieros creados en el marco del sistema nacional de crédito agropecuario. 
+        .col-lg-6.mb-4
+          .tarjeta-numerada.color-acento-botones.px-5.py-2
+            .tarjeta-numerada__numero
+              .h2.text-white 6.
+            p Los recursos del sistema general de regalías, de acuerdo con las disposiciones de la comisión rectora y de los órganos colegiados de administración y decisión.
+      .row.justify-content-center           
+        .col-lg-5.mb-4
+          .tarjeta-numerada.color-secundario.px-5.py-4
+            .tarjeta-numerada__numero
+              .h2 7.
+            p Las donaciones de personas naturales o jurídicas, nacionales o extranjeras y organismos internacionales, de conformidad con la normatividad vigente. 
+        .col-lg-7.mb-4
+          .tarjeta-numerada.color-acento-botones.px-5.py-2
+            .tarjeta-numerada__numero
+              .h2.text-white 8.
+            p Por último, los aportes de las entidades públicas del orden nacional o territorial, de organizaciones internacionales o de entidades privadas, deberán ser únicamente en dinero y consignados en la fiducia dispuesta por la agencia de desarrollo rural, de conformidad con lo previsto en el manual de operación del FNEA.
+
+
+    .row.justify-content-center.mb-5
+      .col-xl-8
+        .tarjeta.p-3.fnd-13.fnd-13-
+          .row.justify-content-around.align-items-center
+            .col-auto
+              img(src="@/assets/curso/temas/tema3/img-6.svg").img65
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  p.mb-0 Para mayor información sobre los lineamientos establecidos en el decreto 1319 de 2020 pueden dirigirse al enlace, donde encontrarán el decreto único del sector administrativo agropecuario, pesquero y de desarrollo rural, relacionado con el Fondo Nacional de Extensión Agropecuaria - FNEA.
+                .col-sm-auto
+                  a.boton.color-acento-botones(href="https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=142845" target="_blank")
+                    span Enlace
+                    i.fas.fa-file-download
+
+
+    figure.mb-5
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+    p.mb-5 El documento adjunto llamado lineamientos estratégicos de política pública para la agricultura campesina, familiar y comunitaria; es donde se direcciona la política de ACFC, en el marco conceptual, diagnóstico de la ACFC, teniendo como base los ejes estructurantes de los lineamientos de política pública ACFC de que trata el artículo 8 de la resolución 464 de 2017.
+
+    .row.justify-content-center
+      .col-xl-8
+        .tarjeta.p-3.fnd-13.fnd-13-
+          .row.justify-content-around.align-items-center
+            .col-auto
+              img(src="@/assets/curso/temas/tema3/img-6.svg").img65
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  p.mb-0 Para mayor información sobre los lineamientos establecidos en la resolución 464 de 2017 pueden dirigirse al enlace, donde encontrarán la normatividad vigente en el sector agropecuario en Colombia.
+                .col-sm-auto
+                  a.boton.color-acento-botones(href="https://www.minagricultura.gov.co/Normatividad/Resoluciones/Resoluci%C3%B3n%20No%20000464%20de%202017.pdf" target="_blank")
+                    span Enlace
+                    i.fas.fa-file-download
+
+
+
+
 </template>
 
 <script>

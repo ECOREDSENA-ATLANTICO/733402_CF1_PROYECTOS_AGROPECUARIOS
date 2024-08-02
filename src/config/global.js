@@ -50,29 +50,29 @@ export default {
           {
             numero: '2.1',
             titulo: 'Jerarquía de las normas en Colombia',
-            hash: 't_2_1',
+            hash: '2_1',
           },
           {
             numero: '2.2',
             titulo:
               'Sistema Nacional de Innovación Agropecuaria Ley 1876 de diciembre 27 de 2017',
-            hash: 't_2_2',
+            hash: '2_2',
           },
           {
             numero: '2.3',
             titulo: 'Resolución 407 de octubre 30 de 2018',
-            hash: 't_2_3',
+            hash: '2_3',
           },
           {
             numero: '2.4',
             titulo: 'Resolución 422 de 05 de julio de 2019',
-            hash: 't_2_4',
+            hash: '2_4',
           },
           {
             numero: '2.5',
             titulo:
               'Decreto 1319 de 01 de octubre 2020 - Fondo Nacional de Extensión Agropecuaria (FNEA)',
-            hash: 't_2_5',
+            hash: '2_5',
           },
         ],
       },

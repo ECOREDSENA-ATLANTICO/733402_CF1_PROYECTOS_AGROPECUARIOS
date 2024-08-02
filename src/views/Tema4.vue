@@ -8,9 +8,9 @@
       h1 Clasificación y registro de usuarios del servicio público de extensión agropecuaria
 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-3
       .col-lg-6
-        figure 
+        figure.mb-5 
           img(src='@/assets/curso/temas/tema4/img-1.png', alt='')
       .col-lg-6
         p Según el Ministerio de Agricultura y Desarrollo Rural Agencia de Desarrollo Rural - ADR, (2019), el registro de usuarios del servicio público de extensión agropecuaria, se establece como el proceso mediante el cual se caracteriza a los usuarios del servicio público de extensión agropecuaria, como factor determinante en la formulación de los Planes Departamentales de Extensión Agropecuaria (PDEA), de igual forma se utiliza para la gradualidad en el otorgamiento del subsidio a la tarifa, la focalización y priorización para la prestación del servicio (Ministerio de Agricultura y Desarrollo Rural Agencia de Desarrollo Rural - ADR, 2019).
@@ -21,7 +21,7 @@
           .list__txt
             h5.mb-0 Actores intervinientes
         p Los actores que intervienen en el registro de usuarios son cinco (5): 
-    .row.justify-content-start.align-items-center.mb-5
+    .row.justify-content-start.align-items-center.mb-3
       .col-lg-6 
         .row.justify-content-start.align-items-center
           .col-4
@@ -38,14 +38,13 @@
         figure 
           img(src='@/assets/curso/temas/tema4/img-7.png', alt='')    
 
-
-      .col-sm-auto
-        img.img-38(src='@/assets/curso/temas/tema4/img-6.svg', alt='')    
-      p Se encuentra la Agencia de Desarrollo Rural (ADR), quien será la encargada de gestionar la articulación de la información de los productores agropecuarios, ya sean desarrollados con recursos públicos o privados, dicha información será utilizada de acuerdo con las normas de Habeas Data. La información reposará en los servidores de la ADR, quien será la encargada de administrar y actuará como responsable en el tratamiento de los datos. De igual forma, la ADR tendrá la facultad de adelantar procesos sancionatorios a través de sus Unidades Técnicas Territoriales (UTT). (Ministerio de Agricultura y Desarrollo Rural Agencia de Desarrollo Rural - ADR, 2019).
-
+    figure.img-c 
+      img.img-38(src='@/assets/curso/temas/tema4/img-6.svg', alt='')    
+    p Se encuentra la Agencia de Desarrollo Rural (ADR), quien será la encargada de gestionar la articulación de la información de los productores agropecuarios, ya sean desarrollados con recursos públicos o privados, dicha información será utilizada de acuerdo con las normas de Habeas Data. La información reposará en los servidores de la ADR, quien será la encargada de administrar y actuará como responsable en el tratamiento de los datos. De igual forma, la ADR tendrá la facultad de adelantar procesos sancionatorios a través de sus Unidades Técnicas Territoriales (UTT). (Ministerio de Agricultura y Desarrollo Rural Agencia de Desarrollo Rural - ADR, 2019).
 
 
-    .row.justify-content-center.align-items-center.mb-5
+
+    .row.justify-content-center.align-items-center
       .col-xl-10
         .img-fnd-flot2.mb-5
           img.b-img2(src='@/assets/curso/temas/tema4/img-8.svg')
@@ -55,7 +54,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5
-        figure
+        figure.mb-5
           img(src='@/assets/curso/temas/tema4/img-9.png', alt='')    
       .col-lg-7
         .list.mb-3(data-aos="fade-down")
@@ -129,9 +128,9 @@
 
     .row.justify-content-center.align-items-center
       .col-xl-8
-        .img-fnd-flot2.mb-5
+        .img-fnd-flot2.mb-5.img-3
           img.b-img2(src='@/assets/curso/temas/tema4/img-13.svg')
-          .fl-box2
+          .fl-box2.fl-box4
             p.mb-3 El método de clasificación se enmarca en aplicar una serie de preguntas por cada componente definido (30), de tal modo que permita una calificación del 1 al 4, donde 1 es el escenario básico y 4 el escenario superior o ideal (Ministerio de Agricultura y Desarrollo Rural Agencia de Desarrollo Rural - ADR, 2019).
 
 
@@ -145,27 +144,29 @@
     
     .row.justify-content-center.align-items-center.mb-5
       .col-xl-4
-        figure
+        figure.mb-5
           img(src='@/assets/curso/temas/tema4/img-14.png', alt='')
       .col-xl-8 
         p Según el Ministerio de agricultura y desarrollo rural agencia de desarrollo rural, (2019): el Plan Departamental de Extensión Agropecuaria (PDEA), es el instrumento de planificación cuatrienal en el cual cada departamento, en coordinación con sus municipios, distritos y demás actores del SNIA, mediante el cual se definirán los elementos estratégicos y operativos para la prestación del servicio de extensión agropecuaria.
         p De acuerdo a lo anterior, el Ministerio de agricultura y desarrollo rural, definió los lineamientos para la formulación de los PDEA, donde resaltó la importancia de identificar los niveles donde se encuentran los usuarios de extensión, cuyo resultado permita definir las brechas de productores, sistemas productivos y territorio. (Ministerio de Agricultura y Desarrollo Rural Agencia de Desarrollo Rural - ADR, 2019).
-        p Por último, se ha diseñado una herramienta para el diagnóstico territorial de usuarios, donde se puede detallar el nivel en que se encuentran los usuarios por cada aspecto del enfoque para la prestación del servicio, la media geométrica individual definida por cada aspecto y la meta definida por el territorio. (Ministerio de Agricultura y Desarrollo Rural Agencia de Desarrollo Rural - ADR, 2019).
-
-        .crd_02
-          .crd_02__icon.dan
-            img(src="@/assets/curso/temas/tema3/img-6.svg", alt="alt")          
-          .crd_02__txt
-            .row.justify-content-between.align-items-center
-              .col.mb-3.mb-sm-0
-                p.small Para mayor información sobre los lineamientos establecidos en la resolución 464 de 2017 pueden dirigirse al enlace, donde encontrarán la normatividad vigente en el sector agropecuario en Colombia.
-              .col-sm-auto
-                a.boton.color-acento-botones.texto-blanco(:href="('https://www.corporacionpba.org/irp/herramientas/Etapa_I/punto_de_partida/paso2_drp/Diagnostico_Rural_Participativo.pdf')" target="_blank")
-                  span Enlace
-                  i.fas.fa-file-download
-              .col-1  
+        p.mb-5 Por último, se ha diseñado una herramienta para el diagnóstico territorial de usuarios, donde se puede detallar el nivel en que se encuentran los usuarios por cada aspecto del enfoque para la prestación del servicio, la media geométrica individual definida por cada aspecto y la meta definida por el territorio. (Ministerio de Agricultura y Desarrollo Rural Agencia de Desarrollo Rural - ADR, 2019).
 
 
+
+
+
+        .tarjeta.p-3.fnd-8.fn
+          .row.justify-content-around.align-items-center
+            .col-auto
+              img(src="@/assets/curso/temas/tema3/img-6.svg").img65
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  p.mb-0 Para mayor información sobre los lineamientos establecidos en la resolución 464 de 2017 pueden dirigirse al enlace, donde encontrarán la normatividad vigente en el sector agropecuario en Colombia.
+                .col-sm-auto
+                  a.boton.color-acento-botones(href="https://www.corporacionpba.org/irp/herramientas/Etapa_I/punto_de_partida/paso2_drp/Diagnostico_Rural_Participativo.pdf" target="_blank")
+                    span Enlace
+                    i.fas.fa-file-download
 
 
 </template>

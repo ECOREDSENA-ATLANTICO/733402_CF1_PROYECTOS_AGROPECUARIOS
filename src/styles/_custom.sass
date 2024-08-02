@@ -24,7 +24,8 @@
 
 .banner-interno__fondo
   background-image: url(../assets/curso/portada/fondo-banner.svg)  !important  
-
+.banner-principal__img
+  width: 400px !important
   
 .fnd-1.bloque-texto-f.color-secundario:before 
     background-color: #F6F6F6 !important
@@ -53,7 +54,7 @@
   background-repeat: no-repeat 
   display: flex
   justify-content: center
-  align-items: center
+  align-items: end
   &-1 
     background-image: url(../assets/curso/temas/tema2/1.png)
   &-2
@@ -78,6 +79,141 @@
     background-image: url(../assets/curso/temas/tema2/11.png)        
 .fnd-7
   background-color: #ffffff !important 
+
+.fnd-8
+  position: relative
+  display: flex
+  flex-direction: row
+  justify-content: left
+  align-items: center   
+  z-index: 1
+  p,span,i  
+    color: #fff !important
+  &::before
+    content: ""
+    position: absolute
+    top: 50%
+    right: 0
+    width: 90%
+    height: 100%
+    transform: translateY(-50%)
+    border-radius: 15px 0 15px 0
+    z-index: -1
+    background-repeat: no-repeat
+    background-color: #017561
+    background-image: url(../assets/curso/temas/tema3/img-7.svg)
+    background-size: cover
+  @media (min-width: 1200px)
+    &::before
+      content: ""
+      position: absolute
+      top: 66%
+      right: 0
+      width: 94%
+      height: 100%
+      transform: translateY(-50%)
+      border-radius: 15px
+      background-image: url(../assets/curso/temas/tema3/img-7.svg)
+      background-color: #01756200
+  @media (min-width: 992px) and (max-width: 1200px)  
+    &::before
+      top: 68%
+      left: 39%
+      width: 92%
+      height: 100%
+      transform: translate(-33%, -50%)
+      background-image: url(../assets/curso/temas/tema3/img-7.svg)
+      background-color: #01756200
+
+.fnd-8.fn
+  @media (min-width: 1200px)
+    &::before
+      top: 53%
+      right: 0
+      width: 94%
+      height: 86%
+      transform: translateY(-56%)
+      background-color: #017561
+      background-size: cover
+
+.fnd-9
+  background: url('../assets/curso/temas/tema2/fnd-1.svg')
+  background-position: center
+  background-size: cover
+  background-repeat: no-repeat
+  padding: 2rem
+  margin-inline: -3.4rem
+  border-radius: 1.5rem
+
+  
+.fnd-10
+  background-color: #fff
+  border-radius: 1.5rem
+
+  h2, h4 
+    text-align: center
+.fnd-11
+  background: url('../assets/curso/temas/tema2/fnd-2.svg')
+  background-position: center
+  background-size: cover
+  background-repeat: no-repeat
+  padding: 2rem
+  margin-inline: -3.4rem
+  border-radius: 1.5rem
+.fnd-12
+  background: url('../assets/curso/temas/tema2/fnd-3.svg')
+  background-position: center
+  background-size: cover
+  background-repeat: no-repeat
+  padding: 2rem
+.fnd-13-
+  &::before
+    background-image: url(../assets/curso/temas/tema2/fnd-6.svg) !important
+    background-color: #017561 !important
+.fnd-13
+  position: relative
+  display: flex
+  flex-direction: row
+  justify-content: left
+  align-items: center   
+  z-index: 1
+  p,span,i  
+    color: #fff !important
+  &::before
+    content: ""
+    position: absolute
+    top: 50%
+    right: 0
+    width: 90%
+    height: 100%
+    transform: translateY(-50%)
+    border-radius: 15px 0 15px 0
+    z-index: -1
+    background-repeat: no-repeat
+    background-color: #FF5E25
+    background-image: url(../assets/curso/temas/tema2/fnd-4.svg)
+    background-size: cover
+  @media (min-width: 1200px)
+    &::before
+      top: 50%
+      right: 0
+      width: 94%
+      height: 100%
+      transform: translateY(-50%)
+      border-radius: 15px
+      background-color: #01756200
+  @media (min-width: 992px) and (max-width: 1200px)  
+    &::before
+      top: 50%
+      left: 39%
+      width: 92%
+      height: 100%
+      transform: translate(-33%, -50%)
+      background-color: #01756200
+.fnd-14
+  background: url('../assets/curso/temas/tema2/fnd-5.svg')
+  background-size: cover
+  background-repeat: no-repeat 
 .tx-1
   color: #02DD84 !important
 .tx-2
@@ -86,6 +222,45 @@
   margin-bottom: 0
   font-weight: bold
   text-align: right
+.img-12
+  border: 6px solid #2E85B1
+  border-radius: 1rem
+  padding: 1rem
+  .img-425
+    display: none
+  @media (min-width: 992px)  
+    p, h5
+      display: none
+    border: 0px solid #2E85B1
+    border-radius: 0
+    padding: 5px
+    .img-425
+      display: block
+      min-height: 425px
+.img-13
+  border: 6px solid #FF9751
+  border-radius: 1rem
+  padding: 1rem
+  .img-426
+    display: none
+  @media (min-width: 992px)  
+    p, h5
+      display: none
+    border: 0px solid #FF9751
+    border-radius: 0
+    padding: 1px
+    .img-426
+      display: block
+      min-height: 425px
+
+
+.p-der
+  padding: 7px 6px 0px 1.9rem
+
+
+
+
+
 
 
 .img-fnd-flot
@@ -107,7 +282,7 @@
       position: absolute
       background-color: #ffffff00
       top: 48%
-      transform: translatey(-52%)
+      transform: translateY(-52%)
       width: 70%
       color: #fff
       padding: 20px
@@ -115,38 +290,76 @@
       p
         color: black      
         font-size: 0.9rem !important
-        
+  @media (min-width: 992px) and (max-width: 1200px)  
+    background-color: #FFD5B8
+    border-radius: 1rem
+    padding: 0
+
+    .b-img
+      display: block
+      height: auto
+      margin: 3rem 0 3rem 0
+    .fl-box
+      position: absolute
+      top: 48%
+      transform: translatey(-52%)
+      width: 70%
+      color: #fff
+      padding: 20px
+      border-radius: 1rem
 
 .img-fnd-flot2
   position: relative
   width: 100%
   .fl-box2
-    position: absolute
-    background-color: #ffffff00
-    top: 50%
-    left: 6%
-    transform: translatey(-47%)
-    width: 82%
     color: #fff
     padding: 20px
     border-radius: 1rem
+    margin-top: 1rem
+    background-color: #017662
     p
-      font-size: 0.6rem !important
-      color: white
+      color: #fff    
+  .fl-box4
+    background-color: #FF7A38 
   .b-img2
-  .fl-box2
-    width: 90%
-      
+      display: none  
   @media (min-width: 992px)
     .b-img2
       display: block
-      width: 100%                                                                                                                                                                                                                                                           
+      width: 900%                                                                                                                                                                                                                                                           
     .fl-box2
+      position: absolute
+      background-color: #ffffff00
       top: 50%
-      transform: translatey(-50%)
+      left: 6%
+      transform: translateY(-50%)
+      width: 82%
+      color: #fff
+      padding: 20px
+      border-radius: 1rem
       p
-        font-size: 1rem !important
-                
+        color: #fff      
+        font-size: 0.9rem !important
+  @media (min-width: 992px) and (max-width: 1200px)  
+
+    border-radius: 1rem
+    padding: 0
+
+    .b-img2
+      display: block
+      height: auto
+      margin: 3rem 0 3rem 0
+    .fl-box2
+      position: absolute
+      top: 48%
+      transform: translatey(-52%)
+      width: 70%
+      color: #fff
+      padding: 20px
+      border-radius: 1rem
+    .fl-box4
+      width: 90%
+  
 .linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title 
     background-color: #99F2CE
 .linea-tiempo-d__item__content__slot 
@@ -154,6 +367,14 @@
 .linea-tiempo-d__item--selected    
   .linea-tiempo-d__item__dots:after 
     border-left: 5px dotted #01927F
+
+
+.img-c 
+  justify-content: start
+  display: grid
+  margin: 0 auto
+  align-items: center
+
 
 $crd-icon-size: 120px
 $crd-padding: 1.5rem
@@ -302,3 +523,19 @@ $crd-width: calc(100% - ((#{$crd-icon-size} / 2)))
 
 .tabs-a__tab 
   background-color: #E8E8E8
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs 
+    background-color: #01927F
+    background-image: url(../assets/curso/temas/tema2/arrow.svg)
+
+.slyder-a__bullets__item 
+    background-color: #A6D9D2
+
+.slyder-a__bullets__item--active 
+    background-color: #01927F  
+
+
+
+
+
+
