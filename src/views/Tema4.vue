@@ -9,7 +9,7 @@
 
 
     .row.justify-content-center.align-items-center.mb-3
-      .col-lg-6
+      .col-lg-6.col-sm-10
         figure.mb-5 
           img(src='@/assets/curso/temas/tema4/img-1.png', alt='')
       .col-lg-6
@@ -22,24 +22,35 @@
             h5.mb-0 Actores intervinientes
         p Los actores que intervienen en el registro de usuarios son cinco (5): 
     .row.justify-content-start.align-items-center.mb-3
-      .col-lg-6 
+      .col-lg-6.col-sm-10 
         .row.justify-content-start.align-items-center
-          .col-4
-            figure
-              img.img-38(src='@/assets/curso/temas/tema4/img-3.svg', alt='')    
+          .img-fnd-flot8.mb-3
+            img.b-img8(src='@/assets/curso/temas/tema4/fnd-1.svg' alt='Background Image')
+            .fl-box8
+              h3.mb-0 Primer lugar:
+
           p Se encuentran los usuarios del servicio público de extensión agropecuaria quienes formarán parte las asociaciones u organizaciones de productores, estas deberán solicitar su inscripción y registro ante el municipio correspondiente al lugar donde se ubiquen los predios (Ministerio de Agricultura y Desarrollo Rural Agencia de Desarrollo Rural - ADR, 2019). 
-          .col-4
-            img.img-38(src='@/assets/curso/temas/tema4/img-4.svg', alt='')    
+          .img-fnd-flot8.mb-3
+            img.b-img9(src='@/assets/curso/temas/tema4/fnd-1.svg' alt='Background Image')
+            .fl-box8
+              h3.mb-0 Segundo lugar: 
           p En medida se encuentran las alcaldías municipales y distritales, a través de las secretarías de agricultura o la dependencia que designen, estos velarán por la veracidad de la información depositada en el registro.
-          .col-4
-            img.img-38(src='@/assets/curso/temas/tema4/img-5.svg', alt='')    
+          .img-fnd-flot8.mb-3
+            img.b-img9(src='@/assets/curso/temas/tema4/fnd-1.svg' alt='Background Image')
+            .fl-box8
+              h3.mb-0 Tercer lugar: 
           p Las gobernaciones departamentales, a través de las secretarías de agricultura o la dependencia que designen, velarán porque los municipios actualicen el registro durante los tres (3) meses de cada año. (Ministerio de Agricultura y Desarrollo Rural Agencia de Desarrollo Rural - ADR, 2019).
-      .col-lg-6  
+      .col-lg-6.col-sm-10  
         figure 
           img(src='@/assets/curso/temas/tema4/img-7.png', alt='')    
 
-    figure.img-c 
-      img.img-38(src='@/assets/curso/temas/tema4/img-6.svg', alt='')    
+
+
+    .img-fnd-flot8.mb-3
+      img.b-img8(src='@/assets/curso/temas/tema4/fnd-1.svg' alt='Background Image')
+      .fl-box8
+        h3.mb-0 Cuarto lugar:
+ 
     p Se encuentra la Agencia de Desarrollo Rural (ADR), quien será la encargada de gestionar la articulación de la información de los productores agropecuarios, ya sean desarrollados con recursos públicos o privados, dicha información será utilizada de acuerdo con las normas de Habeas Data. La información reposará en los servidores de la ADR, quien será la encargada de administrar y actuará como responsable en el tratamiento de los datos. De igual forma, la ADR tendrá la facultad de adelantar procesos sancionatorios a través de sus Unidades Técnicas Territoriales (UTT). (Ministerio de Agricultura y Desarrollo Rural Agencia de Desarrollo Rural - ADR, 2019).
 
 
@@ -143,7 +154,7 @@
         h5.mb-0 La clasificación de usuarios en el marco de los PDEA
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-xl-4
+      .col-xl-4.col-sm-10
         figure.mb-5
           img(src='@/assets/curso/temas/tema4/img-14.png', alt='')
       .col-xl-8 

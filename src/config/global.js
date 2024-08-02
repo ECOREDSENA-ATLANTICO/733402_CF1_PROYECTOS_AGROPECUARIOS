@@ -5,7 +5,7 @@ export default {
     descripcionCurso:
       'El análisis de la problemática en el sector agropecuario puede abordarse, según el grado de organización, en tres niveles: primero, cuando se enfoca a una población dispersa pero más o menos definida (vereda, vocación productiva, etc.), en segundo lugar, a  una organización (como por ejemplo las del sector solidario) y finalmente a empresas agropecuarias propiamente dichas. ',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],

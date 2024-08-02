@@ -33,7 +33,7 @@
             img(src="@/assets/curso/temas/tema2/img-2.svg", alt="alt")          
           .crd_03__txt
             p <b>Norma constitucional:</b> ocupa dentro del ordenamiento jurídico el rango más elevado, es la norma suprema dentro del ordenamiento jurídico.
-      .col-lg-4
+      .col-lg-4.col-sm-10
         .crd_03.mb-5
           .crd_03__icon
             img(src="@/assets/curso/temas/tema2/img-2.svg", alt="alt")          
@@ -64,7 +64,7 @@
       h2 2.2 Sistema Nacional de Innovación Agropecuaria Ley 1876 de diciembre 27 de 2017
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-6    
+      .col-lg-6.col-sm-10    
         figure.mb-5
           img(src='@/assets/curso/temas/tema2/img-4.png', alt='')         
       .col-lg-6      
@@ -106,7 +106,7 @@
 
         p.mb-5 La norma establece cinco aspectos que se deben tener en cuenta en el momento de prestar el servicio de extensión agropecuaria, como son:
 
-      .col-lg-6
+      .col-lg-6.col-sm-10
         figure.mb-5
           img(src='@/assets/curso/temas/tema2/img-6.png', alt='')
 
@@ -153,7 +153,7 @@
           p.mb-0 En el proceso de extensión agropecuaria los profesionales del sector deben realizar el acompañamiento a productores según el grado de organización, si son población dispersa pero definida por un territorio (vereda) o línea productiva (ganadera, agrícola, agroindustrial); si hacen parte de una organización comunitaria (asociación, cooperativa, etc.) o si tienen una empresa agropecuaria rural. En este acompañamiento el extensionista fortalece, capacita y acompaña a la organización en temas normativos para ello debe tener en cuenta el PDEA que en el artículo 29 lo define como el Plan departamental de extensión agropecuaria el cual es el instrumento de planificación cuatrienal en cada departamento, que en coordinación con sus municipios, distritos y demás actores del SNIA, definirá los elementos estratégicos y operativos para la prestación del servicio de extensión. En este mismo artículo 29 se hace referencia a los elementos mínimos que debe tener el PDEA (Congreso de Colombia, 2017):
 
     .row.justify-content-center.align-items-center
-      .col-lg-4
+      .col-lg-4.col-sm-10
         figure.mb-5
           img(src='@/assets/curso/temas/tema2/img-13.png', alt='')
       .col-lg-8
@@ -179,7 +179,7 @@
           .tarjeta.color-acento-botones.p-4.fnd-6.fnd-6-5
             .row.justify-content-center.align-items-end
               .col-lg-12
-                p.text-center.mb-5 La planificación financiera y de gastos asociados a la prestación del servicio.<br><br><br>
+                p.text-center.mb-3 La planificación financiera y de gastos asociados a la prestación del servicio.<br><br>
 
           .tarjeta.color-acento-botones.p-4.fnd-6.fnd-6-6
             .row.justify-content-center.align-items-end
@@ -209,7 +209,7 @@
 
 
     Separador
-    #2_1.titulo-segundo.color-acento-contenido
+    #2_3.titulo-segundo.color-acento-contenido
       h2 2.3 Resolución 407 de octubre 30 de 2018
 
     .row.justify-content-center.align-items-center.mb-5
@@ -217,7 +217,7 @@
         p <em>La Resolución 407 de 2018 en el Capítulo IV artículo 4.2 adopta los lineamientos para los Planes Departamentales de Extensión Agropecuaria que a continuación se describen:</em>
         p <em>El PDEA como instrumento de planificación del subsistema de extensión agropecuaria. En la formulación se debe tener en cuenta documentos como el Plan Estratégico de Ciencia Tecnología para el Sector Agropecuario (PECTIA), planes y acuerdos estratégicos, Agendas integradas de competitividad, planes de desarrollo municipal, plan agropecuario municipal y departamental, Planes de Acción para la Transformación del Regional (PART), Planes de Desarrollo con Enfoque Territorial (PDET), Planes Integrales Comunitarios y Municipales de Sustitución y Desarrollo Alternativo (PISDA), Programa Nacional Integral de Sustitución de Cultivos de Uso Ilícito (PNIS), esquemas y planes de ordenamiento territorial vigentes, zonas de protección nacional, regional, local; aptitud y vocación de uso generados por la Unidad de Planificación Rural Agropecuaria (UPRA); Estudio general de suelos para los departamentos; Plan de Manejo y Ordenamiento de Cuencas (POMCA); datos del censo nacional agropecuario 2014.</em>
 
-      .col-lg-4
+      .col-lg-4.col-sm-10
         figure.mb-5
           img(src='@/assets/curso/temas/tema2/img-14.png', alt='')
 
@@ -265,7 +265,7 @@
 
 
     .row.justify-content-center.align-items-center.mb-3
-      .col-lg-3
+      .col-lg-3.col-sm-10
         figure.mb-5
           img(src='@/assets/curso/temas/tema2/img-16.png', alt='')
 
@@ -295,7 +295,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-8
             p En esta etapa los equipos formuladores de las secretarías de agricultura departamental y con el acompañamiento técnico de la Agencia de Desarrollo Rural (ADR), determinan los tiempos, movimientos recursos, mecanismos de coordinación con los municipios y demás actores del SNIA para la puesta en marcha del proceso.
-          .col-lg-4
+          .col-lg-4.col-sm-10
             figure
               img(src='@/assets/curso/temas/tema2/img-18.svg', alt='')
 
@@ -303,28 +303,28 @@
         .row.justify-content-center.align-items-center
           .col-lg-8
             p Esta fase debe tener en cuenta tres consideraciones, primero revisión de la información secundaria, establecer las capacidades del territorio, tipos de cadenas productivas importantes, características demográfica y los instrumentos de planificación para el sector agropecuario; segundo identificación de principales problemas o retos cómo operan las cadenas productivas sus principales problemas o retos, etc y por último caracterización de los usuarios, que es el levantamiento de la información primaria con la que se clasifica a los productores por niveles según los criterios de gradualidad establecidos por el MADR en el instrumento de registro y clasificación de usuarios.
-          .col-lg-4
+          .col-lg-4.col-sm-10
             figure
               img(src='@/assets/curso/temas/tema2/img-18.svg', alt='')
       .tarjeta.fnd-5.p-4(titulo="Análisis")
         .row.justify-content-center.align-items-center
           .col-lg-8
             p Se realiza el estudio de la información primaria y secundaria con el fin de establecer, en un primer lugar la composición socio productiva, segundo identificar las principales problemáticas, retos y brechas en extensión agropecuaria, tercero la población sujeto del servicio respecto a sus condiciones socioeconómicas, culturales y productivas y en cuarto lugar las características de los mercados en los que se mueven los productos agrícolas.
-          .col-lg-4
+          .col-lg-4.col-sm-10
             figure
               img(src='@/assets/curso/temas/tema2/img-18.svg', alt='')
       .tarjeta.fnd-5.p-4(titulo="Identificación")
         .row.justify-content-center.align-items-center
           .col-lg-8
             p Es la base en la cual se concretarán los programas de extensión agropecuaria del PDEA los cuales deben incluir líneas de acción, ejes temáticos, estrategias, actividades, objetivos, indicadores, las metas a alcanzar y el cronograma. Luego desde los municipios y distritos se deben formular y ejecutar proyectos de extensión agropecuaria, teniendo en cuenta los parámetros establecidos en los programas de extensión agropecuaria del PDEA.
-          .col-lg-4
+          .col-lg-4.col-sm-10
             figure
               img(src='@/assets/curso/temas/tema2/img-18.svg', alt='')
       .tarjeta.fnd-5.p-4(titulo="Divulgación del PDEA")
         .row.justify-content-center.align-items-center
           .col-lg-8
             p Al finalizar el proceso de formulación del PDEA, pasa a sanción de la Asamblea Departamental quien mediante ordenanza los aprueba y pasa a divulgarse a los actores del SNIA a través de medios electrónicos y/o físicos.
-          .col-lg-4
+          .col-lg-4.col-sm-10
             figure
               img(src='@/assets/curso/temas/tema2/img-18.svg', alt='')
 
@@ -344,7 +344,7 @@
 
                 LineaTiempoC.color-acento-botones
                   .row(titulo="Desarrollo de capacidades humanas - tecnicas")
-                    .col-md-6.mb-4.mb-md-0.px-5
+                    .col-lg-6.mb-4.mb-md-0.px-5.order-2.order-lg-1
                       p.mb-0 • Identificación de la actividad productiva principal.
                       p.mb-0 • Identificación de actividades productivas secundarias.
                       p.mb-0 • Tipo de herramientas y equipos empleados en el proceso productivo.
@@ -355,11 +355,11 @@
                       p.mb-0 • Tipo mano de obra empleada.
                       p.mb-5 • Acceso a crédito y bancarización.
 
-                    .col-md-6
+                    .col-lg-6.order-1.order-lg-2
                       figure.mb-5
                         img(src='@/assets/curso/temas/tema2/img-20.png')
                   .row(titulo="Desarrollo de capacidades Sociales")
-                    .col-md-6.mb-4.mb-md-0.px-5
+                    .col-lg-6.mb-4.mb-md-0.px-5.order-2.order-lg-1
                       p.mb-0 • Vinculación a algún tipo de organización.
                       p.mb-0 • Realización de actividades productivas de manera colectiva.
                       p.mb-0 • Procesos de emprendimiento y asociatividad.
@@ -368,39 +368,39 @@
                       p.mb-0 • Uso de sellos de calidad y certificaciones.
                       p.mb-0 • Conocimiento sobre propiedad intelectual.
 
-                    .col-md-6
-                      figure
+                    .col-lg-6.order-1.order-lg-2
+                      figure.mb-5
                         img(src='@/assets/curso/temas/tema2/img-21.png')
                   .row(titulo="Acceso a la información y uso de las TIC")
-                    .col-md-6.mb-4.mb-md-0.px-5
+                    .col-lg-6.mb-4.mb-md-0.px-5.order-2.order-lg-1
                       p.mb-0 • Acceso a fuentes de información.
                       p.mb-0 • Acceso a las TIC.
                       p.mb-0 • Uso de las TIC como herramientas para la toma de decisiones.
                       p.mb-0 • Habilidades y competencias en el uso de TIC.
                       p.mb-0 • Apropiación social del conocimiento tradicional y científico.
 
-                    .col-md-6
-                      figure
+                    .col-lg-6.order-1.order-lg-2
+                      figure.mb-5
                         img(src='@/assets/curso/temas/tema2/img-22.png')
                   .row(titulo="Sostenibilidad ambiental")
-                    .col-md-6.mb-4.mb-md-0.px-5
+                    .col-lg-6.mb-4.mb-md-0.px-5.order-2.order-lg-1
                       p.mb-0 • Practicas de manejo y conservación del medio ambiente y de la biodiversidad.
                       p.mb-0 • Prácticas ambientales sostenibles y/o sustentables.
                       p.mb-0 • Actividades de mitigación y adaptación al cambio climático.
                       p.mb-0 • Cumplimiento de normatividad ambiental.
 
-                    .col-md-6
-                      figure
+                    .col-lg-6.order-1.order-lg-2
+                      figure.mb-5
                         img(src='@/assets/curso/temas/tema2/img-23.png')
                   .row(titulo="Habilidades para la participación política en instancias para tal fin")
-                    .col-md-6.mb-4.mb-md-0.px-5
+                    .col-lg-6.mb-4.mb-md-0.px-5.order-2.order-lg-1
                       p.mb-0 • Conocimiento sobre instancias y mecanismos de participación.
                       p.mb-0 • Conocimiento sobre herramientas para la participación.
                       p.mb-0 • Ejercicio de control político y social.
                       p.mb-0 • Fomento de la autogestión de las comunidades.
 
-                    .col-md-6
-                      figure
+                    .col-lg-6.order-1.order-lg-2
+                      figure.mb-5
                         img(src='@/assets/curso/temas/tema2/img-24.png')
           figcaption Nota. Secretarios de Cadenas Pecuarias Ministerio de Agricultura
 
@@ -426,57 +426,57 @@
             .tarjeta
               SlyderA.py-3(tipo="b")
                 .row.p-4
-                  .col-md-6.mb-4.mb-md-0
+                  .col-lg-6.mb-4.mb-md-0.order-2.order-lg-1
                     h5 Director: 
                     p Un (1) profesional titulado en alguna de las siguientes profesiones: administración; economía; contaduría pública; agronomía; biología, microbiología y afines; ingeniería agrícola, forestal y afines; ingeniería agroindustrial, alimentos y afines; ingeniería agronómica, pecuaria y afines; medicina veterinaria; zootecnia; ingeniería administrativa y afines; ingeniería industrial y afines; antropología, artes liberales; sociología, trabajo social y afines; derecho; con tarjeta profesional vigente.
 
-                  .col-md-6
-                    figure
+                  .col-lg-6.order-1.order-lg-2
+                    figure.mb-4.mb-lg-0
                       img(src='@/assets/curso/temas/tema2/img-25.png')
                 .row.p-4
-                  .col-md-6.mb-4.mb-md-0
+                  .col-lg-6.mb-4.mb-md-0.order-2.order-lg-1
                     h5 Coordinador de proyectos agropecuarios: 
                     p Un (1) profesional titulado en alguna de las siguientes profesiones: agronomía; biología, microbiología y afines; ingeniería agrícola, forestal y afines; administración; economía; ingeniería agroindustrial, alimentos y afines; ingeniería agronómica, pecuaria y afines; medicina veterinaria; zootecnia, con tarjeta profesional vigente.
-                  .col-md-6
-                    figure
+                  .col-lg-6.order-1.order-lg-2
+                    figure.mb-4.mb-lg-0
                       img(src='@/assets/curso/temas/tema2/img-26.png')
                 .row.p-4
-                  .col-md-6.mb-4.mb-md-0
+                  .col-lg-6.mb-4.mb-md-0.order-2.order-lg-1
                     h5 Coordinador administrativo y financiero:
                     p Un (1) profesional titulado en alguna de las siguientes profesiones: administración; economía; contaduría pública; ingeniería industrial y afines con tarjeta profesional vigente.
 
-                  .col-md-6
-                    figure
+                  .col-lg-6.order-1.order-lg-2
+                    figure.mb-4.mb-lg-0
                       img(src='@/assets/curso/temas/tema2/img-27.png')
                 .row.p-4
-                  .col-md-6.mb-4.mb-md-0
+                  .col-lg-6.mb-4.mb-md-0.order-2.order-lg-1
                     h5 Coordinador de procesos asociativos y comerciales:
                     p Un (1) profesional titulado en alguna de las siguientes profesiones: administración; economía; ingeniería administrativa y afines; ingeniería industrial y afines; antropología, artes liberales; sociología, trabajo social y afines con tarjeta profesional vigente.
 
-                  .col-md-6
-                    figure
+                  .col-lg-6.order-1.order-lg-2
+                    figure.mb-4.mb-lg-0
                       img(src='@/assets/curso/temas/tema2/img-28.png')
                 .row.p-4
-                  .col-md-6.mb-4.mb-md-0
+                  .col-lg-6.mb-4.mb-md-0.order-2.order-lg-1
                     h5 Coordinador ambiental: 
                     p Un (1) profesional titulado en alguna de las siguientes profesiones: ingeniería ambiental, sanitaria y afines; ingeniería civil y afines; geología, otros programas de ciencias naturales; administración; ingeniería agrícola, forestal y afines; biología, microbiología y afines, con tarjeta profesional vigente.
                     
-                  .col-md-6
-                    figure
+                  .col-lg-6.order-1.order-lg-2
+                    figure.mb-4.mb-lg-0
                       img(src='@/assets/curso/temas/tema2/img-29.png')
                 .row.p-4
-                  .col-md-6.mb-4.mb-md-0
+                  .col-lg-6.mb-4.mb-md-0.order-2.order-lg-1
                     h5 Asesor jurídico: 
                     p Un (1) profesional titulado en derecho, con tarjeta profesional vigente, con título de posgrado en alguno de los siguientes niveles de formación: especialización universitaria; maestría; doctorado. 
                     
-                  .col-md-6
-                    figure
+                  .col-lg-6.order-1.order-lg-2
+                    figure.mb-4.mb-lg-0
                       img(src='@/assets/curso/temas/tema2/img-30.png')
 
 
 
     .row.justify-content-center.align-items-center.mb-3
-      .col-lg-3
+      .col-lg-3.col-sm-10
         figure.mb-5
           img(src='@/assets/curso/temas/tema2/img-31.png', alt='')
 
@@ -512,7 +512,7 @@
 
     
     .row.justify-content-center.align-items-center.mb-3
-      .col-lg-3
+      .col-lg-3.col-sm-10
         figure.mb-5
           img(src='@/assets/curso/temas/tema2/img-32.png', alt='')
 
@@ -555,7 +555,7 @@
               h5.mb-0 Capacidades para ejecutar los Planes Departamentales de Extensión Agropecuaria (PDEA): 
           p Se definen como las capacidades humanas técnico-productivas, de mercadeo y comercialización, así como las capacidades sociales integrales y el fortalecimiento de la asociatividad, desarrollo empresarial, innovación, investigación y uso de las TIC, gestión sostenible de recursos naturales y desarrollo de habilidades para la participación de los productores en la política pública sectorial, con que debe contar la entidad que pretende habilitarse como EPSEA.
           p Vínculo comprobable con organizaciones de formación, capacitación, ciencia, tecnología e innovación: las entidades UMATA y CPGA que pretendan habilitarse como EPSEA, deberán cumplir con los mismos requisitos que las entidades privadas y que se relacionaron anteriormente.
-        .col-lg-4
+        .col-lg-4.col-sm-10.col-sm-10
           figure.mb-5
             img(src='@/assets/curso/temas/tema2/img-34.png', alt='')
 
@@ -601,25 +601,25 @@
         h5.mb-5 Según reza el Decreto, los recursos del FNEA de acuerdo con lo establecido estarán conformados por:
       .row.d-flex.align-items-stretch.mb-3
         .col-lg-3.mb-5
-          .tarjeta-numerada.color-secundario.p-der
+          .tarjeta-numerada.color-secundario.p-5
             .tarjeta-numerada__numero
               .h2 1.
-            p Los recursos propios de los entes territoriales. 
+            p.mb-0 Los recursos propios de los entes territoriales. 
         .col-lg-3.mb-4
-          .tarjeta-numerada.color-acento-botones.p-der
+          .tarjeta-numerada.color-acento-botones.p-5
             .tarjeta-numerada__numero
               .h2.text-white 2.
-            p Los recursos del presupuesto general de la nación. 
+            p.mb-0 Los recursos del presupuesto general de la nación. 
         .col-lg-3.mb-4
-          .tarjeta-numerada.color-secundario.p-der
+          .tarjeta-numerada.color-secundario.p-5
             .tarjeta-numerada__numero
               .h2 3.
-            p Los recursos de libre inversión del componente de propósito general del sistema general de participaciones. 
+            p.mb-0 Los recursos de libre inversión del componente de propósito general del sistema general de participaciones. 
         .col-lg-3.mb-4
-          .tarjeta-numerada.color-acento-botones.p-der
+          .tarjeta-numerada.color-acento-botones.p-5
             .tarjeta-numerada__numero
               .h2.text-white 4.
-            p Los recursos de cooperación internacional. 
+            p.mb-0 Los recursos de cooperación internacional. 
       .row.justify-content-center.mb-3        
         .col-lg-6.mb-4
           .tarjeta-numerada.color-secundario.px-5.py-3

@@ -10,7 +10,7 @@
       h1 Introducción
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4
+      .col-lg-4.mb-5
         figure
           img(src='@/assets/curso/temas/intro-1.png', alt='')
       .col-lg-8      
@@ -19,8 +19,8 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/riGJRV-9UyY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
 
     .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
       .bloque-texto-g__img(

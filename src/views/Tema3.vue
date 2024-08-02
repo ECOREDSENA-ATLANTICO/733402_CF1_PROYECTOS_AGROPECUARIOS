@@ -13,7 +13,7 @@
         p El DRP es un conjunto de técnicas y herramientas que permite que las comunidades hagan su propio diagnóstico y de ahí comiencen a auto-gestionar su planificación y desarrollo. Esta metodología es versátil y dependiendo de la habilidad del equipo facilitador es posible utilizar la información no solo para identificar las necesidades y problemas de la comunidad en los aspectos técnicos, sociales, ambientales, o económicos; sino que puede iniciarse un proceso de identificación de ideas para innovación o procesos de investigación. Su objetivo principal es “apoyar la autodeterminación de la comunidad a través de la participación y así fomentar un desarrollo sostenible.” Expósito, 1999.
         p Igualmente propone siete pasos que conducen al diseño de la planeación para el diagnóstico, para esto propone establecer un objetivo del diagnóstico, seleccionar y preparar el equipo facilitador, identificar participantes potenciales, identificar las expectativas de los y las participantes en el DRP, discutir las necesidades de información, seleccionar herramientas de investigación y por último diseñar el proceso de diagnóstico, Exposito, 1999.
 
-      .col-lg-4
+      .col-lg-4.col-sm-10
         figure 
           img(src='@/assets/curso/temas/tema3/img-1.png', alt='')
 
@@ -25,7 +25,7 @@
           .fl-box2.fl-box3
             p.mb-3 Para el trabajo de campo, se exponen tres pasos o momentos iniciales para abordar el trabajo con la comunidad identificada; el primero presentación  del equipo DRP en la comunidad, segundo el análisis de la situación actual con sus problemas, potencialidades y limitaciones y por último la búsqueda de soluciones haciendo énfasis en problemas y potencialidades. Exposito, 1999.
     .row.justify-content-center
-      .col-lg-4.mb-5
+      .col-lg-4.col-sm-10.mb-5
         figure 
           img(src='@/assets/curso/temas/tema3/img-3.png', alt='')
       .col-lg-8

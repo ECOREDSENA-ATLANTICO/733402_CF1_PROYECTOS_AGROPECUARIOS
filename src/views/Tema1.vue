@@ -21,7 +21,7 @@
             h4.mb-0 (CNMH, 2013).
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4.mb-4
+      .col-lg-4.col-sm-10.mb-4
         figure
           img(src='@/assets/curso/temas/tema1/img-1.png', alt='') 
       .col-lg-8
@@ -67,22 +67,22 @@
 
         LineaTiempoD.color-secundario.mb-5
           .row(numero="1924" titulo="El segundo período")
-            .col-md-7.mb-4.mb-md-0.mt-3
+            .col-lg-7.mb-4.mb-md-0.mt-3.order-2.order-lg-1
               p Se puede identificar entre 1924 y 1936, y se puede denominar <b>“Conflicto agrario”,</b> caracterizado por las medidas sobre tenencia de la tierra, que aunque no se aplicaron sino hasta más adelante en el tiempo, fueron muy importantes, como la Ley 74 de 1926 acerca de la parcelación de grandes predios de arrendatarios. La adjudicación de baldíos se hace más exigente y se forman gremios agrarios muy importantes. En esta época se lleva a cabo una gran inversión en infraestructura de obras públicas, lo que absorbe parte de la mano de obra encareciendo la subsistencia y los jornales, desencadenando la insurgencia de  arrendatarios sobre todo en Cundinamarca y Tolima. 
               p Después de la gran depresión de 1929, al regresar los trabajadores de las obras públicas al campo, los conflictos agrarios se agudizan, muchas tierras regresan al estado y grandes haciendas se parcelaron por acción legislativa y judicial. Debido a las dificultades del gobierno al verificar la identificación de verdaderos propietarios de las tierras, se empiezan a exigir los títulos de traspaso del estado a los propietarios (sentencia de la Corte Suprema de Justicia en 1926) y se dificulta el acceso al crédito por esta exigencia. Lo anterior permitió la reversión al estado de muchas tierras donde habían conflictos (Arango, 1987). 
 
-            .col-md-5
-              figure
+            .col-lg-5.order-1.order-lg-2
+              figure.mb-4.mb-lg-0
                 img(src='@/assets/curso/temas/tema1/img-5.png')
           
           .row(numero="1936" titulo="El tercer período")
-            .col-md-6.mb-4.mb-md-0.mt-3
+            .col-lg-6.mb-4.mb-md-0.mt-3.order-2.order-lg-1
               p Abarca desde la emisión de la ley 200 de 1936 hasta la segunda guerra mundial. Asciende Alfonso López Pumarejo a la presidencia de la República, que con una actitud de respuesta a las demandas sociales orientadas por principios liberales no emite leyes de manera inmediata pero aplica las existentes para la parcelación de varias haciendas como la “Tolima”. 
               p Dos años después empieza  a legislar para cambiar efectos negativos de leyes anteriores, permitiendo legalizar títulos de propiedad dudosos y de colonos de “buena fe” y procurando un mayor uso productivo de las tierras, causando, con estas acciones legislativas, exactamente efectos contrarios, regresivos por cuanto, al suprimirse la exigencia de 1926 del título original de adjudicación del estado, permitió la legalización de gigantes proporciones de tierra a los terratenientes. 
               p La idea del gobierno de Pumarejo, en palabras de su ministro Darío Echandía, era transformar el latifundio ocioso en empresa capitalista, esto se pretendía lograr dando un periodo de 10 años para la explotación de la tierra, pero al no reglamentar la subutilización de esta y aceptar la ganadería extensiva e incluso la silvicultura como actividades válidas, las intenciones liberales del gobierno Pumarejo catalizan la concentración de la tierra y del capital, transformando las tierras agrícolas y ganaderas con el consiguiente desplazamiento forzoso de aparceros y colonos (Arango, 1987).
 
-            .col-md-6.mt-3
-              figure
+            .col-lg-6.mt-3.order-1.order-lg-2
+              figure.mb-4.mb-lg-0
                 img(src='@/assets/curso/temas/tema1/img-4.png')   
 
           .row(numero="1940" titulo="El cuarto período")
@@ -90,10 +90,10 @@
             p Las medidas proteccionistas del gobierno Santos (sustitución) frente a las importaciones se ven reversadas en la posguerra, pues la producción interna no fue suficiente, disparando los precios de los alimentos hacia 1943, donde se tuvieron que controlar, pero esta medida no funcionó al no abarcar los productos agrícolas básicos; este control se derogó en 1945. En este período hay déficit de alimentos por efecto de la desaparición de la aparcería y el rápido crecimiento industrial. Se expide en el segundo gobierno Pumarejo la ley 100 de 1944, que intentando restablecer la aparcería en Colombia fue en contravía de la anterior ley 200, al ampliar el tiempo para restitución de la tierra al estado de 10 a 15 años, un nuevo desacierto, pero que ayuda a los cafeteros, que se recuperan hacia 1952. Se crea el Fondo Nacional del Café para almacenar lo que no se vendía al mercado norteamericano, pues el europeo estaba cerrado debido a la reconstrucción por la guerra. Muchos alimentos encarecieron por esto, pero se lograron contener en cierto grado las alzas con algunas importaciones (Arango, 1987).
           
           .row(numero="1949" titulo="El quinto período")
-            .col-md-6.mb-4.mb-md-0.mt-3
+            .col-lg-6.mb-4.mb-md-0.mt-3.order-2.order-lg-1
               p <b>Colonización, política fiscal y violencia.</b> Desde 1949 a 1960 es una época de mucha actividad de la Federación Nacional de Cafeteros, que pasa de fomentar la parcelación de haciendas en el período anterior, a fomentar la colonización e impulsar la aparcería en este nuevo período. El gobierno de Mariano Ospina Pérez estableció el Instituto de Parcelación, Colonización y Defensa Forestal, en 1949: compraron y parcelaron haciendas, pero se adjudicaron de manera sesgada a miembros del partido conservador. En 1954, la dictadura militar organizó colonizaciones pero esta inversión, por demás muy grande,  se perdió por el fracaso del proceso en menos de dos años. A la legislación impuesta hasta el momento, se suma la carga tributaria de la tierra. En 1954 la burguesía vallecaucana fundó la Corporación Autónoma del Valle del Cauca (CVC) con un impuesto adicional al predial. 
-            .col-md-6.mt-3
-              figure
+            .col-lg-6.mt-3.order-1.order-lg-2
+              figure.mb-4.mb-lg-0
                 img(src='@/assets/curso/temas/tema1/img-6.png')   
               
               
@@ -102,10 +102,10 @@
 
 
           .row(numero="1961" titulo="El sexto período")
-            .col-md-6.mb-4.mb-md-0.mt-3
+            .col-lg-6.mb-4.mb-md-0.mt-3.order-2.order-lg-1
               p Corresponde al reformismo agrario, de la ley 135 de 1961 al acuerdo de chicoral (1972). Se generan las condiciones, por diversos factores entre los que se destacan un temor a impuestos sobre la tierra y el avance de movimientos revolucionarios en Cuba y otros países, la presión de estados unidos y el avance electoral del Movimiento Revolucionario Liberal (MRL). La Ley 135 pretende una reforma en la tenencia de la tierra, fomentar la producción, mejorar las condiciones de vida y el grado de organización de los campesinos y conservar recursos naturales. 
-            .col-md-6.mt-3
-              figure
+            .col-lg-6.mt-3.order-1.order-lg-2
+              figure.mb-4.mb-lg-0
                 img(src='@/assets/curso/temas/tema1/img-7.png')    
               
             p Esta ley y los demás intentos de reforma agraria en Colombia han sido de efectos escasos, apenas con logros en colonización y alguna incidencia leve en la tenencia de la tierra. El Instituto Colombiano de la Reforma Agraria (INCORA), institución encargada de ejecutar la ley 135, invierte la mayoría de sus recursos en distritos de riego que concentran el beneficio económico en términos de tierra adquirida unas 10 veces más en estas áreas, que en el resto del país, debido al costo de los distritos. La agricultura a gran escala se intensifica. Finalmente, la reforma surte efecto en un favorecimiento de medianos y grandes propietarios. Durante el gobierno de Guillermo León Valencia (1962-1966) la reforma prácticamente no avanzó, hasta la posesión de Carlos Lleras Restrepo, quien impulsa la reforma y crea la Asociación Nacional de Usuarios Campesinos -ANUC- (Arango, 1987). 
@@ -113,12 +113,12 @@
     
           
           .row(numero="1970" titulo="El séptimo período")
-            .col-md-6.mb-4.mb-md-0.mt-3
+            .col-lg-6.mb-4.mb-md-0.mt-3.order-2.order-lg-1
               p.mb-0 El DRI (1970) y el desmonte de la reforma agraria (1973-1983). En 1972, producto de una iniciativa del frente nacional, contrarreformista, en reacción a los avances del INCORA, por cierto muy lentos, surge el pacto de Chicoral, que con la promesa de legalización impulsa de nuevo la colonización a través de una titulación de baldíos, abandonando después a su suerte a los colonos que avanzaron hacia la Amazonía, el litoral Pacífico, el Darién y el piedemonte araucano. Se crea el Fondo de Desarrollo Rural (DRI) como alternativa a la reforma agraria, intensificando la producción a partir de los avances generados de la revolución verde. El presidente Virgilio Barco, en 1986, se abandera de la reforma agraria en su programa y promulga la ley 30 de 1986 (Arango, 1987). 
               p El análisis del desarrollo rural desde las políticas agrarias, después de Arango en 1987, se puede abordar desde la perspectiva de Absalón Machado, una de las autoridades académicas más sobresalientes sobre el tema agrario en Colombia.
 
-            .col-md-6.mt-3
-              figure
+            .col-lg-6.mt-3.order-1.order-lg-2
+              figure.mb-4.mb-lg-0
                 img(src='@/assets/curso/temas/tema1/img-8.png')   
 
           .row(numero="1988" titulo="El octavo período")
@@ -139,19 +139,19 @@
           
           
           .row(numero="1995" titulo="El noveno período")
-            .col-md-6.mb-4.mb-md-0.mt-3
+            .col-lg-6.mb-4.mb-md-0.mt-3.order-2.order-lg-1
               p El quiebre definitivo de la reforma denominado el mercado de tierras (1995 a 1999). La globalización de la economía con la consiguiente apertura de mercados, la nueva constitución de 1991, las intenciones de modernización del estado (la aplicación de las políticas neoliberales producto de la receta del consenso de Washington en los años 80), la agudización del conflicto, el narcoparamilitarismo, el despojo de tierras, la violación de derechos humanos, las acciones guerrilleras, el asesinato sitemático de la Unión Patriótica, la crisis económica (1998-2001), la incidencia de la Organización Mundial de Comercio (OMC) y los intentos de acuerdos de paz, son, entre otros, los hechos del contexto en los intentos de reforma agraria hasta el cambio de siglo. 
               p El Estado colombiano, liderado por César Gaviria, se retira del proceso directo de redistribución de tierra que sólo llevaba dos años operando bajo la Ley 30. Se deja bajo las leyes del mercado el intercambio de tierras, con la apertura de líneas de crédito subsidiadas (Ley 160 de 1994). En los 90 hubo una gran intervención a través de los proyectos PNUD-FAO, que dió origen a la ley 160. En este período vuelve a concentrarse la tierra a los niveles anteriores a Barco, por efecto sinérgico de todos los factores mencionados anteriormente. Como consecuencia de ello, nadie quería comprar tierras a pesar de las facilidades para las transacciones orientadas desde el estado, el fracaso de esta política es rotundo, pues se pensó para un país sin violencia; es decir, para otro país. El Ministerio de Agricultura se dedicó al fortalecimiento de las cadenas productivas más que a la redistribución de la propiedad (Machado, 2009). 
 
-            .col-md-6.mt-3
-              figure
+            .col-lg-6.mt-3.order-1.order-lg-2
+              figure.mb-4.mb-lg-0
                 img(src='@/assets/curso/temas/tema1/img-9.png')   
 
           .row(numero="2000" titulo="El decimo período")
-            .col-md-6.mb-4.mb-md-0.mt-3
+            .col-lg-6.mb-4.mb-md-0.mt-3.order-2.order-lg-1
               p La política de atención a los desplazados por la violencia (década del 2000). El contundente fracaso de la política neoliberal del mercado de tierras de Gaviria, el creciente reclamo de los desplazados y los organismos defensores de DDHH, la conquista de los espacios de poder por parte de los “señores de la guerra” y grandes terratenientes en articulación con parte de la institucionalidad del país, en palabras de Absalón Machado, la opinión de ciertos gremios acerca de la obsolescencia de la reforma agraria frente a los nuevos desafíos de la apertura de mercados (globalización), generan una respuesta de parte del Estado, enfocada a la atención de la población desplazada por la violencia hacia las urbes y que constituyen una gran crisis humanitaria a finales del siglo XX. 
-            .col-md-6.mt-3
-              figure
+            .col-lg-6.mt-3.order-1.order-lg-2
+              figure.mb-4.mb-lg-0
                 img(src='@/assets/curso/temas/tema1/img-10.png')    
             p Esta concentración de esfuerzos hacia la población desplazada atacando consecuencias más no las raíces, hace que se desatienda la ruralidad de manera prioritaria en cuanto a la reforma y el problema agrario en general, aunque sean las propias causas originadoras del conflicto: El mercado de tierras dominado por el narcotráfico y el apoyo paramilitar, el dominio de los demás actores armados sobre tierras y recursos, la concentración, una vez más y como constante a lo largo de casi dos siglos, de la tierra en manos de una proporción cada vez menor de propietarios, la pobreza y despojo, incluso de los valores y dignidad del campesinado, la judicialización de los campesinos productores de coca al verse presionados por la falta de oportunidades laborales y productivas y los grupos armados, la ausencia del Estado en la periferia rural, la parapolítica (alianza entre políticos y paramilitares para el control de los territorios y las entidades públicas), la carencia de programas efectivos para el desarrollo rural y la inequidad de las políticas de desarrollo entre otras de carácter histórico y socio-cultural (Machado, 2009). 
             p Las iniciativas para la atención integral de los desplazados por el conflicto armado pueden resumirse en La Ley 387 de 1997 y el Decreto 2562 del 2000, creándose el Sistema Nacional de Atención Integral a la Población Desplazada por la Violencia y un Consejo Nacional para los temas de políticas y recursos. En cuanto al tema específico de tierras, el Decreto 2007 de 2001 reglamenta la atención oportuna para el retorno voluntario a su lugar de origen. Otras referencias normativas son: CONPES 3057 de 1999, Sentencia SU1150 de 2002, Ley 975 de 2005 (Ley de justicia y paz), la normativa relativa a la extinción de dominio de tierras susceptibles de adjudicación también cobra mucha importancia. A pesar de la amplia documentación académica, de sentencias judiciales y testimonios de las víctimas y declaraciones de la contraloría, defensoría del pueblo, etc., los documentos públicos no son explícitos en el reconocimiento de un conflicto interno y por tanto, de la relación entre la tenencia de la tierra y el conflicto (Machado, 2009).
@@ -159,19 +159,19 @@
     
           
           .row(numero="2011" titulo="El décimoprimer período")
-            .col-md-6.mb-4.mb-md-0.mt-3
+            .col-lg-6.mb-4.mb-md-0.mt-3.order-2.order-lg-1
               p De la atención humanitaria de los desplazados a la reparación de las víctimas del conflicto interno (del 2011 a la actualidad). Con la aplicación de la controvertida Ley de Justicia y Paz (Ley 975 de 2005), la atención a la ruralidad se continúa ejerciendo desde la mitigación de los efectos del conflicto. 
               p Mientras se opera, con muchas dificultades la ley mencionada, con una clara intención de reparar las víctimas del conflicto y a raíz de la ineficacia del Instituto Colombiano de la Reforma Agraria (INCORA), la liquidación del fondo DRI, la terminación del Plan Nacional de Rehabilitación (PNR), los ajustes y reducciones del gasto público y en general de lineamientos políticos, el gobierno de Uribe Vélez reestructura el sector agropecuario con la creación del Instituto Colombiano de Desarrollo Rural (INCODER) mediante el Decreto Ley 1300 de 2003 y posteriormente liquidado en 2015, consecuentemente con la política de mercado de tierras y reducción de las políticas de desarrollo rural. 
               p Este instituto, al ser la combinación de otros cuatro, fue un fracaso debido a la inoperancia, falta de estructura orgánica, claridad del desarrollo rural, la corrupción, la parapolítica y la escasa credibilidad entre la ciudadanía, en especial la rural. Un proyecto de ley se lanza para reestructurar totalmente la legislación agraria (Proyecto de Ley 30 de 2006), del cual, según expresa Machado, varios analistas coinciden en que deja espacios abiertos para la legalización de tierras ilegalmente apropiadas por paramilitares, narcotraficantes y otros actores sociales (art.155), en argucia de que la Ley 200 de 1936 ya lo dictaminado, efectivamente sirviendo este argumento para posiblemente legalizar hechos de apropiación punibles por cuanto sean tierras de campesinos desplazados (Machado, 2009). 
 
-            .col-md-6.mt-3
-              figure
+            .col-lg-6.mt-3.order-1.order-lg-2
+              figure.mb-4.mb-lg-0
                 img(src='@/assets/curso/temas/tema1/img-11.png')   
 
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4.order-1.order-lg-2 
-        figure.mb-5
+      .col-lg-4.col-sm-10.order-1.order-lg-2 
+        figure.mb-5.mb-4.mb-lg-0
           img(src='@/assets/curso/temas/tema1/img-12.png', alt='')    
       .col-lg-8.order-2.order-lg-1
         p Frente al tema de la reforma agraria, de manera general, Machado deja ver que hubo dos momentos en la historia de Colombia, donde debió resolverse el problema o al menos iniciado su resolución: 
