@@ -7,7 +7,7 @@
         span 3
       h1 Diagnóstico Rural Participativo (DRP)
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-8
         p El DRP es una metodología, utilizada para realizar diagnósticos en comunidades rurales. Tiene la característica de ser participativa, esto quiere decir, que en el desarrollo de las técnicas escogidas para la recolección de la información los integrantes de la comunidad intervienen activamente en la construcción de las respuestas y en la toma de decisiones. El DRP da la oportunidad a todos los miembros de la comunidad a participar en el diagnóstico independientemente de no saber leer y escribir, producto de las herramientas utilizadas (Instituto de Formación Permanente, 2008, Diagnóstico rural participativo y planificación comunitaria).
         p El DRP es un conjunto de técnicas y herramientas que permite que las comunidades hagan su propio diagnóstico y de ahí comiencen a auto-gestionar su planificación y desarrollo. Esta metodología es versátil y dependiendo de la habilidad del equipo facilitador es posible utilizar la información no solo para identificar las necesidades y problemas de la comunidad en los aspectos técnicos, sociales, ambientales, o económicos; sino que puede iniciarse un proceso de identificación de ideas para innovación o procesos de investigación. Su objetivo principal es “apoyar la autodeterminación de la comunidad a través de la participación y así fomentar un desarrollo sostenible.” Expósito, 1999.
@@ -18,13 +18,13 @@
           img(src='@/assets/curso/temas/tema3/img-1.png', alt='')
 
 
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center(data-aos="fade-left")
       .col-xl-10
         .img-fnd-flot2.mb-5
           img.b-img2(src='@/assets/curso/temas/tema3/img-2.svg')
           .fl-box2.fl-box3
             p.mb-3 Para el trabajo de campo, se exponen tres pasos o momentos iniciales para abordar el trabajo con la comunidad identificada; el primero presentación  del equipo DRP en la comunidad, segundo el análisis de la situación actual con sus problemas, potencialidades y limitaciones y por último la búsqueda de soluciones haciendo énfasis en problemas y potencialidades. Exposito, 1999.
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="fade-right")
       .col-lg-4.col-sm-10.mb-5
         figure 
           img(src='@/assets/curso/temas/tema3/img-3.png', alt='')
@@ -38,7 +38,7 @@
         p.mb-5 En la etapa final del proceso de diagnóstico llamado análisis, documentación y presentación el autor hace un recorrido por las clases de variables que podemos obtener en este proceso (cualitativas y cuantitativas); recuerda que los documento obtenidos en los talleres (mapas, registros, fotos, videos, encuestas, etc.) deben tenerse siempre presentes para poder consultarlos nuevamente, con el fin de completar información o de obtener datos que no se identificaron en un primer momento; la elaboración del informe es un paso muy importante porque es en este documento que se consolida las fortalezas, necesidades y problemas que presenta la comunidad; en este momento se convierte en el insumo para el siguiente paso en la formulación de proyectos agropecuarios. Expósito,1999.
 
 
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="zoom-in")
       .col-lg-8
         .tarjeta.p-3.fnd-8
           .row.justify-content-around.align-items-center

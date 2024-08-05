@@ -7,11 +7,11 @@
         span 2
       h1 Sistema Nacional de Innovación Agropecuaria (SNIA) 
 
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="fade-left")
       p La Ley 1876 de diciembre 27 de 2017 Sistema Nacional de Innovación Agropecuaria se crea con el fin de dar respuesta al primer punto del acuerdo de paz y derogar la Ley 607 de 2000 que creó las Unidad Municipal de Asistencia Técnica Agropecuaria (UMATA) y reglamentó la asistencia técnica directa rural; en esta normativa se establecen los criterios para la creación, articulación y puesta en marcha de tres subsistemas, además, de su respectiva reglamentación mediante decretos, resoluciones y ordenanzas.
 
 
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-lg-10
 
         .img-fnd-flot3.mb-3
@@ -26,7 +26,7 @@
     p.mb-4 En el estado colombiano las normas se encuentran jerarquizadas, “no tienen todas el mismo nivel, ni la misma categoría, ni la misma importancia. Se encuentran jerarquizadas, según su mayor o menor grado de generalidad en consecuencia las normas superiores pueden modificar o derogar válidamente las normas inferiores y éstas a su vez deben respetar el contenido de las normas superiores.” 
 
 
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="fade-left")
       .col-lg-3
         .crd_03.mb-5
           .crd_03__icon
@@ -63,7 +63,7 @@
     #2_2.titulo-segundo.color-acento-contenido
       h2 2.2 Sistema Nacional de Innovación Agropecuaria Ley 1876 de diciembre 27 de 2017
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-6.col-sm-10    
         figure.mb-5
           img(src='@/assets/curso/temas/tema2/img-4.png', alt='')         
@@ -88,7 +88,7 @@
               p.mb-0 Subsistema Nacional de formación y capacitación para la innovación agropecuaria
 
 
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center(data-aos="zoom-in")
       .col-lg-12
         .titulo-sexto.color-acento-contenido
           h5 Figura 2.
@@ -100,7 +100,7 @@
               figcaption Nota. Elaboración propia
 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-6
         p En la formulación de proyectos productivos agropecuarios se debe tener en cuenta las orientaciones que en materia de normatividad existente en el país, la Ley 1876 de 2017 Diciembre 27 de 2017 DO N° 50.461 es el marco normativo que guía la política agraria en Colombia; en el Título III, artículo 24 define la extensión agropecuaria como un bien y un servicio de carácter público, permanente y descentralizado; y comprende las acciones de acompañamiento integral orientadas a diagnosticar, recomendar, actualizar, capacitar, transferir, asistir, empoderar y generar competencias en los productores agropecuarios para que estos incorporen en su actividad productiva prácticas, productos tecnológicos, tecnologías, conocimientos y comportamientos que beneficien su desempeño y mejoren su competitividad y sostenibilidad, así como su aporte a la seguridad alimentaria y su desarrollo como ser humano integral.
 
@@ -110,7 +110,7 @@
         figure.mb-5
           img(src='@/assets/curso/temas/tema2/img-6.png', alt='')
 
-    .row.justify-content-center.d-flex.align-items-stretch
+    .row.justify-content-center.d-flex.align-items-stretch(data-aos="fade-left")
     
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
@@ -145,14 +145,14 @@
     
     p.mb-5 Al mismo tiempo estos aspectos hacen parte de la herramienta de registro y clasificación de usuarios en la que se debe registrar a los productores para poder ser beneficiarios de los proyectos agropecuarios que sean gestionados en el municipio.
 
-    .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5
+    .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-left")
         .bloque-texto-g__img(
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img-12.jpg')})`}"
         )
         .bloque-texto-g__texto.p-4
           p.mb-0 En el proceso de extensión agropecuaria los profesionales del sector deben realizar el acompañamiento a productores según el grado de organización, si son población dispersa pero definida por un territorio (vereda) o línea productiva (ganadera, agrícola, agroindustrial); si hacen parte de una organización comunitaria (asociación, cooperativa, etc.) o si tienen una empresa agropecuaria rural. En este acompañamiento el extensionista fortalece, capacita y acompaña a la organización en temas normativos para ello debe tener en cuenta el PDEA que en el artículo 29 lo define como el Plan departamental de extensión agropecuaria el cual es el instrumento de planificación cuatrienal en cada departamento, que en coordinación con sus municipios, distritos y demás actores del SNIA, definirá los elementos estratégicos y operativos para la prestación del servicio de extensión. En este mismo artículo 29 se hace referencia a los elementos mínimos que debe tener el PDEA (Congreso de Colombia, 2017):
 
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center(data-aos="fade-left")
       .col-lg-4.col-sm-10
         figure.mb-5
           img(src='@/assets/curso/temas/tema2/img-13.png', alt='')
@@ -212,7 +212,7 @@
     #2_3.titulo-segundo.color-acento-contenido
       h2 2.3 Resolución 407 de octubre 30 de 2018
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-8
         p <em>La Resolución 407 de 2018 en el Capítulo IV artículo 4.2 adopta los lineamientos para los Planes Departamentales de Extensión Agropecuaria que a continuación se describen:</em>
         p <em>El PDEA como instrumento de planificación del subsistema de extensión agropecuaria. En la formulación se debe tener en cuenta documentos como el Plan Estratégico de Ciencia Tecnología para el Sector Agropecuario (PECTIA), planes y acuerdos estratégicos, Agendas integradas de competitividad, planes de desarrollo municipal, plan agropecuario municipal y departamental, Planes de Acción para la Transformación del Regional (PART), Planes de Desarrollo con Enfoque Territorial (PDET), Planes Integrales Comunitarios y Municipales de Sustitución y Desarrollo Alternativo (PISDA), Programa Nacional Integral de Sustitución de Cultivos de Uso Ilícito (PNIS), esquemas y planes de ordenamiento territorial vigentes, zonas de protección nacional, regional, local; aptitud y vocación de uso generados por la Unidad de Planificación Rural Agropecuaria (UPRA); Estudio general de suelos para los departamentos; Plan de Manejo y Ordenamiento de Cuencas (POMCA); datos del censo nacional agropecuario 2014.</em>
@@ -223,7 +223,7 @@
 
 
 
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-lg-12
         .titulo-sexto.color-acento-contenido
           h5 Figura 3.
@@ -264,7 +264,7 @@
                   p.tx-2 04
 
 
-    .row.justify-content-center.align-items-center.mb-3
+    .row.justify-content-center.align-items-center.mb-3(data-aos="fade-left")
       .col-lg-3.col-sm-10
         figure.mb-5
           img(src='@/assets/curso/temas/tema2/img-16.png', alt='')
@@ -290,7 +290,7 @@
 
 
 
-    TabsA.color-secundario.mb-5
+    TabsA.color-secundario.mb-5(data-aos="fade-right")
       .tarjeta.fnd-5.p-4(titulo="Preparación")
         .row.justify-content-center.align-items-center
           .col-lg-8
@@ -329,7 +329,7 @@
               img(src='@/assets/curso/temas/tema2/img-18.svg', alt='')
 
 
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center(data-aos="fade-left")
       .col-lg-12
         .titulo-sexto.color-acento-contenido
           h5 Figura 4.
@@ -408,7 +408,7 @@
     #2_4.titulo-segundo.color-acento-contenido
       h2 2.4 Resolución 422 de 05 de julio de 2019
 
-    p.mb-5 Mediante esta resolución se reglamenta el artículo 33 de la Ley 1876 de 2017; tiene por objeto reglamentar la relación con el procedimiento y los requisitos de habilitación de las Entidades Prestadoras del Servicio de Extensión Agropecuaria (EPSEA) para la elaboración, publicación y actualización del registro de EPSEA habilitadas para la prestación del servicio público de extensión agropecuaria. A continuación, se relacionan los aspectos más relevantes:
+    p.mb-5(data-aos="zoom-in") Mediante esta resolución se reglamenta el artículo 33 de la Ley 1876 de 2017; tiene por objeto reglamentar la relación con el procedimiento y los requisitos de habilitación de las Entidades Prestadoras del Servicio de Extensión Agropecuaria (EPSEA) para la elaboración, publicación y actualización del registro de EPSEA habilitadas para la prestación del servicio público de extensión agropecuaria. A continuación, se relacionan los aspectos más relevantes:
 
     .list.mb-3(data-aos="fade-down")
           .list__item
@@ -419,7 +419,7 @@
     p Las entidades que pueden inscribirse en el registro de EPSEA son las que se encuentran en el artículo 32 de la ley 1876 de 2017 y que acrediten los requisitos del artículo 33 de la misma Ley. Las entidades que deseen constituirse como EPSEA deben tener un equipo mínimo con los siguientes perfiles:      
 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12.fnd-11
         .row.justify-content-center.align-items-center
           .col-lg-12.fnd-10
@@ -475,7 +475,7 @@
 
 
 
-    .row.justify-content-center.align-items-center.mb-3
+    .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in")
       .col-lg-3.col-sm-10
         figure.mb-5
           img(src='@/assets/curso/temas/tema2/img-31.png', alt='')
@@ -511,7 +511,7 @@
       p Las entidades que deseen registrarse como EPSEA deben cumplir con los requisitos establecidos en el Artículo Noveno de la presente Ley.
 
     
-    .row.justify-content-center.align-items-center.mb-3
+    .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in")
       .col-lg-3.col-sm-10
         figure.mb-5
           img(src='@/assets/curso/temas/tema2/img-32.png', alt='')
@@ -532,7 +532,7 @@
             h5.mb-0 RequisRecurso humano, formación profesional experiencia y desarrollo de competencias
         p Las dos entidades UMATA y CPGA deben contar con un equipo de profesionales que presente los siguientes  perfiles:
 
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center(data-aos="fade-left")
       .col-lg-12.fnd-12.mb-5
         .row.justify-content-center.align-items-center
           .col-lg-5.img-12.mb-4
@@ -561,7 +561,7 @@
 
 
 
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="fade-right")
       .col-xl-8
         .tarjeta.p-3.fnd-13
           .row.justify-content-around.align-items-center
@@ -596,7 +596,7 @@
             h5.mb-0 (Decreto ley 1319 de 2020)
 
 
-    .row.justify-content-center.align-items-center.mb-5.fnd-14.p-5
+    .row.justify-content-center.align-items-center.mb-5.fnd-14.p-5(data-aos="fade-left")
       .col-lg-12
         h5.mb-5 Según reza el Decreto, los recursos del FNEA de acuerdo con lo establecido estarán conformados por:
       .row.d-flex.align-items-stretch.mb-3
@@ -644,7 +644,7 @@
             p Por último, los aportes de las entidades públicas del orden nacional o territorial, de organizaciones internacionales o de entidades privadas, deberán ser únicamente en dinero y consignados en la fiducia dispuesta por la agencia de desarrollo rural, de conformidad con lo previsto en el manual de operación del FNEA.
 
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-xl-8
         .tarjeta.p-3.fnd-13.fnd-13-
           .row.justify-content-around.align-items-center

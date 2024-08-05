@@ -8,7 +8,7 @@
       h1 Clasificación y registro de usuarios del servicio público de extensión agropecuaria
 
 
-    .row.justify-content-center.align-items-center.mb-3
+    .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in")
       .col-lg-6.col-sm-10
         figure.mb-5 
           img(src='@/assets/curso/temas/tema4/img-1.png', alt='')
@@ -21,7 +21,7 @@
           .list__txt
             h5.mb-0 Actores intervinientes
         p Los actores que intervienen en el registro de usuarios son cinco (5): 
-    .row.justify-content-start.align-items-center.mb-3
+    .row.justify-content-start.align-items-center.mb-3(data-aos="fade-left")
       .col-lg-6.col-sm-10 
         .row.justify-content-start.align-items-center
           .img-fnd-flot8.mb-3
@@ -46,7 +46,7 @@
 
 
 
-    .img-fnd-flot8.mb-3
+    .img-fnd-flot8.mb-3(data-aos="zoom-in")
       img.b-img8(src='@/assets/curso/temas/tema4/fnd-1.svg' alt='Background Image')
       .fl-box8
         h3.mb-0 Cuarto lugar:
@@ -55,7 +55,7 @@
 
 
 
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center(data-aos="fade-left")
       .col-xl-10
         .img-fnd-flot2.mb-5
           img.b-img2(src='@/assets/curso/temas/tema4/img-8.svg')
@@ -63,7 +63,7 @@
             p.mb-3 Finalmente, se encuentra el Ministerio de Agricultura y Desarrollo Rural (MADR), la cual deberá promover la interoperabilidad de los sistemas de información para incorporar y actualizar la información en el registro de usuarios del servicio de extensión agropecuaria. (Ministerio de Agricultura y Desarrollo Rural Agencia de Desarrollo Rural - ADR, 2019).
 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-5
         figure.mb-5
           img(src='@/assets/curso/temas/tema4/img-9.png', alt='')    
@@ -84,7 +84,7 @@
         h5.mb-0 Criterios de calificación
     p.mb-5 Para la calificación de los usuarios del servicio de extensión agropecuaria, está definida en función de la mejora en sus capacidades y condiciones, así como también los logros y progresos frente al enfoque de la prestación del servicio enmarcados en los objetivos propuestos en los PDEA. (Ministerio de Agricultura y Desarrollo Rural Agencia de Desarrollo Rural - ADR, 2019).
 
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-lg-8
         .titulo-sexto.color-acento-contenido
           h5 Figura 4.
@@ -105,7 +105,7 @@
         h5.mb-0 Niveles de clasificación
     p.mb-5 De acuerdo a los criterios de calificación anteriormente mencionados, se definieron cuatro (4) niveles de clasificación, los cuales se identificarán por cada aspecto del enfoque para la prestación del servicio, para cada usuario de extensión agropecuario. La figura 4, muestra los niveles, donde el 1 corresponde al nivel bajo y el 4 al nivel superior (Ministerio de Agricultura y Desarrollo Rural Agencia de Desarrollo Rural - ADR, 2019).
 
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center(data-aos="fade-left")
       .col-lg-8
         .titulo-sexto.color-acento-contenido
           h5 Figura 5.
@@ -125,7 +125,7 @@
         h5.mb-0 Método de clasificación 
     p.mb-5 Teniendo en cuenta que la clasificación de usuarios del servicio público de extensión agropecuaria debe definirse para las diferentes actividades productivas, presentadas en la figura 5. (Ministerio de Agricultura y Desarrollo Rural Agencia de Desarrollo Rural - ADR, 2019).
 
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-lg-8
         .titulo-sexto.color-acento-contenido
           h5 Figura 6.
@@ -153,7 +153,7 @@
       .list__txt
         h5.mb-0 La clasificación de usuarios en el marco de los PDEA
     
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-xl-4.col-sm-10
         figure.mb-5
           img(src='@/assets/curso/temas/tema4/img-14.png', alt='')

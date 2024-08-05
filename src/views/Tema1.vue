@@ -8,7 +8,7 @@
       h1 Desarrollo rural y políticas agrarias en Colombia
 
     p.mb-4 No existe una elaboración histórica completa y sistemática sobre las políticas de reforma agraria y de tierras en Colombia. La historia de esas políticas es una tarea pendiente para la academia de ciencias sociales (Centro Nacional de Memoria Histórica, 2013). Sin embargo, Catherine LeGrand presenta un trabajo destacable en 1988, un relato riguroso y con un análisis coherente con las políticas emitidas durante el período 1850-1950. 
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center(data-aos="fade-left")
       .col-lg-10
 
         .bloque-texto-f.color-secundario.pt-4.px-5.mb-3.fnd-1
@@ -20,7 +20,7 @@
           .bloque-texto-f__autor.mb-3
             h4.mb-0 (CNMH, 2013).
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-4.col-sm-10.mb-4
         figure
           img(src='@/assets/curso/temas/tema1/img-1.png', alt='') 
@@ -33,7 +33,7 @@
             p En el Régimen agrario parte de la premisa de que la transición hacia la economía industrial supone unas relaciones con el exterior diferentes de las que existían hasta los años treinta, cuando el desarrollo colombiano era inducido en lo fundamental por impulsos exteriores "que al ser recogidos por el sector exportador se encargan de ordenar las relaciones económicas internas" (Machado, 1997, p.241).
 
     p.mb-5 De esta manera, se puede decir que antes de 1930, punto de inflexión de la economía capitalista mundial (crisis de 1929, conocida como “La gran depresión”), la dinámica económica en Colombia se encontraba impulsada casi totalmente desde el exterior. Con fines prácticos, siguiendo el esquema de las políticas agrarias propuesto por Mariano Arango Restrepo, escritor pionero en la literatura de la economía agrícola, se puede denominar a los años anteriores de la década de los años treinta como “colonización premoderna”, como primer período de análisis (1874-1923). Jesús Bejarano plantea que a diferencia de las premisas marxistas (postulados de gran aceptación en la comunidad académica), en las tres últimas décadas del siglo XIX y las dos primeras del siglo XX en Colombia se genera, 
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center(data-aos="fade-left")
       .col-lg-10
 
         .bloque-texto-f.color-secundario.pt-4.px-5.fnd-1-.fnd-1
@@ -48,7 +48,7 @@
     p.mb-5 Bejarano concluye que la gran peculiaridad de todo este proceso del caso colombiano es la apertura del mercado interior, no a través de la formación de una clase trabajadora asalariada sino por el surgimiento y  consolidación de los productores cafeteros basados en la pequeña propiedad. La industrialización, por ende, se ve obstaculizada para penetrar al campo (Machado, 1997). Esta época está marcada por cientos de confrontaciones y una aguda violencia entre colonos y terratenientes. 
 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
       .img-fnd-flot
         img.b-img(src='@/assets/curso/temas/tema1/img-2-.png' alt='Background Image')
@@ -57,7 +57,7 @@
           
           p.mb-0 Esta reforma, aunque importante, para nada mejora las condiciones de pobreza en el campo, ni genera el impacto esperado en el desarrollo rural. Se puede decir que del régimen agrario se pasa a un régimen territorial, donde el papel principal es ahora de los terratenientes, grandes inversionistas del agro y comerciantes, principalmente de café, banano y caña de azúcar. A la par de los fenómenos que conllevan la concentración de la tierra que no se logra frenar y las relaciones sociales que de ello se desprenden, se evidencia una creciente pauperización de la mano de obra agraria, la apropiación de terrenos baldíos para generación de valor por especulación y no para la productividad de la tierra.
     
-    .row.justify-content-center.align-items-center.mb-3
+    .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in")
       .col-xl-10
         .img-fnd-flot2.mb-5
           img.b-img2(src='@/assets/curso/temas/tema1/img-3.svg')
@@ -169,7 +169,7 @@
                 img(src='@/assets/curso/temas/tema1/img-11.png')   
 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-4.col-sm-10.order-1.order-lg-2 
         figure.mb-5.mb-4.mb-lg-0
           img(src='@/assets/curso/temas/tema1/img-12.png', alt='')    
@@ -179,7 +179,7 @@
         p Afirma que en el inicio del Frente Nacional estaban dadas las condiciones necesarias para realizar con éxito una reforma agraria y que en otros momentos, según Albert Berry (2002), como en los años 30, en 1961 con la Ley 135 y en la constitución de 1991, también fueron clave, por lo cual pudieron haber sido decisivos para una reforma agraria que reclama la ruralidad desde el siglo XIX. Cabe mencionar que el mismo Machado en el año 2000, en su “Agrarismo y ruralidad”, recalca que una reforma redistributiva radical no es viable económicamente pues un pequeño productor no puede defenderse solo en el contexto de la globalización de la economía y la mundialización de la cultura (Centro Nacional de Memoria Histórica, 2013). 
 
 
-    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5.fnd-4
+    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5.fnd-4(data-aos="fade-left")
         .bloque-texto-g__img(
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img-13.png')})`}"
         )
