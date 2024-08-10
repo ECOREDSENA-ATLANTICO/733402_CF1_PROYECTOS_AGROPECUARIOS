@@ -242,7 +242,7 @@ export default {
         'zonas geográficas especiales destinadas a promo­ver la innovación agropecuaria basada en el conocimiento científi­co y tecnológico y a contribuir a la productividad empresarial y la competitividad regional. (Congreso de la República, 2017).',
     },
     {
-      termino: ' Organización Comunitaria',
+      termino: 'Organización Comunitaria',
       significado:
         'todos aquellos productores agrope­cuarios organizados de forma asociativa, cooperativa, solidaria u otras formas de organización (Congreso de la República, 2017).',
     },
@@ -303,7 +303,8 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Líder del Ecosistema',
+          cargo:
+            'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
           centro: 'Dirección General',
         },
         {

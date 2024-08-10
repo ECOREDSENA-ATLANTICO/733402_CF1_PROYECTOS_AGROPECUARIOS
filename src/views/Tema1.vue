@@ -1,7 +1,7 @@
 <template lang="pug">
 .curso-main-container.pb-3
   BannerInterno
-  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
+  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.b-r-b
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
@@ -21,7 +21,7 @@
             h4.mb-0 (CNMH, 2013).
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
-      .col-lg-4.col-sm-10.mb-4
+      .col-lg-4.col-md-10.mb-4
         figure
           img(src='@/assets/curso/temas/tema1/img-1.png', alt='') 
       .col-lg-8
@@ -48,7 +48,7 @@
     p.mb-5 Bejarano concluye que la gran peculiaridad de todo este proceso del caso colombiano es la apertura del mercado interior, no a través de la formación de una clase trabajadora asalariada sino por el surgimiento y  consolidación de los productores cafeteros basados en la pequeña propiedad. La industrialización, por ende, se ve obstaculizada para penetrar al campo (Machado, 1997). Esta época está marcada por cientos de confrontaciones y una aguda violencia entre colonos y terratenientes. 
 
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+    .row.mb-4(data-aos="fade-left")
       .col-lg-12
       .img-fnd-flot
         img.b-img(src='@/assets/curso/temas/tema1/img-2-.png' alt='Background Image')
@@ -56,8 +56,11 @@
           p.mb-3 En vista de este obstáculo, la “revolución en marcha” de López Pumarejo (presidente de Colombia 1934-1938 y 1942-1945) logra generar las condiciones para la industrialización del campo sin realizar una reforma agraria redistributiva, que era la demanda del movimiento campesino entonces como ahora. Las reformas son bien conocidas y básicamente tratan dos puntos: el impulso para el uso productivo de las tierras y la formalización de terrenos baldíos y el fomento de las actividades agropecuarias a través de préstamos y acceso a tierras por contrato. 
           
           p.mb-0 Esta reforma, aunque importante, para nada mejora las condiciones de pobreza en el campo, ni genera el impacto esperado en el desarrollo rural. Se puede decir que del régimen agrario se pasa a un régimen territorial, donde el papel principal es ahora de los terratenientes, grandes inversionistas del agro y comerciantes, principalmente de café, banano y caña de azúcar. A la par de los fenómenos que conllevan la concentración de la tierra que no se logra frenar y las relaciones sociales que de ello se desprenden, se evidencia una creciente pauperización de la mano de obra agraria, la apropiación de terrenos baldíos para generación de valor por especulación y no para la productividad de la tierra.
+
+
+  .container.tarjeta.tarjeta--blanca.b-r-m
     
-    .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in")
+    .row.justify-content-center.align-items-center.mb-3.fnd-i(data-aos="zoom-in")
       .col-xl-10
         .img-fnd-flot2.mb-5
           img.b-img2(src='@/assets/curso/temas/tema1/img-3.svg')
@@ -169,8 +172,10 @@
                 img(src='@/assets/curso/temas/tema1/img-11.png')   
 
 
+  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5.b-r-t
+
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
-      .col-lg-4.col-sm-10.order-1.order-lg-2 
+      .col-lg-4.col-md-10.order-1.order-lg-2 
         figure.mb-5.mb-4.mb-lg-0
           img(src='@/assets/curso/temas/tema1/img-12.png', alt='')    
       .col-lg-8.order-2.order-lg-1
@@ -185,34 +190,6 @@
         )
         .bloque-texto-g__texto.p-4
           p.mb-0 A partir del acuerdo de La Habana (2016), se abre una nueva oportunidad para el desarrollo rural, que de hecho enfrenta retos más grandes y complejos, pero que debe asumir de la mano del estado colombiano, las instituciones, los gobiernos y el sector privado, aprovechando la sinergia de los distintos actores que ofertan los mecanismos, herramientas y servicios de atención a la ruralidad, donde también se encuentra el Servicio Nacional de Aprendizaje (SENA) como un actor importante en el fortalecimiento de capacidades integrales y en la gestión del desarrollo rural a partir del ejercicio de la extensión rural (agropecuaria), la formación para el trabajo, la empleabilidad, la gestión de proyectos, el fortalecimiento de la empresa agropecuaria y agroindustrial, entre otras acciones conjuntas con distintas entidades públicas y privadas, aprovechando el marco que ofrece el nuevo Sistema Nacional de Innovación Agropecuaria (2017) y sus subsistemas. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 </template>

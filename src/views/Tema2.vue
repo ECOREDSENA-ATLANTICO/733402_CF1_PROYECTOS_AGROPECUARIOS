@@ -33,7 +33,7 @@
             img(src="@/assets/curso/temas/tema2/img-2.svg", alt="alt")          
           .crd_03__txt
             p <b>Norma constitucional:</b> ocupa dentro del ordenamiento jurídico el rango más elevado, es la norma suprema dentro del ordenamiento jurídico.
-      .col-lg-4.col-sm-10
+      .col-lg-4
         .crd_03.mb-5
           .crd_03__icon
             img(src="@/assets/curso/temas/tema2/img-2.svg", alt="alt")          
@@ -64,27 +64,27 @@
       h2 2.2 Sistema Nacional de Innovación Agropecuaria Ley 1876 de diciembre 27 de 2017
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
-      .col-lg-6.col-sm-10    
+      .col-lg-4.col-md-10    
         figure.mb-5
           img(src='@/assets/curso/temas/tema2/img-4.png', alt='')         
-      .col-lg-6      
+      .col-lg-8      
         p.mb-4 La Ley 1876 de diciembre 27 de 2017 del Sistema Nacional de Innovación Agropecuaria, se establece con el objeto de crear y poner en marcha el Sistema Nacional de Innovación Agropecuaria (SNIA), compuesto por subsistemas, planes estratégicos, instrumentos de planificación y participación, plataformas de gestión, procedimientos para su implementación, así como mecanismos para su financiación, seguimiento y evaluación; además crea nuevas funciones, competencias y mecanismos de articulación de las entidades y organismos de coordinación del orden nacional y territorial que componen el SNIA y crea el servicio público de extensión agropecuaria y normas para su prestación (Diciembre 27 de 2017 DO N° 50.461).
         p.mb-5 La Ley 1876 de 2017 se crea en el artículo 4 del SNIA, como un subsistema del Sistema Nacional de Competitividad, Ciencia, Tecnología e Innovación (SNCCT), que será coordinado por el Ministerio de Agricultura y Desarrollo Rural (MADR); el SNIA está integrado por tres subsistemas:
         .row.justify-content-center.align-items-center
           .row.tt.mb-2
-            .col-2
+            .col-1
               h3.mb-0 01	
-            .col-10              
+            .col-11              
               p.mb-0 Subsistema nacional de investigación y desarrollo tecnológico agropecuario
           .row.tt.mb-2
-            .col-2
+            .col-1
               h3.mb-0 02	
-            .col-10              
+            .col-11              
               p.mb-0 Subsistema nacional de extensión agropecuaria
           .row.tt
-            .col-2
+            .col-1
               h3.mb-0 03	
-            .col-10              
+            .col-11             
               p.mb-0 Subsistema Nacional de formación y capacitación para la innovación agropecuaria
 
 
@@ -106,11 +106,11 @@
 
         p.mb-5 La norma establece cinco aspectos que se deben tener en cuenta en el momento de prestar el servicio de extensión agropecuaria, como son:
 
-      .col-lg-6.col-sm-10
+      .col-lg-6.col-md-10
         figure.mb-5
           img(src='@/assets/curso/temas/tema2/img-6.png', alt='')
 
-    .row.justify-content-center.d-flex.align-items-stretch(data-aos="fade-left")
+    .row.justify-content-center.d-flex.align-items-stretch.mb-5(data-aos="fade-left")
     
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
@@ -153,7 +153,7 @@
           p.mb-0 En el proceso de extensión agropecuaria los profesionales del sector deben realizar el acompañamiento a productores según el grado de organización, si son población dispersa pero definida por un territorio (vereda) o línea productiva (ganadera, agrícola, agroindustrial); si hacen parte de una organización comunitaria (asociación, cooperativa, etc.) o si tienen una empresa agropecuaria rural. En este acompañamiento el extensionista fortalece, capacita y acompaña a la organización en temas normativos para ello debe tener en cuenta el PDEA que en el artículo 29 lo define como el Plan departamental de extensión agropecuaria el cual es el instrumento de planificación cuatrienal en cada departamento, que en coordinación con sus municipios, distritos y demás actores del SNIA, definirá los elementos estratégicos y operativos para la prestación del servicio de extensión. En este mismo artículo 29 se hace referencia a los elementos mínimos que debe tener el PDEA (Congreso de Colombia, 2017):
 
     .row.justify-content-center.align-items-center(data-aos="fade-left")
-      .col-lg-4.col-sm-10
+      .col-lg-4.col-md-10
         figure.mb-5
           img(src='@/assets/curso/temas/tema2/img-13.png', alt='')
       .col-lg-8
@@ -217,7 +217,7 @@
         p <em>La Resolución 407 de 2018 en el Capítulo IV artículo 4.2 adopta los lineamientos para los Planes Departamentales de Extensión Agropecuaria que a continuación se describen:</em>
         p <em>El PDEA como instrumento de planificación del subsistema de extensión agropecuaria. En la formulación se debe tener en cuenta documentos como el Plan Estratégico de Ciencia Tecnología para el Sector Agropecuario (PECTIA), planes y acuerdos estratégicos, Agendas integradas de competitividad, planes de desarrollo municipal, plan agropecuario municipal y departamental, Planes de Acción para la Transformación del Regional (PART), Planes de Desarrollo con Enfoque Territorial (PDET), Planes Integrales Comunitarios y Municipales de Sustitución y Desarrollo Alternativo (PISDA), Programa Nacional Integral de Sustitución de Cultivos de Uso Ilícito (PNIS), esquemas y planes de ordenamiento territorial vigentes, zonas de protección nacional, regional, local; aptitud y vocación de uso generados por la Unidad de Planificación Rural Agropecuaria (UPRA); Estudio general de suelos para los departamentos; Plan de Manejo y Ordenamiento de Cuencas (POMCA); datos del censo nacional agropecuario 2014.</em>
 
-      .col-lg-4.col-sm-10
+      .col-lg-4.col-md-10
         figure.mb-5
           img(src='@/assets/curso/temas/tema2/img-14.png', alt='')
 
@@ -265,7 +265,7 @@
 
 
     .row.justify-content-center.align-items-center.mb-3(data-aos="fade-left")
-      .col-lg-3.col-sm-10
+      .col-lg-3.col-md-10
         figure.mb-5
           img(src='@/assets/curso/temas/tema2/img-16.png', alt='')
 
@@ -295,7 +295,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-8
             p En esta etapa los equipos formuladores de las secretarías de agricultura departamental y con el acompañamiento técnico de la Agencia de Desarrollo Rural (ADR), determinan los tiempos, movimientos recursos, mecanismos de coordinación con los municipios y demás actores del SNIA para la puesta en marcha del proceso.
-          .col-lg-4.col-sm-10
+          .col-lg-4.col-md-10
             figure
               img(src='@/assets/curso/temas/tema2/img-18.svg', alt='')
 
@@ -303,28 +303,28 @@
         .row.justify-content-center.align-items-center
           .col-lg-8
             p Esta fase debe tener en cuenta tres consideraciones, primero revisión de la información secundaria, establecer las capacidades del territorio, tipos de cadenas productivas importantes, características demográfica y los instrumentos de planificación para el sector agropecuario; segundo identificación de principales problemas o retos cómo operan las cadenas productivas sus principales problemas o retos, etc y por último caracterización de los usuarios, que es el levantamiento de la información primaria con la que se clasifica a los productores por niveles según los criterios de gradualidad establecidos por el MADR en el instrumento de registro y clasificación de usuarios.
-          .col-lg-4.col-sm-10
+          .col-lg-4.col-md-10
             figure
               img(src='@/assets/curso/temas/tema2/img-18.svg', alt='')
       .tarjeta.fnd-5.p-4(titulo="Análisis")
         .row.justify-content-center.align-items-center
           .col-lg-8
             p Se realiza el estudio de la información primaria y secundaria con el fin de establecer, en un primer lugar la composición socio productiva, segundo identificar las principales problemáticas, retos y brechas en extensión agropecuaria, tercero la población sujeto del servicio respecto a sus condiciones socioeconómicas, culturales y productivas y en cuarto lugar las características de los mercados en los que se mueven los productos agrícolas.
-          .col-lg-4.col-sm-10
+          .col-lg-4.col-md-10
             figure
               img(src='@/assets/curso/temas/tema2/img-18.svg', alt='')
       .tarjeta.fnd-5.p-4(titulo="Identificación")
         .row.justify-content-center.align-items-center
           .col-lg-8
             p Es la base en la cual se concretarán los programas de extensión agropecuaria del PDEA los cuales deben incluir líneas de acción, ejes temáticos, estrategias, actividades, objetivos, indicadores, las metas a alcanzar y el cronograma. Luego desde los municipios y distritos se deben formular y ejecutar proyectos de extensión agropecuaria, teniendo en cuenta los parámetros establecidos en los programas de extensión agropecuaria del PDEA.
-          .col-lg-4.col-sm-10
+          .col-lg-4.col-md-10
             figure
               img(src='@/assets/curso/temas/tema2/img-18.svg', alt='')
       .tarjeta.fnd-5.p-4(titulo="Divulgación del PDEA")
         .row.justify-content-center.align-items-center
           .col-lg-8
             p Al finalizar el proceso de formulación del PDEA, pasa a sanción de la Asamblea Departamental quien mediante ordenanza los aprueba y pasa a divulgarse a los actores del SNIA a través de medios electrónicos y/o físicos.
-          .col-lg-4.col-sm-10
+          .col-lg-4.col-md-10
             figure
               img(src='@/assets/curso/temas/tema2/img-18.svg', alt='')
 
@@ -476,7 +476,7 @@
 
 
     .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in")
-      .col-lg-3.col-sm-10
+      .col-lg-3.col-md-10
         figure.mb-5
           img(src='@/assets/curso/temas/tema2/img-31.png', alt='')
 
@@ -512,7 +512,7 @@
 
     
     .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in")
-      .col-lg-3.col-sm-10
+      .col-lg-3.col-md-10
         figure.mb-5
           img(src='@/assets/curso/temas/tema2/img-32.png', alt='')
 
@@ -555,7 +555,7 @@
               h5.mb-0 Capacidades para ejecutar los Planes Departamentales de Extensión Agropecuaria (PDEA): 
           p Se definen como las capacidades humanas técnico-productivas, de mercadeo y comercialización, así como las capacidades sociales integrales y el fortalecimiento de la asociatividad, desarrollo empresarial, innovación, investigación y uso de las TIC, gestión sostenible de recursos naturales y desarrollo de habilidades para la participación de los productores en la política pública sectorial, con que debe contar la entidad que pretende habilitarse como EPSEA.
           p Vínculo comprobable con organizaciones de formación, capacitación, ciencia, tecnología e innovación: las entidades UMATA y CPGA que pretendan habilitarse como EPSEA, deberán cumplir con los mismos requisitos que las entidades privadas y que se relacionaron anteriormente.
-        .col-lg-4.col-sm-10.col-sm-10
+        .col-lg-4.col-md-10.col-md-10
           figure.mb-5
             img(src='@/assets/curso/temas/tema2/img-34.png', alt='')
 
@@ -633,19 +633,19 @@
             p Los recursos del sistema general de regalías, de acuerdo con las disposiciones de la comisión rectora y de los órganos colegiados de administración y decisión.
       .row.justify-content-center           
         .col-lg-5.mb-4
-          .tarjeta-numerada.color-secundario.px-5.py-4
+          .tarjeta-numerada.color-acento-botones.px-5.py-4
             .tarjeta-numerada__numero
-              .h2 7.
+              .h2.text-white 7.
             p Las donaciones de personas naturales o jurídicas, nacionales o extranjeras y organismos internacionales, de conformidad con la normatividad vigente. 
         .col-lg-7.mb-4
-          .tarjeta-numerada.color-acento-botones.px-5.py-2
+          .tarjeta-numerada.color-secundario.px-5.py-2
             .tarjeta-numerada__numero
               .h2.text-white 8.
             p Por último, los aportes de las entidades públicas del orden nacional o territorial, de organizaciones internacionales o de entidades privadas, deberán ser únicamente en dinero y consignados en la fiducia dispuesta por la agencia de desarrollo rural, de conformidad con lo previsto en el manual de operación del FNEA.
 
 
     .row.justify-content-center.mb-5(data-aos="fade-right")
-      .col-xl-8
+      .col-xl-10
         .tarjeta.p-3.fnd-13.fnd-13-
           .row.justify-content-around.align-items-center
             .col-auto
@@ -667,7 +667,7 @@
     p.mb-5 El documento adjunto llamado lineamientos estratégicos de política pública para la agricultura campesina, familiar y comunitaria; es donde se direcciona la política de ACFC, en el marco conceptual, diagnóstico de la ACFC, teniendo como base los ejes estructurantes de los lineamientos de política pública ACFC de que trata el artículo 8 de la resolución 464 de 2017.
 
     .row.justify-content-center
-      .col-xl-8
+      .col-xl-10
         .tarjeta.p-3.fnd-13.fnd-13-
           .row.justify-content-around.align-items-center
             .col-auto
