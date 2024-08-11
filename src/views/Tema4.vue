@@ -19,7 +19,7 @@
             .list__item__icon
               img(src='@/assets/curso/temas/tema4/img-2.svg', alt='')
           .list__txt
-            h5.mb-0 Actores intervinientes
+            h3.mb-0 Actores intervinientes
         p Los actores que intervienen en el registro de usuarios son cinco (5): 
     .row.justify-content-center.align-items-center.mb-3(data-aos="fade-left") 
       .col-lg-7.col-sm-12.order-2.order-lg-1.col-lg-7  
@@ -73,7 +73,7 @@
               .list__item__icon
                 img(src='@/assets/curso/temas/tema4/img-2.svg', alt='')
             .list__txt
-              h5.mb-0 Clasificación de usuarios del servicio público de extensión agropecuaria: 
+              h3.mb-0 Clasificación de usuarios del servicio público de extensión agropecuaria: 
         p según el Ministerio de Agricultura y Desarrollo Rural Agencia de Desarrollo Rural - ADR, (2019, la clasificación de usuarios de extensión agropecuaria consiste en identificar el nivel en el que se encuentran, por cada uno de los aspectos del enfoque para la prestación de este servicio público, para las diversas actividades productivas. Dicha información obtenida a través de la herramienta dispuesta por el Ministerio de Agricultura y Desarrollo Rural, será el insumo principal para adelantar la clasificación respectiva (Ministerio de Agricultura y Desarrollo Rural Agencia de Desarrollo Rural - ADR, 2019). 
 
     .list.mb-3(data-aos="fade-down")
@@ -81,7 +81,7 @@
         .list__item__icon
           img(src='@/assets/curso/temas/tema4/img-2.svg', alt='')
       .list__txt
-        h5.mb-0 Criterios de calificación
+        h3.mb-0 Criterios de calificación
     p.mb-5 Para la calificación de los usuarios del servicio de extensión agropecuaria, está definida en función de la mejora en sus capacidades y condiciones, así como también los logros y progresos frente al enfoque de la prestación del servicio enmarcados en los objetivos propuestos en los PDEA. (Ministerio de Agricultura y Desarrollo Rural Agencia de Desarrollo Rural - ADR, 2019).
 
     .row.justify-content-center.align-items-center(data-aos="fade-right")
@@ -102,7 +102,7 @@
         .list__item__icon
           img(src='@/assets/curso/temas/tema4/img-2.svg', alt='')
       .list__txt
-        h5.mb-0 Niveles de clasificación
+        h3.mb-0 Niveles de clasificación
     p.mb-5 De acuerdo a los criterios de calificación anteriormente mencionados, se definieron cuatro (4) niveles de clasificación, los cuales se identificarán por cada aspecto del enfoque para la prestación del servicio, para cada usuario de extensión agropecuario. La figura 4, muestra los niveles, donde el 1 corresponde al nivel bajo y el 4 al nivel superior (Ministerio de Agricultura y Desarrollo Rural Agencia de Desarrollo Rural - ADR, 2019).
 
     .row.justify-content-center.align-items-center(data-aos="fade-left")
@@ -122,7 +122,7 @@
         .list__item__icon
           img(src='@/assets/curso/temas/tema4/img-2.svg', alt='')
       .list__txt
-        h5.mb-0 Método de clasificación 
+        h3.mb-0 Método de clasificación 
     p.mb-5 Teniendo en cuenta que la clasificación de usuarios del servicio público de extensión agropecuaria debe definirse para las diferentes actividades productivas, presentadas en la figura 5. (Ministerio de Agricultura y Desarrollo Rural Agencia de Desarrollo Rural - ADR, 2019).
 
     .row.justify-content-center.align-items-center(data-aos="fade-right")
@@ -151,7 +151,7 @@
         .list__item__icon
           img(src='@/assets/curso/temas/tema4/img-2.svg', alt='')
       .list__txt
-        h5.mb-0 La clasificación de usuarios en el marco de los PDEA
+        h3.mb-0 La clasificación de usuarios en el marco de los PDEA
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-xl-4.col-md-10

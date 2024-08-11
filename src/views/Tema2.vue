@@ -275,7 +275,7 @@
             .list__item__icon
               img(src='@/assets/curso/temas/tema4/img-2.svg', alt='')
           .list__txt
-            h5.mb-0 Participación de los actores en la formulación del PDEA
+            h3.mb-0 Participación de los actores en la formulación del PDEA
         p En la etapa de formulación participan los municipios y distritos, realizando el fortalecimiento de los Consejos Municipales de Desarrollo Rural (CMDR) que son los espacios de diálogo y concertación de las necesidades e iniciativas en materia de extensión agropecuaria; entre los actores que deben tener representación están las comunidades étnicas, las mujeres, los jóvenes y cualquier otra población.
 
         .list.mb-3(data-aos="fade-down")
@@ -283,7 +283,7 @@
             .list__item__icon
               img(src='@/assets/curso/temas/tema4/img-2.svg', alt='')
           .list__txt
-            h5.mb-0 Formulación cuatrienal del PDEA
+            h3.mb-0 Formulación cuatrienal del PDEA
         p Solo se debe formular para un periodo nomayor de cuatro años en los cuales las entidades prestadores del servicio de extensión agropecuaria prestarán el servicio a partir de las orientaciones del PDEA.
 
         p Proceso de formulación del PDEA: 
@@ -415,7 +415,7 @@
             .list__item__icon
               img(src='@/assets/curso/temas/tema4/img-2.svg', alt='')
           .list__txt
-            h5.mb-0 Requisitos de habilitación de Entidades Prestadoras del Servicio de Extensión Agropecuaria (EPSEA)
+            h3.mb-0 Requisitos de habilitación de Entidades Prestadoras del Servicio de Extensión Agropecuaria (EPSEA)
     p Las entidades que pueden inscribirse en el registro de EPSEA son las que se encuentran en el artículo 32 de la ley 1876 de 2017 y que acrediten los requisitos del artículo 33 de la misma Ley. Las entidades que deseen constituirse como EPSEA deben tener un equipo mínimo con los siguientes perfiles:      
 
 
@@ -486,28 +486,28 @@
             .list__item__icon
               img(src='@/assets/curso/temas/tema4/img-2.svg', alt='')
           .list__txt
-            h5.mb-0 Capacidades para ejecutar los PDEA
+            h3.mb-0 Capacidades para ejecutar los PDEA
         p Son las capacidades humanas, técnico productivas, de mercadeo y comercialización, así como las capacidades sociales integrales y el fortalecimiento de la asociatividad, desarrollo empresarial, innovación, investigación y uso de las TIC, gestión sostenible de recursos naturales y desarrollo de habilidades para la participación de los productores en la política pública sectorial, con que debe contar la entidad que pretende habilitarse como EPSEA.
         .list.mb-3(data-aos="fade-down")
           .list__item
             .list__item__icon
               img(src='@/assets/curso/temas/tema4/img-2.svg', alt='')
           .list__txt
-            h5.mb-0 Vínculo comprobable con organizaciones de formación, capacitación, ciencia, tecnología e innovación
+            h3.mb-0 Vínculo comprobable con organizaciones de formación, capacitación, ciencia, tecnología e innovación
         p En este ítem las entidades deben demostrar, mediante documento idóneo, que cuentan con vínculos vigentes, tales como contratos, convenios, alianzas y/o acuerdos, con entidades de educación, de formación y/o de capacitación en el sector agropecuario, o con centros de investigación y de desarrollo tecnológico, que en general adelanten actividades de ciencia, tecnología e innovación del sector agropecuario. 
       .list.mb-3(data-aos="fade-down")
         .list__item
           .list__item__icon
             img(src='@/assets/curso/temas/tema4/img-2.svg', alt='')
         .list__txt
-          h5.mb-0 Capacidad Financiera 
+          h3.mb-0 Capacidad Financiera 
       p Las entidades deben acreditar la siguiente capacidad financiera: 1. Índice de Liquidez mayor o igual a 1.00 veces. (Activo Corriente / Pasivo Corriente); 2. Índice de endeudamiento menor o igual al 75.00%. (Pasivo Total / Activo Total).
       .list.mb-3(data-aos="fade-down")
         .list__item
           .list__item__icon
             img(src='@/assets/curso/temas/tema4/img-2.svg', alt='')
         .list__txt
-          h5.mb-0 Constitución y situación legal conforme
+          h3.mb-0 Constitución y situación legal conforme
       p Las entidades que deseen registrarse como EPSEA deben cumplir con los requisitos establecidos en el Artículo Noveno de la presente Ley.
 
     
@@ -522,14 +522,14 @@
             .list__item__icon
               img(src='@/assets/curso/temas/tema4/img-2.svg', alt='')
           .list__txt
-            h5.mb-0 Requisitos especiales para la habilitación de las Unidades Municipales de Asistencia Técnica Agropecuaria (UMATA), Centros Provinciales de Gestión Agroempresarial (CPGA)
+            h3.mb-0 Requisitos especiales para la habilitación de las Unidades Municipales de Asistencia Técnica Agropecuaria (UMATA), Centros Provinciales de Gestión Agroempresarial (CPGA)
         p tanto las UMATA como los CPGA, pueden realizar el proceso de habilitación como EPSEA para poder prestar el servicio de Extensión Agropecuaria en el municipio correspondiente.
         .list.mb-3(data-aos="fade-down")
           .list__item
             .list__item__icon
               img(src='@/assets/curso/temas/tema4/img-2.svg', alt='')
           .list__txt
-            h5.mb-0 RequisRecurso humano, formación profesional experiencia y desarrollo de competencias
+            h3.mb-0 RequisRecurso humano, formación profesional experiencia y desarrollo de competencias
         p Las dos entidades UMATA y CPGA deben contar con un equipo de profesionales que presente los siguientes  perfiles:
 
 
@@ -565,7 +565,7 @@
             .list__item__icon
               img(src='@/assets/curso/temas/tema4/img-2.svg', alt='')
           .list__txt
-            h5.mb-0 Capacidades para ejecutar los Planes Departamentales de Extensión Agropecuaria (PDEA): 
+            h3.mb-0 Capacidades para ejecutar los Planes Departamentales de Extensión Agropecuaria (PDEA): 
         p Se definen como las capacidades humanas técnico-productivas, de mercadeo y comercialización, así como las capacidades sociales integrales y el fortalecimiento de la asociatividad, desarrollo empresarial, innovación, investigación y uso de las TIC, gestión sostenible de recursos naturales y desarrollo de habilidades para la participación de los productores en la política pública sectorial, con que debe contar la entidad que pretende habilitarse como EPSEA.
         p Vínculo comprobable con organizaciones de formación, capacitación, ciencia, tecnología e innovación: las entidades UMATA y CPGA que pretendan habilitarse como EPSEA, deberán cumplir con los mismos requisitos que las entidades privadas y que se relacionaron anteriormente.
       .col-lg-4.col-md-10.col-md-10
