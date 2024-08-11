@@ -532,32 +532,45 @@
             h5.mb-0 RequisRecurso humano, formación profesional experiencia y desarrollo de competencias
         p Las dos entidades UMATA y CPGA deben contar con un equipo de profesionales que presente los siguientes  perfiles:
 
-    .row.justify-content-center.align-items-center(data-aos="fade-left")
-      .col-lg-12.fnd-12.mb-5
-        .row.justify-content-center.align-items-center
-          .col-lg-5.img-12.mb-4
-            img.img-425(src='@/assets/curso/temas/tema2/img-33-1-.svg' alt='Director: un (1) profesional en áreas agropecuarias o profesiones afines con el sector agropecuario, medio ambiental o pesquero con tarjeta profesional vigente; así como experiencia en el sector agropecuario, medio ambiente o pesquero no menor de tres (3) años.')
-            h5 Director: 
-            p un (1) profesional en áreas agropecuarias o profesiones afines con el sector agropecuario, medio ambiental o pesquero con tarjeta profesional vigente; así como experiencia en el sector agropecuario, medio ambiente o pesquero no menor de tres (3) años.
-          .col-lg-7.img-13.mb-4
-            img.img-426(src='@/assets/curso/temas/tema2/img-33-2-.svg' alt='Coordinador de proyectos agropecuarios: un (1) profesional titulado en alguna de las profesiones de los siguientes núcleos básicos de conocimiento en: agronomía; biología, microbiología y afines; ingeniería agrícola, forestal y afines; administración; economía; ingeniería agroindustrial, alimentos y afines; ingeniería agronómica, pecuaria y afines; medicina veterinaria; zootecnia, con tarjeta profesional vigente (si aplica), con título de posgrado en alguno de los siguientes niveles de formación: especialización universitaria; maestría; doctorado, con experiencia profesional específica de dos (2) años en coordinación, ejecución y supervisión de proyectos agropecuarios, pesquero, acuícola, forestal o desarrollo rural.')
-            h5 Coordinador de proyectos agropecuarios: 
-            p Un (1) profesional titulado en alguna de las profesiones de los siguientes núcleos básicos de conocimiento en: agronomía; biología, microbiología y afines; ingeniería agrícola, forestal y afines; administración; economía; ingeniería agroindustrial, alimentos y afines; ingeniería agronómica, pecuaria y afines; medicina veterinaria; zootecnia, con tarjeta profesional vigente (si aplica), con título de posgrado en alguno de los siguientes niveles de formación: especialización universitaria; maestría; doctorado, con experiencia profesional específica de dos (2) años en coordinación, ejecución y supervisión de proyectos agropecuarios, pesquero, acuícola, forestal o desarrollo rural.
 
 
-      .row.justify-content-center.align-items-center.mb-5
-        .col-lg-8
-          .list.mb-3(data-aos="fade-down")
-            .list__item
-              .list__item__icon
-                img(src='@/assets/curso/temas/tema4/img-2.svg', alt='')
-            .list__txt
-              h5.mb-0 Capacidades para ejecutar los Planes Departamentales de Extensión Agropecuaria (PDEA): 
-          p Se definen como las capacidades humanas técnico-productivas, de mercadeo y comercialización, así como las capacidades sociales integrales y el fortalecimiento de la asociatividad, desarrollo empresarial, innovación, investigación y uso de las TIC, gestión sostenible de recursos naturales y desarrollo de habilidades para la participación de los productores en la política pública sectorial, con que debe contar la entidad que pretende habilitarse como EPSEA.
-          p Vínculo comprobable con organizaciones de formación, capacitación, ciencia, tecnología e innovación: las entidades UMATA y CPGA que pretendan habilitarse como EPSEA, deberán cumplir con los mismos requisitos que las entidades privadas y que se relacionaron anteriormente.
-        .col-lg-4.col-md-10.col-md-10
-          figure.mb-5
-            img(src='@/assets/curso/temas/tema2/img-34.png', alt='')
+
+
+    .row.justify-content-center.align-items-center.fnd-12.mb-5
+      .col-lg-5.mb-4.p-3
+        .row.justify-content-center.align-items-center.img-14
+          .img-fnd-avat
+            img.b-img-avat1(src='@/assets/curso/temas/tema2/img-avat1.svg' alt='Background Image')
+            .fl-box-avat1
+              h5 Director: 
+              p un (1) profesional en áreas agropecuarias o profesiones afines con el sector agropecuario, medio ambiental o pesquero con tarjeta profesional vigente; así como experiencia en el sector agropecuario, medio ambiente o pesquero no menor de tres (3) años.
+      .col-lg-7.mb-4
+        .row.justify-content-center.align-items-center.img-15
+          .img-fnd-avat
+            img.b-img-avat2(src='@/assets/curso/temas/tema2/img-avat2.svg' alt='Background Image')
+            .fl-box-avat2
+              h5 Coordinador de proyectos agropecuarios: 
+              p Un (1) profesional titulado en alguna de las profesiones de los siguientes núcleos básicos de conocimiento en: agronomía; biología, microbiología y afines; ingeniería agrícola, forestal y afines; administración; economía; ingeniería agroindustrial, alimentos y afines; ingeniería agronómica, pecuaria y afines; medicina veterinaria; zootecnia, con tarjeta profesional vigente (si aplica), con título de posgrado en alguno de los siguientes niveles de formación: especialización universitaria; maestría; doctorado, con experiencia profesional específica de dos (2) años en coordinación, ejecución y supervisión de proyectos agropecuarios, pesquero, acuícola, forestal o desarrollo rural.
+
+
+
+
+
+
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-8
+        .list.mb-3(data-aos="fade-down")
+          .list__item
+            .list__item__icon
+              img(src='@/assets/curso/temas/tema4/img-2.svg', alt='')
+          .list__txt
+            h5.mb-0 Capacidades para ejecutar los Planes Departamentales de Extensión Agropecuaria (PDEA): 
+        p Se definen como las capacidades humanas técnico-productivas, de mercadeo y comercialización, así como las capacidades sociales integrales y el fortalecimiento de la asociatividad, desarrollo empresarial, innovación, investigación y uso de las TIC, gestión sostenible de recursos naturales y desarrollo de habilidades para la participación de los productores en la política pública sectorial, con que debe contar la entidad que pretende habilitarse como EPSEA.
+        p Vínculo comprobable con organizaciones de formación, capacitación, ciencia, tecnología e innovación: las entidades UMATA y CPGA que pretendan habilitarse como EPSEA, deberán cumplir con los mismos requisitos que las entidades privadas y que se relacionaron anteriormente.
+      .col-lg-4.col-md-10.col-md-10
+        figure.mb-5
+          img(src='@/assets/curso/temas/tema2/img-34.png', alt='')
 
 
 
@@ -600,23 +613,23 @@
       .col-lg-12
         h5.mb-5 Según reza el Decreto, los recursos del FNEA de acuerdo con lo establecido estarán conformados por:
       .row.d-flex.align-items-stretch.mb-3
-        .col-lg-3.mb-5
-          .tarjeta-numerada.color-secundario.p-5
+        .col-xl-3.mb-5.col-lg-6
+          .tarjeta-numerada.color-secundario.px-lg-5.py-lg-3.p-md-5
             .tarjeta-numerada__numero
               .h2 1.
             p.mb-0 Los recursos propios de los entes territoriales. 
-        .col-lg-3.mb-4
-          .tarjeta-numerada.color-acento-botones.p-5
+        .col-xl-3.mb-4.col-lg-6
+          .tarjeta-numerada.color-acento-botones.px-lg-5.py-lg-3.p-md-5
             .tarjeta-numerada__numero
               .h2.text-white 2.
             p.mb-0 Los recursos del presupuesto general de la nación. 
-        .col-lg-3.mb-4
-          .tarjeta-numerada.color-secundario.p-5
+        .col-xl-3.mb-4.col-lg-6
+          .tarjeta-numerada.color-secundario.px-lg-5.py-lg-3.p-md-5
             .tarjeta-numerada__numero
               .h2 3.
             p.mb-0 Los recursos de libre inversión del componente de propósito general del sistema general de participaciones. 
-        .col-lg-3.mb-4
-          .tarjeta-numerada.color-acento-botones.p-5
+        .col-xl-3.mb-4.col-lg-6
+          .tarjeta-numerada.color-acento-botones.px-lg-5.py-lg-3.p-md-5
             .tarjeta-numerada__numero
               .h2.text-white 4.
             p.mb-0 Los recursos de cooperación internacional. 
@@ -627,7 +640,7 @@
               .h2 5.
             p Los instrumentos financieros creados en el marco del sistema nacional de crédito agropecuario. 
         .col-lg-6.mb-4
-          .tarjeta-numerada.color-acento-botones.px-5.py-2
+          .tarjeta-numerada.color-acento-botones.px-5.py-3
             .tarjeta-numerada__numero
               .h2.text-white 6.
             p Los recursos del sistema general de regalías, de acuerdo con las disposiciones de la comisión rectora y de los órganos colegiados de administración y decisión.
