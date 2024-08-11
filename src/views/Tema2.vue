@@ -71,21 +71,21 @@
         p.mb-4 La Ley 1876 de diciembre 27 de 2017 del Sistema Nacional de Innovación Agropecuaria, se establece con el objeto de crear y poner en marcha el Sistema Nacional de Innovación Agropecuaria (SNIA), compuesto por subsistemas, planes estratégicos, instrumentos de planificación y participación, plataformas de gestión, procedimientos para su implementación, así como mecanismos para su financiación, seguimiento y evaluación; además crea nuevas funciones, competencias y mecanismos de articulación de las entidades y organismos de coordinación del orden nacional y territorial que componen el SNIA y crea el servicio público de extensión agropecuaria y normas para su prestación (Diciembre 27 de 2017 DO N° 50.461).
         p.mb-5 La Ley 1876 de 2017 se crea en el artículo 4 del SNIA, como un subsistema del Sistema Nacional de Competitividad, Ciencia, Tecnología e Innovación (SNCCT), que será coordinado por el Ministerio de Agricultura y Desarrollo Rural (MADR); el SNIA está integrado por tres subsistemas:
         .row.justify-content-center.align-items-center
-          .row.tt.mb-2
+          .row.tt.mb-2.justify-content-center.align-items-center
             .col-1
-              h3.mb-0 01	
+              h1.mb-0 01	
             .col-11              
-              p.mb-0 Subsistema nacional de investigación y desarrollo tecnológico agropecuario
-          .row.tt.mb-2
+              h5.mb-0.ps-3 Subsistema nacional de investigación y desarrollo tecnológico agropecuario
+          .row.tt.mb-2.justify-content-center.align-items-center
             .col-1
-              h3.mb-0 02	
+              h1.mb-0 02	
             .col-11              
-              p.mb-0 Subsistema nacional de extensión agropecuaria
-          .row.tt
+              h5.mb-0.ps-3 Subsistema nacional de extensión agropecuaria
+          .row.tt.justify-content-center.align-items-center
             .col-1
-              h3.mb-0 03	
+              h1.mb-0 03	
             .col-11             
-              p.mb-0 Subsistema Nacional de formación y capacitación para la innovación agropecuaria
+              h5.mb-0.ps-3 Subsistema Nacional de formación y capacitación para la innovación agropecuaria
 
 
     .row.justify-content-center.align-items-center(data-aos="zoom-in")
