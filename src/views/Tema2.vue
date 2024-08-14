@@ -528,7 +528,7 @@
           .list__item
             .list__item__icon
               img(src='@/assets/curso/temas/tema4/img-2.svg', alt='')
-          .list__txt2
+          .list__txt3
             h3.mb-0 RequisRecurso humano, formación profesional experiencia y desarrollo de competencias
         p Las dos entidades UMATA y CPGA deben contar con un equipo de profesionales que presente los siguientes  perfiles:
 
