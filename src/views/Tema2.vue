@@ -343,7 +343,7 @@
                 h4.tx-1 Resolución 407 de 2018
 
                 LineaTiempoC.color-acento-botones
-                  .row(titulo="Desarrollo de capacidades humanas - tecnicas")
+                  .row.justify-content-center(titulo="Desarrollo de capacidades humanas - tecnicas")
                     .col-lg-6.mb-4.mb-md-0.px-5.order-2.order-lg-1
                       p.mb-0 • Identificación de la actividad productiva principal.
                       p.mb-0 • Identificación de actividades productivas secundarias.
@@ -355,10 +355,10 @@
                       p.mb-0 • Tipo mano de obra empleada.
                       p.mb-5 • Acceso a crédito y bancarización.
 
-                    .col-lg-6.order-1.order-lg-2
+                    .col-lg-6.order-1.order-lg-2.col-md-10
                       figure.mb-5
                         img(src='@/assets/curso/temas/tema2/img-20.png')
-                  .row(titulo="Desarrollo de capacidades Sociales")
+                  .row.justify-content-center(titulo="Desarrollo de capacidades Sociales")
                     .col-lg-6.mb-4.mb-md-0.px-5.order-2.order-lg-1
                       p.mb-0 • Vinculación a algún tipo de organización.
                       p.mb-0 • Realización de actividades productivas de manera colectiva.
@@ -368,10 +368,10 @@
                       p.mb-0 • Uso de sellos de calidad y certificaciones.
                       p.mb-0 • Conocimiento sobre propiedad intelectual.
 
-                    .col-lg-6.order-1.order-lg-2
+                    .col-lg-6.order-1.order-lg-2.col-md-10
                       figure.mb-5
                         img(src='@/assets/curso/temas/tema2/img-21.png')
-                  .row(titulo="Acceso a la información y uso de las TIC")
+                  .row.justify-content-center(titulo="Acceso a la información y uso de las TIC")
                     .col-lg-6.mb-4.mb-md-0.px-5.order-2.order-lg-1
                       p.mb-0 • Acceso a fuentes de información.
                       p.mb-0 • Acceso a las TIC.
@@ -379,27 +379,27 @@
                       p.mb-0 • Habilidades y competencias en el uso de TIC.
                       p.mb-0 • Apropiación social del conocimiento tradicional y científico.
 
-                    .col-lg-6.order-1.order-lg-2
+                    .col-lg-6.order-1.order-lg-2.col-md-10
                       figure.mb-5
                         img(src='@/assets/curso/temas/tema2/img-22.png')
-                  .row(titulo="Sostenibilidad ambiental")
+                  .row.justify-content-center(titulo="Sostenibilidad ambiental")
                     .col-lg-6.mb-4.mb-md-0.px-5.order-2.order-lg-1
                       p.mb-0 • Practicas de manejo y conservación del medio ambiente y de la biodiversidad.
                       p.mb-0 • Prácticas ambientales sostenibles y/o sustentables.
                       p.mb-0 • Actividades de mitigación y adaptación al cambio climático.
                       p.mb-0 • Cumplimiento de normatividad ambiental.
 
-                    .col-lg-6.order-1.order-lg-2
+                    .col-lg-6.order-1.order-lg-.col-md-10
                       figure.mb-5
                         img(src='@/assets/curso/temas/tema2/img-23.png')
-                  .row(titulo="Habilidades para la participación política en instancias para tal fin")
+                  .row.justify-content-center(titulo="Habilidades para la participación política en instancias para tal fin")
                     .col-lg-6.mb-4.mb-md-0.px-5.order-2.order-lg-1
                       p.mb-0 • Conocimiento sobre instancias y mecanismos de participación.
                       p.mb-0 • Conocimiento sobre herramientas para la participación.
                       p.mb-0 • Ejercicio de control político y social.
                       p.mb-0 • Fomento de la autogestión de las comunidades.
 
-                    .col-lg-6.order-1.order-lg-2
+                    .col-lg-6.order-1.order-lg-2.col-md-10
                       figure.mb-5
                         img(src='@/assets/curso/temas/tema2/img-24.png')
           figcaption Nota. Secretarios de Cadenas Pecuarias Ministerio de Agricultura
@@ -414,7 +414,7 @@
           .list__item
             .list__item__icon
               img(src='@/assets/curso/temas/tema4/img-2.svg', alt='')
-          .list__txt
+          .list__txt3
             h3.mb-0 Requisitos de habilitación de Entidades Prestadoras del Servicio de Extensión Agropecuaria (EPSEA)
     p Las entidades que pueden inscribirse en el registro de EPSEA son las que se encuentran en el artículo 32 de la ley 1876 de 2017 y que acrediten los requisitos del artículo 33 de la misma Ley. Las entidades que deseen constituirse como EPSEA deben tener un equipo mínimo con los siguientes perfiles:      
 
@@ -492,7 +492,7 @@
           .list__item
             .list__item__icon
               img(src='@/assets/curso/temas/tema4/img-2.svg', alt='')
-          .list__txt
+          .list__txt2
             h3.mb-0 Vínculo comprobable con organizaciones de formación, capacitación, ciencia, tecnología e innovación
         p En este ítem las entidades deben demostrar, mediante documento idóneo, que cuentan con vínculos vigentes, tales como contratos, convenios, alianzas y/o acuerdos, con entidades de educación, de formación y/o de capacitación en el sector agropecuario, o con centros de investigación y de desarrollo tecnológico, que en general adelanten actividades de ciencia, tecnología e innovación del sector agropecuario. 
       .list.mb-3(data-aos="fade-down")
@@ -521,20 +521,16 @@
           .list__item
             .list__item__icon
               img(src='@/assets/curso/temas/tema4/img-2.svg', alt='')
-          .list__txt
+          .list__tx
             h3.mb-0 Requisitos especiales para la habilitación de las Unidades Municipales de Asistencia Técnica Agropecuaria (UMATA), Centros Provinciales de Gestión Agroempresarial (CPGA)
         p tanto las UMATA como los CPGA, pueden realizar el proceso de habilitación como EPSEA para poder prestar el servicio de Extensión Agropecuaria en el municipio correspondiente.
         .list.mb-3(data-aos="fade-down")
           .list__item
             .list__item__icon
               img(src='@/assets/curso/temas/tema4/img-2.svg', alt='')
-          .list__txt
+          .list__txt2
             h3.mb-0 RequisRecurso humano, formación profesional experiencia y desarrollo de competencias
         p Las dos entidades UMATA y CPGA deben contar con un equipo de profesionales que presente los siguientes  perfiles:
-
-
-
-
 
     .row.justify-content-center.align-items-center.fnd-12.mb-5
       .col-lg-5.mb-4.p-3
@@ -552,19 +548,13 @@
               h5 Coordinador de proyectos agropecuarios: 
               p Un (1) profesional titulado en alguna de las profesiones de los siguientes núcleos básicos de conocimiento en: agronomía; biología, microbiología y afines; ingeniería agrícola, forestal y afines; administración; economía; ingeniería agroindustrial, alimentos y afines; ingeniería agronómica, pecuaria y afines; medicina veterinaria; zootecnia, con tarjeta profesional vigente (si aplica), con título de posgrado en alguno de los siguientes niveles de formación: especialización universitaria; maestría; doctorado, con experiencia profesional específica de dos (2) años en coordinación, ejecución y supervisión de proyectos agropecuarios, pesquero, acuícola, forestal o desarrollo rural.
 
-
-
-
-
-
-
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         .list.mb-3(data-aos="fade-down")
           .list__item
             .list__item__icon
               img(src='@/assets/curso/temas/tema4/img-2.svg', alt='')
-          .list__txt
+          .list__txt2
             h3.mb-0 Capacidades para ejecutar los Planes Departamentales de Extensión Agropecuaria (PDEA): 
         p Se definen como las capacidades humanas técnico-productivas, de mercadeo y comercialización, así como las capacidades sociales integrales y el fortalecimiento de la asociatividad, desarrollo empresarial, innovación, investigación y uso de las TIC, gestión sostenible de recursos naturales y desarrollo de habilidades para la participación de los productores en la política pública sectorial, con que debe contar la entidad que pretende habilitarse como EPSEA.
         p Vínculo comprobable con organizaciones de formación, capacitación, ciencia, tecnología e innovación: las entidades UMATA y CPGA que pretendan habilitarse como EPSEA, deberán cumplir con los mismos requisitos que las entidades privadas y que se relacionaron anteriormente.

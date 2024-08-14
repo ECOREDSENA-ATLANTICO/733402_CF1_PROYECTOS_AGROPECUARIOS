@@ -72,7 +72,7 @@
             .list__item
               .list__item__icon
                 img(src='@/assets/curso/temas/tema4/img-2.svg', alt='')
-            .list__txt
+            .list__txt2
               h3.mb-0 Clasificación de usuarios del servicio público de extensión agropecuaria: 
         p según el Ministerio de Agricultura y Desarrollo Rural Agencia de Desarrollo Rural - ADR, (2019, la clasificación de usuarios de extensión agropecuaria consiste en identificar el nivel en el que se encuentran, por cada uno de los aspectos del enfoque para la prestación de este servicio público, para las diversas actividades productivas. Dicha información obtenida a través de la herramienta dispuesta por el Ministerio de Agricultura y Desarrollo Rural, será el insumo principal para adelantar la clasificación respectiva (Ministerio de Agricultura y Desarrollo Rural Agencia de Desarrollo Rural - ADR, 2019). 
 

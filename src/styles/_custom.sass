@@ -586,8 +586,9 @@
     .fl-box2
       position: absolute
       top: 48%
+      left: 5%
       transform: translatey(-52%)
-      width: 85%
+      width: 86%
       padding: 20px
     .fl-box4
       width: 90%
@@ -656,6 +657,15 @@ $crd-width: calc(100% - ((#{$crd-icon-size} / 2)))
       margin-top: 4px
   &__txt 
     margin-top: 1rem
+  &__txt2, &__txt3
+    margin-top: 0.2rem
+  @media (max-width: 576px)
+    &__txt, &__txt2
+      margin-top: 0rem
+  @media (min-width: 1200px)
+    &__txt3 
+      margin-top: 1rem
+
 .img-86
   height: 86px    
 
@@ -772,10 +782,15 @@ $crd-width: calc(100% - ((#{$crd-icon-size} / 2)))
 .b-r-t
   border-radius: 0 0 20px 20px
 
+.banner-principal__row .banner-principal__img 
+    padding-right: 0 !important
+
 .banner-principal .tarjeta   
   background-image: url(../assets/curso/portada/fondo-banner-principal-v.png) !important
   background-repeat: no-repeat      
   background-position: bottom center
   background-size: cover
-  @media (min-width: 768px)  
-    background-image: url(../assets/curso/portada/fondo-banner-principal.png) !important
+  @media (min-width: 768px) and (max-width:992px)
+    background-image: url(../assets/curso/portada/fondo-banner-principal-m.png) !important    
+  @media(min-width: 992px)
+    background-image: url(../assets/curso/portada/fondo-banner-principal.png) !important    
