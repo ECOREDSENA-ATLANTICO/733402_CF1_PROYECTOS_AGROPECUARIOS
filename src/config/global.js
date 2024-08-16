@@ -74,6 +74,12 @@ export default {
               'Decreto 1319 de 01 de octubre 2020 - Fondo Nacional de Extensión Agropecuaria (FNEA)',
             hash: '2_5',
           },
+          {
+            numero: '2.6',
+            titulo:
+              'Ley 464 de 29 de diciembre 2017 - Agricultura familiar campesina y comunitaria ACFC',
+            hash: '2_6',
+          },
         ],
       },
       {

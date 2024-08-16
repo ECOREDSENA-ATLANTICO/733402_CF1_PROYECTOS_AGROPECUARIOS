@@ -662,12 +662,43 @@
                     span Enlace
                     i.fas.fa-file-download
 
+    Separador
+    #2_6.titulo-segundo.color-acento-contenido
+      h2 2.6. Ley 464 de 29 de diciembre 2017 - Agricultura familiar campesina y comunitaria ACFC.
 
-    figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-8.order-lg-1.order-2
+        p El ministerio de agricultura y desarrollo rural adopta mediante la resolución 464 de 2017 los lineamientos estratégicos de política pública para la Agricultura Campesina, Familiar y Comunitaria (ACFC), en esta normativa se busca mediante la implementación de los lineamientos coadyuvar a la implementación de varios aspectos de la reforma rural integral, para esto plantea como objetivo general de los lineamientos estratégicos de la política pública para la ACFC, planificar y gestionar la acción integral del Estado y orientar la institucionalidad social o privada, dirigida al fortalecimiento de las capacidades sociales, económicas y políticas de las familias, comunidades y organizaciones de agricultura campesina, familiar y comunitaria, sobre la base de un desarrollo rural con enfoque territorial que mejore la sostenibilidad de la producción agropecuaria y que genere bienestar y buen vivir a la población rural. (MADR, 2017).
+        p En el proceso de fortalecer y proteger la ACFC deben socializarse varias definiciones algunas de las cuales son:
+      .col-lg-4.col-md-8.orger-lg-2.order-1
+        figure.mb-5
+          img(src='@/assets/curso/temas/tema2/img-38.png', alt='')
 
-    p.mb-5 El documento adjunto llamado lineamientos estratégicos de política pública para la agricultura campesina, familiar y comunitaria; es donde se direcciona la política de ACFC, en el marco conceptual, diagnóstico de la ACFC, teniendo como base los ejes estructurantes de los lineamientos de política pública ACFC de que trata el artículo 8 de la resolución 464 de 2017.
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-4.col-md-8.col-xl-3
+        figure.mb-5
+          img(src='@/assets/curso/temas/tema2/img-39.png', alt='')
+      .col-lg-8.col-xl-9
+        AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta fnd-tarjeta")
+          .row(titulo="Agricultura campesina, familiar y comunitaria")
+            p Sistema de producción y organización gestionado y operado por mujeres, hombres, familias, comunidades campesinas, indígenas, negras, afrodescendientes, raizales y palenqueras que conviven en los territorios rurales del país. En este sistema se desarrollan principalmente actividades de producción, transformación,  comercialización de bienes y servicios agrícolas, pecuarios, pesqueros, acuícolas, silvícolas, entre otros que suelen complementarse con actividades no agropecuarias.
+          .row(titulo="Desarrollo rural con enfoque territorial")
+            p es un proceso continuo de transformación, promoción y generación de las condiciones sociales, económicas, ambientales, culturales e institucionales necesarias para que el territorio rural y sus actores, tanto a nivel individual como colectivo. Despliegan sus capacidades y potencialidades a partir de una visión sistémica, holística, integral y compartida del aprovechamiento sostenible del potencial del territorio, para mejorar su productividad y contribuir al bienestar y buen vivir de los pobladores rurales.
+          .row(titulo="Economía campesina, familiar y comunitaria")
+            p sistema de producción, transformación, distribución, comercialización y consumo de bienes y servicios, organizado y gestionado por los hombres, mujeres, familias, y comunidades (campesinas, indígenas, negras, afrodescendientes, raizales y palenqueras) que conviven en los territorios rurales del país.
+          .row(titulo="Economía solidaria")
+            p sistema socioeconómico, cultural y ambiental conformado por el conjunto de fuerzas sociales organizadas en formas asociativas identificadas por prácticas autogestionarias solidarias, democráticas y humanistas, sin ánimo de lucro para el desarrollo integral del ser humano como sujeto, actor y fin de la economía (Artículo 2o de la Ley 454 de 1998).
+          .row(titulo="Mercados campesinos y comunitarios")
+            p esquemas de comercialización de bienes y servicios agropecuarios a nivel local caracterizados por: (i) presencia y gestión, de manera exclusiva o principal, por parte de productores y organizaciones de agricultura campesina, familiar y comunitaria; (ii) ausencia o mínima intermediación (limitada a algunos productos no disponibles localmente); (iii) venta de productos frescos, de temporada y procesados; (iv) promoción de alimentos y productos propios del territorio; (v) búsqueda de un precio justo tanto para el productor como para el consumidor; (vi) fomento de la agricultura limpia o agroecológica. 
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-9.order-lg-1.order-2
+        p En esta norma se encuentran los criterios para la caracterización e identificación de la población, como que su actividad económica predominante sea la agropecuaria, uso de mano de obra familiar o comunitaria, la Unidad Agrícola Familar (UAF) no debe ser mayor a uno (1) y residir o vivir dentro del perímetro funcional de la finca, o territorio colectivo del cual se derivan sus medios de vida.
+        p El documento adjunto llamado lineamientos estratégicos de política pública para la agricultura campesina, familiar y comunitaria; es donde se direcciona la política de ACFC, en el marco conceptual, diagnóstico de la ACFC, teniendo como base los ejes estructurantes de los lineamientos de política pública ACFC de que trata el artículo 8 de la resolución 464 de 2017.
+      .col-lg-3.col-md-8.orger-lg-2.order-1
+        figure.mb-5
+          img(src='@/assets/curso/temas/tema2/img-38.png', alt='')
+
 
     .row.justify-content-center
       .col-xl-10
