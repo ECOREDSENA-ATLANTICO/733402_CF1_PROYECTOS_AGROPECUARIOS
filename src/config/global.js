@@ -207,7 +207,7 @@ export default {
         ' instrumento de planificación y gestión para la focalización de recursos y de acciones de I+D+i tendientes al fortalecimiento, dinamización y optimización del SNIA en torno al mejoramiento de la productivi­dad y competitividad sectorial. (Congreso de la República, 2017).',
     },
     {
-      termino: 'Plataforma siembra',
+      termino: 'Plataforma Siembra',
       significado:
         ' es el aplicativo electrónico del Ministerio de Agricultura y Desarrollo Rural destinado a la recopilación, ges­tión, divulgación y seguimiento de la información de los proyectos, resultados, avances y oferta tecnológica sectorial originada en el Sistema Nacional de Innovación Agropecuaria (SNIA). (Congreso de la República, 2017).',
     },

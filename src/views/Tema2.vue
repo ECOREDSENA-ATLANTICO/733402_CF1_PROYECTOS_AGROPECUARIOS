@@ -55,7 +55,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-12
             figure.mb-5
-              img(src='@/assets/curso/temas/tema2/img-3.png', alt='')
+              img(src='@/assets/curso/temas/tema2/img-3.png', alt='Muestra el componente formativo la Jerarquía de las normas en Colombia:Constitución política de Colombia de 1991. Leyes, Ley 1876 de 2017 Sistema Nacional de Extensión Agropecuaria (SNIA) Decreto 1319 de 2020 Fondo Nacional de Extensión de Agropecuaria. Resolución 407 de 2018 reglamenta las materias técnicas del SNIA (formulación Plan Departamental de Extensión Agropecuaria. PDEA) Ordenanza 264 de 2019 se adopta el PDEA del departamento de Bolívar. Ordenanza 08 de 2020 se adopta el PDEA del departamento de Boyacá.')
               figcaption Nota. Elaboración propia. Normatividad del sector agropecuario en Colombia.
 
 
@@ -69,23 +69,23 @@
           img(src='@/assets/curso/temas/tema2/img-4.png', alt='')         
       .col-lg-8      
         p.mb-4 La Ley 1876 de diciembre 27 de 2017 del Sistema Nacional de Innovación Agropecuaria, se establece con el objeto de crear y poner en marcha el Sistema Nacional de Innovación Agropecuaria (SNIA), compuesto por subsistemas, planes estratégicos, instrumentos de planificación y participación, plataformas de gestión, procedimientos para su implementación, así como mecanismos para su financiación, seguimiento y evaluación; además crea nuevas funciones, competencias y mecanismos de articulación de las entidades y organismos de coordinación del orden nacional y territorial que componen el SNIA y crea el servicio público de extensión agropecuaria y normas para su prestación (Diciembre 27 de 2017 DO N° 50.461).
-        p.mb-5 La Ley 1876 de 2017 se crea en el artículo 4 del SNIA, como un subsistema del Sistema Nacional de Competitividad, Ciencia, Tecnología e Innovación (SNCCT), que será coordinado por el Ministerio de Agricultura y Desarrollo Rural (MADR); el SNIA está integrado por tres subsistemas:
+        p.mb-5 La Ley 1876 de 2017 se crea en el artículo 4 del SNIA, como un Subsistema del Sistema Nacional de Competitividad, Ciencia, Tecnología e Innovación (SNCCT), que será coordinado por el Ministerio de Agricultura y Desarrollo Rural (MADR); el SNIA está integrado por tres subsistemas:
         .row.justify-content-center.align-items-center
           .row.tt.mb-2.justify-content-center.align-items-center
             .col-1
               h1.mb-0 01	
             .col-11              
-              h5.mb-0.ps-3 Subsistema nacional de investigación y desarrollo tecnológico agropecuario
+              h5.mb-0.ps-3 Subsistema Nacional de Investigación y Desarrollo Tecnológico Agropecuario
           .row.tt.mb-2.justify-content-center.align-items-center
             .col-1
               h1.mb-0 02	
             .col-11              
-              h5.mb-0.ps-3 Subsistema nacional de extensión agropecuaria
+              h5.mb-0.ps-3 Subsistema Nacional de Extensión Agropecuaria
           .row.tt.justify-content-center.align-items-center
             .col-1
               h1.mb-0 03	
             .col-11             
-              h5.mb-0.ps-3 Subsistema Nacional de formación y capacitación para la innovación agropecuaria
+              h5.mb-0.ps-3 Subsistema Nacional de Formación y Capacitación para la Innovación Agropecuaria
 
 
     .row.justify-content-center.align-items-center(data-aos="zoom-in")
@@ -96,7 +96,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-12
             figure.mb-5
-              img(src='@/assets/curso/temas/tema2/img-5-.png', alt='')
+              img(src='@/assets/curso/temas/tema2/img-5-.png', alt='Muestra el componente formativo la estructura del el Sistema Nacional de Innovación Agropecuaria (SNIA). Además, el sistema está integrado por tres subsistemas de acuerdo a la Ley 1876 DE 217: 1. Subsistema Nacional De Investigación Y Desarrollo Tecnológico Agropecuario. 2. Subsistema Nacional De Extensión Agropecuaria. 3. Subsistema Nacional de Formación y Capacitación para la Innovación Agropecuaria.')
               figcaption Nota. Elaboración propia
 
 
@@ -214,8 +214,16 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-8
-        p <em>La Resolución 407 de 2018 en el Capítulo IV artículo 4.2 adopta los lineamientos para los Planes Departamentales de Extensión Agropecuaria que a continuación se describen:</em>
-        p <em>El PDEA como instrumento de planificación del subsistema de extensión agropecuaria. En la formulación se debe tener en cuenta documentos como el Plan Estratégico de Ciencia Tecnología para el Sector Agropecuario (PECTIA), planes y acuerdos estratégicos, Agendas integradas de competitividad, planes de desarrollo municipal, plan agropecuario municipal y departamental, Planes de Acción para la Transformación del Regional (PART), Planes de Desarrollo con Enfoque Territorial (PDET), Planes Integrales Comunitarios y Municipales de Sustitución y Desarrollo Alternativo (PISDA), Programa Nacional Integral de Sustitución de Cultivos de Uso Ilícito (PNIS), esquemas y planes de ordenamiento territorial vigentes, zonas de protección nacional, regional, local; aptitud y vocación de uso generados por la Unidad de Planificación Rural Agropecuaria (UPRA); Estudio general de suelos para los departamentos; Plan de Manejo y Ordenamiento de Cuencas (POMCA); datos del censo nacional agropecuario 2014.</em>
+        p.mb-5 La Resolución 407 de 2018 en el Capítulo IV artículo 4.2 adopta los lineamientos para los Planes Departamentales de Extensión Agropecuaria que a continuación se describen:
+
+        .bloque-texto-f.color-secundario.pt-4.px-5.fnd-1-.fnd-1
+          .bloque-texto-f__comillas
+            i.fas.fa-quote-left
+            i.fas.fa-quote-right
+          h5.text-regular.bloque-texto-f__texto El PDEA como instrumento de planificación del subsistema de extensión agropecuaria. En la formulación se debe tener en cuenta documentos como el Plan Estratégico de Ciencia Tecnología para el Sector Agropecuario (PECTIA), planes y acuerdos estratégicos, Agendas integradas de competitividad, planes de desarrollo municipal, plan agropecuario municipal y departamental, Planes de Acción para la Transformación del Regional (PART), Planes de Desarrollo con Enfoque Territorial (PDET), Planes Integrales Comunitarios y Municipales de Sustitución y Desarrollo Alternativo (PISDA), Programa Nacional Integral de Sustitución de Cultivos de Uso Ilícito (PNIS), esquemas y planes de ordenamiento territorial vigentes, zonas de protección nacional, regional, local; aptitud y vocación de uso generados por la Unidad de Planificación Rural Agropecuaria (UPRA); Estudio general de suelos para los departamentos; Plan de Manejo y Ordenamiento de Cuencas (POMCA).  
+          
+          .bloque-texto-f__autor.mb-3
+            h5.mb-0 Datos del censo nacional agropecuario 2014.
 
       .col-lg-4.col-md-10
         figure.mb-5
@@ -332,7 +340,7 @@
     .row.justify-content-center.align-items-center(data-aos="fade-left")
       .col-lg-12
         .titulo-sexto.color-acento-contenido
-          h5 Figura 4.
+          h5 
           span Enfoque de extensión agropecuaria desglosado en los cinco aspectos y sus respectivos componentes
         .row.justify-content-center.align-items-center
           .col-lg-12.fnd-9
@@ -523,7 +531,7 @@
               img(src='@/assets/curso/temas/tema4/img-2.svg', alt='')
           .list__tx
             h3.mb-0 Requisitos especiales para la habilitación de las Unidades Municipales de Asistencia Técnica Agropecuaria (UMATA), Centros Provinciales de Gestión Agroempresarial (CPGA)
-        p tanto las UMATA como los CPGA, pueden realizar el proceso de habilitación como EPSEA para poder prestar el servicio de Extensión Agropecuaria en el municipio correspondiente.
+        p Tanto las UMATA como los CPGA, pueden realizar el proceso de habilitación como EPSEA para poder prestar el servicio de Extensión Agropecuaria en el municipio correspondiente.
         .list.mb-3(data-aos="fade-down")
           .list__item
             .list__item__icon
@@ -539,7 +547,7 @@
             img.b-img-avat1(src='@/assets/curso/temas/tema2/img-avat1.svg' alt='Background Image')
             .fl-box-avat1
               h5 Director: 
-              p un (1) profesional en áreas agropecuarias o profesiones afines con el sector agropecuario, medio ambiental o pesquero con tarjeta profesional vigente; así como experiencia en el sector agropecuario, medio ambiente o pesquero no menor de tres (3) años.
+              p Un (1) profesional en áreas agropecuarias o profesiones afines con el sector agropecuario, medio ambiental o pesquero con tarjeta profesional vigente; así como experiencia en el sector agropecuario, medio ambiente o pesquero no menor de tres (3) años.
       .col-lg-7.mb-4
         .row.justify-content-center.align-items-center.img-15
           .img-fnd-avat
@@ -664,7 +672,7 @@
 
     Separador
     #2_6.titulo-segundo.color-acento-contenido
-      h2 2.6. Ley 464 de 29 de diciembre 2017 - Agricultura familiar campesina y comunitaria ACFC.
+      h2 2.6. Ley 464 de 29 de diciembre 2017 - Agricultura familiar campesina y comunitaria ACFC
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8.order-lg-1.order-2
@@ -683,13 +691,13 @@
           .row(titulo="Agricultura campesina, familiar y comunitaria")
             p Sistema de producción y organización gestionado y operado por mujeres, hombres, familias, comunidades campesinas, indígenas, negras, afrodescendientes, raizales y palenqueras que conviven en los territorios rurales del país. En este sistema se desarrollan principalmente actividades de producción, transformación,  comercialización de bienes y servicios agrícolas, pecuarios, pesqueros, acuícolas, silvícolas, entre otros que suelen complementarse con actividades no agropecuarias.
           .row(titulo="Desarrollo rural con enfoque territorial")
-            p es un proceso continuo de transformación, promoción y generación de las condiciones sociales, económicas, ambientales, culturales e institucionales necesarias para que el territorio rural y sus actores, tanto a nivel individual como colectivo. Despliegan sus capacidades y potencialidades a partir de una visión sistémica, holística, integral y compartida del aprovechamiento sostenible del potencial del territorio, para mejorar su productividad y contribuir al bienestar y buen vivir de los pobladores rurales.
+            p Es un proceso continuo de transformación, promoción y generación de las condiciones sociales, económicas, ambientales, culturales e institucionales necesarias para que el territorio rural y sus actores, tanto a nivel individual como colectivo. Despliegan sus capacidades y potencialidades a partir de una visión sistémica, holística, integral y compartida del aprovechamiento sostenible del potencial del territorio, para mejorar su productividad y contribuir al bienestar y buen vivir de los pobladores rurales.
           .row(titulo="Economía campesina, familiar y comunitaria")
-            p sistema de producción, transformación, distribución, comercialización y consumo de bienes y servicios, organizado y gestionado por los hombres, mujeres, familias, y comunidades (campesinas, indígenas, negras, afrodescendientes, raizales y palenqueras) que conviven en los territorios rurales del país.
+            p Sistema de producción, transformación, distribución, comercialización y consumo de bienes y servicios, organizado y gestionado por los hombres, mujeres, familias, y comunidades (campesinas, indígenas, negras, afrodescendientes, raizales y palenqueras) que conviven en los territorios rurales del país.
           .row(titulo="Economía solidaria")
-            p sistema socioeconómico, cultural y ambiental conformado por el conjunto de fuerzas sociales organizadas en formas asociativas identificadas por prácticas autogestionarias solidarias, democráticas y humanistas, sin ánimo de lucro para el desarrollo integral del ser humano como sujeto, actor y fin de la economía (Artículo 2o de la Ley 454 de 1998).
+            p Sistema socioeconómico, cultural y ambiental conformado por el conjunto de fuerzas sociales organizadas en formas asociativas identificadas por prácticas autogestionarias solidarias, democráticas y humanistas, sin ánimo de lucro para el desarrollo integral del ser humano como sujeto, actor y fin de la economía (Artículo 2o de la Ley 454 de 1998).
           .row(titulo="Mercados campesinos y comunitarios")
-            p esquemas de comercialización de bienes y servicios agropecuarios a nivel local caracterizados por: (i) presencia y gestión, de manera exclusiva o principal, por parte de productores y organizaciones de agricultura campesina, familiar y comunitaria; (ii) ausencia o mínima intermediación (limitada a algunos productos no disponibles localmente); (iii) venta de productos frescos, de temporada y procesados; (iv) promoción de alimentos y productos propios del territorio; (v) búsqueda de un precio justo tanto para el productor como para el consumidor; (vi) fomento de la agricultura limpia o agroecológica. 
+            p Esquemas de comercialización de bienes y servicios agropecuarios a nivel local caracterizados por: (i) presencia y gestión, de manera exclusiva o principal, por parte de productores y organizaciones de agricultura campesina, familiar y comunitaria; (ii) ausencia o mínima intermediación (limitada a algunos productos no disponibles localmente); (iii) venta de productos frescos, de temporada y procesados; (iv) promoción de alimentos y productos propios del territorio; (v) búsqueda de un precio justo tanto para el productor como para el consumidor; (vi) fomento de la agricultura limpia o agroecológica. 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9.order-lg-1.order-2

@@ -51,16 +51,15 @@
       .fl-box8
         h3.mb-0 Cuarto lugar:
  
-    p.mb-5 Se encuentra la Agencia de Desarrollo Rural (ADR), quien será la encargada de gestionar la articulación de la información de los productores agropecuarios, ya sean desarrollados con recursos públicos o privados, dicha información será utilizada de acuerdo con las normas de Habeas Data. La información reposará en los servidores de la ADR, quien será la encargada de administrar y actuará como responsable en el tratamiento de los datos. De igual forma, la ADR tendrá la facultad de adelantar procesos sancionatorios a través de sus Unidades Técnicas Territoriales (UTT). (Ministerio de Agricultura y Desarrollo Rural Agencia de Desarrollo Rural - ADR, 2019).
+    p.mb-4 Se encuentra la Agencia de Desarrollo Rural (ADR), quien será la encargada de gestionar la articulación de la información de los productores agropecuarios, ya sean desarrollados con recursos públicos o privados, dicha información será utilizada de acuerdo con las normas de Habeas Data. La información reposará en los servidores de la ADR, quien será la encargada de administrar y actuará como responsable en el tratamiento de los datos. De igual forma, la ADR tendrá la facultad de adelantar procesos sancionatorios a través de sus Unidades Técnicas Territoriales (UTT). (Ministerio de Agricultura y Desarrollo Rural Agencia de Desarrollo Rural - ADR, 2019).
+
+    .img-fnd-flot8.mb-3(data-aos="zoom-in")
+      img.b-img8(src='@/assets/curso/temas/tema4/fnd-1.svg' alt='Background Image')
+      .fl-box8
+        h3.mb-0 Quinto lugar:
 
 
-
-    .row.justify-content-center.align-items-center(data-aos="fade-left")
-      .col-xl-8
-        .img-fnd-flot2.mb-5
-          img.b-img2(src='@/assets/curso/temas/tema4/img-8.svg')
-          .fl-box2
-            p.mb-3 Finalmente, se encuentra el Ministerio de Agricultura y Desarrollo Rural (MADR), la cual deberá promover la interoperabilidad de los sistemas de información para incorporar y actualizar la información en el registro de usuarios del servicio de extensión agropecuaria. (Ministerio de Agricultura y Desarrollo Rural Agencia de Desarrollo Rural - ADR, 2019).
+    p.mb-5 Se encuentra el Ministerio de Agricultura y Desarrollo Rural (MADR), la cual deberá promover la interoperabilidad de los sistemas de información para incorporar y actualizar la información en el registro de usuarios del servicio de extensión agropecuaria. (Ministerio de Agricultura y Desarrollo Rural Agencia de Desarrollo Rural - ADR, 2019).
 
 
     .row.justify-content-center.align-items-center(data-aos="fade-left")
@@ -74,7 +73,7 @@
                 img(src='@/assets/curso/temas/tema4/img-2.svg', alt='')
             .list__txt2
               h3.mb-0 Clasificación de usuarios del servicio público de extensión agropecuaria: 
-        p según el Ministerio de Agricultura y Desarrollo Rural Agencia de Desarrollo Rural - ADR, (2019, la clasificación de usuarios de extensión agropecuaria consiste en identificar el nivel en el que se encuentran, por cada uno de los aspectos del enfoque para la prestación de este servicio público, para las diversas actividades productivas. Dicha información obtenida a través de la herramienta dispuesta por el Ministerio de Agricultura y Desarrollo Rural, será el insumo principal para adelantar la clasificación respectiva (Ministerio de Agricultura y Desarrollo Rural Agencia de Desarrollo Rural - ADR, 2019). 
+        p Según el Ministerio de Agricultura y Desarrollo Rural Agencia de Desarrollo Rural - ADR, (2019, la clasificación de usuarios de extensión agropecuaria consiste en identificar el nivel en el que se encuentran, por cada uno de los aspectos del enfoque para la prestación de este servicio público, para las diversas actividades productivas. Dicha información obtenida a través de la herramienta dispuesta por el Ministerio de Agricultura y Desarrollo Rural, será el insumo principal para adelantar la clasificación respectiva (Ministerio de Agricultura y Desarrollo Rural Agencia de Desarrollo Rural - ADR, 2019). 
 
     .list.mb-3(data-aos="fade-down")
       .list__item
@@ -92,7 +91,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-12
             figure.mb-5
-              img(src='@/assets/curso/temas/tema4/img-10.png', alt='')
+              img(src='@/assets/curso/temas/tema4/img-10.png', alt='Muestra los Criterios para la clasificación de usuarios del servicio de extensión agropecuaria. Teniendo en cuenta: Las condiciones, Las capacidades, Logros y progreso')
               figcaption Fuente: MADR – ADR, 2019              
 
 
@@ -113,7 +112,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-12
             figure.mb-5
-              img(src='@/assets/curso/temas/tema4/img-11.png', alt='')
+              img(src='@/assets/curso/temas/tema4/img-11.png', alt='Muestra el componente formativo los Niveles de clasificación de usuarios: Nivel 01 Bajo, Nivel 02 Medio, Nivel 03 Alto, Nivel 04 Superior')
               figcaption Fuente: MADR – ADR, 2019          
 
 
@@ -133,14 +132,14 @@
         .row.justify-content-center.align-items-center
           .col-lg-12
             figure.mb-5
-              img(src='@/assets/curso/temas/tema4/img-12.png', alt='')
+              img(src='@/assets/curso/temas/tema4/img-12.png', alt='Muestra las actividades productivas y componente ambiental, teniendo en cuenta los siguientes niveles: Agrícola, Pecuario, Silvicultura y aprovechamiento de madera, Pesca y acuicultura')
               figcaption Fuente: MADR – ADR, 2019          
 
 
     .row.justify-content-center.align-items-center
       .col-xl-8
         .img-fnd-flot2.mb-5.img-3
-          img.b-img2(src='@/assets/curso/temas/tema4/img-13.svg')
+          img.b-img2(src='@/assets/curso/temas/tema2/fnd-6.svg')
           .fl-box2.fl-box4
             p.mb-3 El método de clasificación se enmarca en aplicar una serie de preguntas por cada componente definido (30), de tal modo que permita una calificación del 1 al 4, donde 1 es el escenario básico y 4 el escenario superior o ideal (Ministerio de Agricultura y Desarrollo Rural Agencia de Desarrollo Rural - ADR, 2019).
 
@@ -175,7 +174,7 @@
                 .col.mb-3.mb-sm-0
                   p.mb-0 Para mayor información sobre los lineamientos establecidos en la resolución 464 de 2017 pueden dirigirse al enlace, donde encontrarán la normatividad vigente en el sector agropecuario en Colombia.
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="https://www.corporacionpba.org/irp/herramientas/Etapa_I/punto_de_partida/paso2_drp/Diagnostico_Rural_Participativo.pdf" target="_blank")
+                  a.boton.color-acento-botones(href="https://www.minagricultura.gov.co/Normatividad/Resoluciones/Resoluci%C3%B3n%20No%20000464%20de%202017.pdf" target="_blank")
                     span Enlace
                     i.fas.fa-file-download
 
