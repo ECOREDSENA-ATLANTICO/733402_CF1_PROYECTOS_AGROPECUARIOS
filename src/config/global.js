@@ -143,7 +143,7 @@ export default {
   },
   complementario: [
     {
-      tema: '',
+      tema: 'Agencia del desarrollo rural resolución numero 0422.',
       referencia:
         'Agencia de desarrollo rural, (2019). Resolución 0422 de 2019',
       tipo: 'Resolución ',
@@ -151,14 +151,14 @@ export default {
         'https://www.minagricultura.gov.co/ministerio/direcciones/Documents/Resoluci%C3%B3n%200422%20del%2005-07-2019.pdf',
     },
     {
-      tema: '',
+      tema: 'Agencia del desarrollo rural resolución numero 0422.',
       referencia: 'Presidencia de la república, (2020). Decreto 1319 de 2020',
       tipo: 'Decreto',
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=142845',
     },
     {
-      tema: '',
+      tema: 'Ministerio de agricultura resolución 464.',
       referencia:
         'Ministerio de agricultura y desarrollo rural, (2017). Resolución 0664 de 2017',
       tipo: 'Resolución',
@@ -166,7 +166,7 @@ export default {
         'https://www.minagricultura.gov.co/Normatividad/Resoluciones/Resoluci%C3%B3n%20No%20000464%20de%202017.pdf',
     },
     {
-      tema: '',
+      tema: 'Diagnóstico rural participativo.',
       referencia: 'Expósito, (2003) Diagnóstico rural participativo.',
       tipo: 'Diagnóstico ',
       link:
