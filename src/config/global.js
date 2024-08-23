@@ -145,7 +145,7 @@ export default {
     {
       tema: '2.4. Resolución 422 de 05 de julio de 2019',
       referencia:
-        'Agencia de desarrollo rural, (2019). Resolución 0422 de 2019',
+        'Agencia de desarrollo rural, (2019). Resolución 0422 de 2019.',
       tipo: 'Resolución ',
       link:
         'https://www.minagricultura.gov.co/ministerio/direcciones/Documents/Resoluci%C3%B3n%200422%20del%2005-07-2019.pdf',
@@ -168,7 +168,7 @@ export default {
         'https://www.minagricultura.gov.co/Normatividad/Resoluciones/Resoluci%C3%B3n%20No%20000464%20de%202017.pdf',
     },
     {
-      tema: '3. Diagnóstico Rural Participativo (DRP)',
+      tema: '3. Diagnóstico Rural Participativo (DRP).',
       referencia: 'Expósito, (2003) Diagnóstico rural participativo.',
       tipo: 'Diagnóstico ',
       link:
