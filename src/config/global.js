@@ -143,7 +143,7 @@ export default {
   },
   complementario: [
     {
-      tema: 'Agencia del desarrollo rural resolución numero 0422.',
+      tema: '2.4. Resolución 422 de 05 de julio de 2019',
       referencia:
         'Agencia de desarrollo rural, (2019). Resolución 0422 de 2019',
       tipo: 'Resolución ',
@@ -151,14 +151,16 @@ export default {
         'https://www.minagricultura.gov.co/ministerio/direcciones/Documents/Resoluci%C3%B3n%200422%20del%2005-07-2019.pdf',
     },
     {
-      tema: 'Agencia del desarrollo rural resolución numero 0422.',
+      tema:
+        '2.5. Decreto 1319 de 01 de octubre 2020 - Fondo Nacional de Extensión Agropecuaria (FNEA).',
       referencia: 'Presidencia de la república, (2020). Decreto 1319 de 2020',
       tipo: 'Decreto',
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=142845',
     },
     {
-      tema: 'Ministerio de agricultura resolución 464.',
+      tema:
+        '2.6. Ley 464 de 29 de diciembre 2017 - Agricultura familiar campesina y comunitaria ACFC.',
       referencia:
         'Ministerio de agricultura y desarrollo rural, (2017). Resolución 0664 de 2017',
       tipo: 'Resolución',
@@ -166,7 +168,7 @@ export default {
         'https://www.minagricultura.gov.co/Normatividad/Resoluciones/Resoluci%C3%B3n%20No%20000464%20de%202017.pdf',
     },
     {
-      tema: 'Diagnóstico rural participativo.',
+      tema: '3. Diagnóstico Rural Participativo (DRP)',
       referencia: 'Expósito, (2003) Diagnóstico rural participativo.',
       tipo: 'Diagnóstico ',
       link:

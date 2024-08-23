@@ -34,7 +34,7 @@
             img.b-img9(src='@/assets/curso/temas/tema4/fnd-1.svg' alt='Background Image')
             .fl-box8
               h3.mb-0 Segundo lugar: 
-          p En medida se encuentran las alcaldías municipales y distritales, a través de las secretarías de agricultura o la dependencia que designen, estos velarán por la veracidad de la información depositada en el registro.
+          p Las alcaldías municipales y distritales, a través de las secretarías de agricultura o la dependencia que designen, estos velarán por la veracidad de la información depositada en el registro.
           .img-fnd-flot8.mb-3(data-aos="zoom-in")
             img.b-img9(src='@/assets/curso/temas/tema4/fnd-1.svg' alt='Background Image')
             .fl-box8
@@ -51,7 +51,7 @@
       .fl-box8
         h3.mb-0 Cuarto lugar:
  
-    p.mb-4 Se encuentra la Agencia de Desarrollo Rural (ADR), quien será la encargada de gestionar la articulación de la información de los productores agropecuarios, ya sean desarrollados con recursos públicos o privados, dicha información será utilizada de acuerdo con las normas de Habeas Data. La información reposará en los servidores de la ADR, quien será la encargada de administrar y actuará como responsable en el tratamiento de los datos. De igual forma, la ADR tendrá la facultad de adelantar procesos sancionatorios a través de sus Unidades Técnicas Territoriales (UTT). (Ministerio de Agricultura y Desarrollo Rural Agencia de Desarrollo Rural - ADR, 2019).
+    p.mb-4 La Agencia de Desarrollo Rural (ADR), quien será la encargada de gestionar la articulación de la información de los productores agropecuarios, ya sean desarrollados con recursos públicos o privados, dicha información será utilizada de acuerdo con las normas de Habeas Data. La información reposará en los servidores de la ADR, quien será la encargada de administrar y actuará como responsable en el tratamiento de los datos. De igual forma, la ADR tendrá la facultad de adelantar procesos sancionatorios a través de sus Unidades Técnicas Territoriales (UTT). (Ministerio de Agricultura y Desarrollo Rural Agencia de Desarrollo Rural - ADR, 2019).
 
     .img-fnd-flot8.mb-3(data-aos="zoom-in")
       img.b-img8(src='@/assets/curso/temas/tema4/fnd-1.svg' alt='Background Image')
