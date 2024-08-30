@@ -340,7 +340,7 @@
     .row.justify-content-center.align-items-center(data-aos="fade-left")
       .col-lg-12
         .titulo-sexto.color-acento-contenido
-          h5 
+          h5 Figura 4.
           span Enfoque de extensión agropecuaria desglosado en los cinco aspectos y sus respectivos componentes
         .row.justify-content-center.align-items-center
           .col-lg-12.fnd-9

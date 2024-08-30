@@ -86,7 +86,7 @@
     .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-lg-8
         .titulo-sexto.color-acento-contenido
-          h5 Figura 4.
+          h5 Figura 5.
           span Criterios para la clasificación de usuarios del servicio de extensión agropecuaria
         .row.justify-content-center.align-items-center
           .col-lg-12
@@ -107,7 +107,7 @@
     .row.justify-content-center.align-items-center(data-aos="fade-left")
       .col-lg-10
         .titulo-sexto.color-acento-contenido
-          h5 Figura 5.
+          h5 Figura 6.
           span Niveles de clasificación de usuarios
         .row.justify-content-center.align-items-center
           .col-lg-12
@@ -127,7 +127,7 @@
     .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-lg-8
         .titulo-sexto.color-acento-contenido
-          h5 Figura 6.
+          h5 Figura 7.
           span Actividades productivas y componente ambiental
         .row.justify-content-center.align-items-center
           .col-lg-12
