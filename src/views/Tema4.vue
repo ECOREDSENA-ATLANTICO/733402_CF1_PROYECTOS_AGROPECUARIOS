@@ -122,7 +122,7 @@
           img(src='@/assets/curso/temas/tema4/img-2.svg', alt='')
       .list__txt
         h3.mb-0 Método de clasificación 
-    p.mb-5 Teniendo en cuenta que la clasificación de usuarios del servicio público de extensión agropecuaria debe definirse para las diferentes actividades productivas, presentadas en la figura 5. (Ministerio de Agricultura y Desarrollo Rural Agencia de Desarrollo Rural - ADR, 2019).
+    p.mb-5 Teniendo en cuenta que la clasificación de usuarios del servicio público de extensión agropecuaria debe definirse para las diferentes actividades productivas, presentadas en la figura 6. (Ministerio de Agricultura y Desarrollo Rural Agencia de Desarrollo Rural - ADR, 2019).
 
     .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-lg-8
