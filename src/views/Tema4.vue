@@ -91,7 +91,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-12
             figure.mb-5
-              img(src='@/assets/curso/temas/tema4/img-10.png', alt='Muestra los Criterios para la clasificación de usuarios del servicio de extensión agropecuaria. Teniendo en cuenta: Las condiciones, Las capacidades, Logros y progreso')
+              img(src='@/assets/curso/temas/tema4/img-10-.png', alt='Muestra los Criterios para la clasificación de usuarios del servicio de extensión agropecuaria. Teniendo en cuenta: Las condiciones, Las capacidades, Logros y progreso')
               figcaption Fuente: MADR – ADR, 2019              
 
 
@@ -102,7 +102,7 @@
           img(src='@/assets/curso/temas/tema4/img-2.svg', alt='')
       .list__txt
         h3.mb-0 Niveles de clasificación
-    p.mb-5 De acuerdo a los criterios de calificación anteriormente mencionados, se definieron cuatro (4) niveles de clasificación, los cuales se identificarán por cada aspecto del enfoque para la prestación del servicio, para cada usuario de extensión agropecuario. La figura 4, muestra los niveles, donde el 1 corresponde al nivel bajo y el 4 al nivel superior (Ministerio de Agricultura y Desarrollo Rural Agencia de Desarrollo Rural - ADR, 2019).
+    p.mb-5 De acuerdo a los criterios de calificación anteriormente mencionados, se definieron cuatro (4) niveles de clasificación, los cuales se identificarán por cada aspecto del enfoque para la prestación del servicio, para cada usuario de extensión agropecuario. La figura 6, muestra los niveles, donde el 1 corresponde al nivel bajo y el 4 al nivel superior (Ministerio de Agricultura y Desarrollo Rural Agencia de Desarrollo Rural - ADR, 2019).
 
     .row.justify-content-center.align-items-center(data-aos="fade-left")
       .col-lg-10
@@ -122,7 +122,7 @@
           img(src='@/assets/curso/temas/tema4/img-2.svg', alt='')
       .list__txt
         h3.mb-0 Método de clasificación 
-    p.mb-5 Teniendo en cuenta que la clasificación de usuarios del servicio público de extensión agropecuaria debe definirse para las diferentes actividades productivas, presentadas en la figura 6. (Ministerio de Agricultura y Desarrollo Rural Agencia de Desarrollo Rural - ADR, 2019).
+    p.mb-5 Teniendo en cuenta que la clasificación de usuarios del servicio público de extensión agropecuaria debe definirse para las diferentes actividades productivas, presentadas en la figura 7. (Ministerio de Agricultura y Desarrollo Rural Agencia de Desarrollo Rural - ADR, 2019).
 
     .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-lg-8

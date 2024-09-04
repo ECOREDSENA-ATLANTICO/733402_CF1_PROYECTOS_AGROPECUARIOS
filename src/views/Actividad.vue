@@ -11,7 +11,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Diagnóstico de la situación problémica en la población, organización o en la empresa agropecuaria rural.
-        p.mb-4 #[b Estudiar la historia de las políticas agrarias en Colombia es fundamental para comprender el presente, aprender de los errores del pasado.] 
+        p.mb-4 Estudiar la historia de las políticas agrarias en Colombia es fundamental para comprender el presente, aprender de los errores del pasado.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

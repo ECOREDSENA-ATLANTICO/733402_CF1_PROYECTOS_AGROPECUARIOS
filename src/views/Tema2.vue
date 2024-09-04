@@ -44,7 +44,7 @@
           .crd_03__icon
             img(src="@/assets/curso/temas/tema2/img-2.svg", alt="alt")          
           .crd_03__txt
-            p <b>Reglamento:</b> norma jurídica que busca hacer posible que la ley se cumpla para que no quede en el papel, y detallar las leyes en su contenido para adaptarlas al medio económico, político y social que regula. Ejemplo: decretos, resoluciones, ordenanzas, acuerdos, sentencias, actos jurídicos de derecho privado, etc. Sierra, 1988.
+            p <b>Reglamento:</b> norma jurídica que busca hacer posible que la ley se cumpla para que no quede en el papel, y detallar las leyes en su contenido para adaptarlas al medio económico, político y social que regula. Ejemplo: decretos, resoluciones, ordenanzas, acuerdos, sentencias, actos jurídicos de derecho privado, etc. (Sierra, 1988).
  
 
     .row.justify-content-center.align-items-center
@@ -96,7 +96,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-12
             figure.mb-5
-              img(src='@/assets/curso/temas/tema2/img-5-.png', alt='Muestra el componente formativo la estructura del el Sistema Nacional de Innovación Agropecuaria (SNIA). Además, el sistema está integrado por tres subsistemas de acuerdo a la Ley 1876 DE 217: 1. Subsistema Nacional De Investigación Y Desarrollo Tecnológico Agropecuario. 2. Subsistema Nacional De Extensión Agropecuaria. 3. Subsistema Nacional de Formación y Capacitación para la Innovación Agropecuaria.')
+              img(src='@/assets/curso/temas/tema2/img-5.png', alt='Muestra el componente formativo la estructura del el Sistema Nacional de Innovación Agropecuaria (SNIA). Además, el sistema está integrado por tres subsistemas de acuerdo a la Ley 1876 DE 217: 1. Subsistema Nacional De Investigación Y Desarrollo Tecnológico Agropecuario. 2. Subsistema Nacional De Extensión Agropecuaria. 3. Subsistema Nacional de Formación y Capacitación para la Innovación Agropecuaria.')
               figcaption Nota. Elaboración propia
 
 
@@ -292,7 +292,7 @@
               img(src='@/assets/curso/temas/tema4/img-2.svg', alt='')
           .list__txt
             h3.mb-0 Formulación cuatrienal del PDEA
-        p Solo se debe formular para un periodo nomayor de cuatro años en los cuales las entidades prestadores del servicio de extensión agropecuaria prestarán el servicio a partir de las orientaciones del PDEA.
+        p Solo se debe formular para un periodo no mayor de cuatro años en los cuales las entidades prestadores del servicio de extensión agropecuaria prestarán el servicio a partir de las orientaciones del PDEA.
 
         p Proceso de formulación del PDEA: 
 
@@ -310,7 +310,7 @@
       .tarjeta.fnd-5.p-4(titulo="Diagnóstico")
         .row.justify-content-center.align-items-center
           .col-lg-8
-            p Esta fase debe tener en cuenta tres consideraciones, primero revisión de la información secundaria, establecer las capacidades del territorio, tipos de cadenas productivas importantes, características demográfica y los instrumentos de planificación para el sector agropecuario; segundo identificación de principales problemas o retos cómo operan las cadenas productivas sus principales problemas o retos, etc y por último caracterización de los usuarios, que es el levantamiento de la información primaria con la que se clasifica a los productores por niveles según los criterios de gradualidad establecidos por el MADR en el instrumento de registro y clasificación de usuarios.
+            p Esta fase debe tener en cuenta tres consideraciones, primero revisión de la información secundaria, establecer las capacidades del territorio, tipos de cadenas productivas importantes, características demográficas y los instrumentos de planificación para el sector agropecuario; segundo identificación de principales problemas o retos cómo operan las cadenas productivas sus principales problemas o retos, etc y por último caracterización de los usuarios, que es el levantamiento de la información primaria con la que se clasifica a los productores por niveles según los criterios de gradualidad establecidos por el MADR en el instrumento de registro y clasificación de usuarios.
           .col-lg-4.col-md-10
             figure
               img(src='@/assets/curso/temas/tema2/img-18.svg', alt='')
@@ -676,7 +676,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8.order-lg-1.order-2
-        p El ministerio de agricultura y desarrollo rural adopta mediante la resolución 464 de 2017 los lineamientos estratégicos de política pública para la Agricultura Campesina, Familiar y Comunitaria (ACFC), en esta normativa se busca mediante la implementación de los lineamientos coadyuvar a la implementación de varios aspectos de la reforma rural integral, para esto plantea como objetivo general de los lineamientos estratégicos de la política pública para la ACFC, planificar y gestionar la acción integral del Estado y orientar la institucionalidad social o privada, dirigida al fortalecimiento de las capacidades sociales, económicas y políticas de las familias, comunidades y organizaciones de agricultura campesina, familiar y comunitaria, sobre la base de un desarrollo rural con enfoque territorial que mejore la sostenibilidad de la producción agropecuaria y que genere bienestar y buen vivir a la población rural. (MADR, 2017).
+        p El Ministerio de Agricultura y Desarrollo Rural adopta mediante la resolución 464 de 2017 los lineamientos estratégicos de política pública para la Agricultura Campesina, Familiar y Comunitaria (ACFC), en esta normativa se busca mediante la implementación de los lineamientos coadyuvar a la implementación de varios aspectos de la reforma rural integral, para esto plantea como objetivo general de los lineamientos estratégicos de la política pública para la ACFC, planificar y gestionar la acción integral del Estado y orientar la institucionalidad social o privada, dirigida al fortalecimiento de las capacidades sociales, económicas y políticas de las familias, comunidades y organizaciones de agricultura campesina, familiar y comunitaria, sobre la base de un desarrollo rural con enfoque territorial que mejore la sostenibilidad de la producción agropecuaria y que genere bienestar y buen vivir a la población rural. (MADR, 2017).
         p En el proceso de fortalecer y proteger la ACFC deben socializarse varias definiciones algunas de las cuales son:
       .col-lg-4.col-md-8.orger-lg-2.order-1
         figure.mb-5
