@@ -161,24 +161,6 @@
         p De acuerdo a lo anterior, el Ministerio de agricultura y desarrollo rural, definió los lineamientos para la formulación de los PDEA, donde resaltó la importancia de identificar los niveles donde se encuentran los usuarios de extensión, cuyo resultado permita definir las brechas de productores, sistemas productivos y territorio. (Ministerio de Agricultura y Desarrollo Rural Agencia de Desarrollo Rural - ADR, 2019).
         p.mb-5 Por último, se ha diseñado una herramienta para el diagnóstico territorial de usuarios, donde se puede detallar el nivel en que se encuentran los usuarios por cada aspecto del enfoque para la prestación del servicio, la media geométrica individual definida por cada aspecto y la meta definida por el territorio. (Ministerio de Agricultura y Desarrollo Rural Agencia de Desarrollo Rural - ADR, 2019).
 
-
-
-
-
-        .tarjeta.py-3.fnd-8
-          .row.justify-content-around.align-items-center
-            .col-auto
-              img(src="@/assets/curso/temas/tema3/img-6.svg").img65
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  p.mb-0 Para mayor información sobre los lineamientos establecidos en la resolución 464 de 2017 pueden dirigirse al enlace, donde encontrarán la normatividad vigente en el sector agropecuario en Colombia.
-                .col-sm-auto
-                  a.boton.color-acento-botones(href="https://www.minagricultura.gov.co/Normatividad/Resoluciones/Resoluci%C3%B3n%20No%20000464%20de%202017.pdf" target="_blank")
-                    span Enlace
-                    i.fas.fa-file-download
-
-
 </template>
 
 <script>

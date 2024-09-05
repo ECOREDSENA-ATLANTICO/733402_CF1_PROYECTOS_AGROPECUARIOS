@@ -97,7 +97,8 @@
           .col-lg-12
             figure.mb-5
               img(src='@/assets/curso/temas/tema2/img-5.png', alt='Muestra el componente formativo la estructura del el Sistema Nacional de Innovación Agropecuaria (SNIA). Además, el sistema está integrado por tres subsistemas de acuerdo a la Ley 1876 DE 217: 1. Subsistema Nacional De Investigación Y Desarrollo Tecnológico Agropecuario. 2. Subsistema Nacional De Extensión Agropecuaria. 3. Subsistema Nacional de Formación y Capacitación para la Innovación Agropecuaria.')
-              figcaption Nota. Elaboración propia
+              figcaption Fuente: Secretarios de Cadenas Pecuarias, Ministerio de Agricultura.
+
 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
@@ -150,7 +151,7 @@
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img-12.jpg')})`}"
         )
         .bloque-texto-g__texto.p-4
-          p.mb-0 En el proceso de extensión agropecuaria los profesionales del sector deben realizar el acompañamiento a productores según el grado de organización, si son población dispersa pero definida por un territorio (vereda) o línea productiva (ganadera, agrícola, agroindustrial); si hacen parte de una organización comunitaria (asociación, cooperativa, etc.) o si tienen una empresa agropecuaria rural. En este acompañamiento el extensionista fortalece, capacita y acompaña a la organización en temas normativos para ello debe tener en cuenta el PDEA que en el artículo 29 lo define como el Plan departamental de extensión agropecuaria el cual es el instrumento de planificación cuatrienal en cada departamento, que en coordinación con sus municipios, distritos y demás actores del SNIA, definirá los elementos estratégicos y operativos para la prestación del servicio de extensión. En este mismo artículo 29 se hace referencia a los elementos mínimos que debe tener el PDEA (Congreso de Colombia, 2017):
+          p.mb-0 En el proceso de extensión agropecuaria los profesionales del sector deben realizar el acompañamiento a productores según el grado de organización, si son población dispersa pero definida por un territorio (vereda) o línea productiva (ganadera, agrícola, agroindustrial); si hacen parte de una organización comunitaria (asociación, cooperativa, etc.) o si tienen una empresa agropecuaria rural. En este acompañamiento el extensionista fortalece, capacita y acompaña a la organización en temas normativos para ello debe tener en cuenta el PDEA que en el artículo 29 lo define como el Plan departamental de extensión agropecuaria el cual es el instrumento de planificación cuatrienal en cada departamento, que en coordinación con sus municipios, distritos y demás actores del SNIA, definirá los elementos estratégicos y operativos para la prestación del servicio de extensión. En este mismo artículo 29 se hace referencia a los elementos mínimos que debe tener el PDEA (Congreso de Colombia. (2017). Ley 1876 del 29 de diciembre.):
 
     .row.justify-content-center.align-items-center(data-aos="fade-left")
       .col-lg-4.col-md-10
@@ -610,49 +611,63 @@
     .row.justify-content-center.align-items-center.mb-5.fnd-14.p-5(data-aos="fade-left")
       .col-lg-12
         h5.mb-5 Según reza el Decreto, los recursos del FNEA de acuerdo con lo establecido estarán conformados por:
-      .row.d-flex.align-items-stretch.mb-3
-        .col-xl-3.mb-5.col-lg-6
-          .tarjeta-numerada.color-secundario.px-lg-5.py-lg-3.p-md-5
-            .tarjeta-numerada__numero
-              .h2 1.
-            p.mb-0 Los recursos propios de los entes territoriales. 
-        .col-xl-3.mb-4.col-lg-6
-          .tarjeta-numerada.color-acento-botones.px-lg-5.py-lg-3.p-md-5
-            .tarjeta-numerada__numero
-              .h2.text-white 2.
-            p.mb-0 Los recursos del presupuesto general de la nación. 
-        .col-xl-3.mb-4.col-lg-6
-          .tarjeta-numerada.color-secundario.px-lg-5.py-lg-3.p-md-5
-            .tarjeta-numerada__numero
-              .h2 3.
-            p.mb-0 Los recursos de libre inversión del componente de propósito general del sistema general de participaciones. 
-        .col-xl-3.mb-4.col-lg-6
-          .tarjeta-numerada.color-acento-botones.px-lg-5.py-lg-3.p-md-5
-            .tarjeta-numerada__numero
-              .h2.text-white 4.
-            p.mb-0 Los recursos de cooperación internacional. 
-      .row.justify-content-center.mb-3        
-        .col-lg-6.mb-4
-          .tarjeta-numerada.color-secundario.px-5.py-3
-            .tarjeta-numerada__numero
-              .h2 5.
-            p Los instrumentos financieros creados en el marco del sistema nacional de crédito agropecuario. 
-        .col-lg-6.mb-4
-          .tarjeta-numerada.color-acento-botones.px-5.py-3
-            .tarjeta-numerada__numero
-              .h2.text-white 6.
-            p Los recursos del sistema general de regalías, de acuerdo con las disposiciones de la comisión rectora y de los órganos colegiados de administración y decisión.
-      .row.justify-content-center           
-        .col-lg-5.mb-4
-          .tarjeta-numerada.color-acento-botones.px-5.py-4
-            .tarjeta-numerada__numero
-              .h2.text-white 7.
-            p Las donaciones de personas naturales o jurídicas, nacionales o extranjeras y organismos internacionales, de conformidad con la normatividad vigente. 
-        .col-lg-7.mb-4
-          .tarjeta-numerada.color-secundario.px-5.py-2
-            .tarjeta-numerada__numero
-              .h2.text-white 8.
-            p Por último, los aportes de las entidades públicas del orden nacional o territorial, de organizaciones internacionales o de entidades privadas, deberán ser únicamente en dinero y consignados en la fiducia dispuesta por la agencia de desarrollo rural, de conformidad con lo previsto en el manual de operación del FNEA.
+      .row.mb-3
+        .mb-3.col-lg-12
+          .row 
+            .col-auto
+              .tarjeta-numerada.color-secundario.px-4.py-3
+                .tarjeta-numerada__numero
+                  .h2 1.
+                p.mb-0 Los recursos propios de los entes territoriales. 
+        .mb-3.col-lg-12
+          .row 
+            .col-auto
+              .tarjeta-numerada.color-acento-botones.px-4.py-3
+                .tarjeta-numerada__numero
+                  .h2.text-white 2.
+                p.mb-0 Los recursos del presupuesto general de la nación. 
+        .mb-3.col-lg-12
+          .row 
+            .col-auto
+              .tarjeta-numerada.color-secundario.px-4.py-3
+                .tarjeta-numerada__numero
+                  .h2 3.
+                p.mb-0 Los recursos de libre inversión del componente de propósito general del sistema general de participaciones. 
+        .mb-3.col-lg-12
+          .row 
+            .col-auto
+              .tarjeta-numerada.color-acento-botones.px-4.py-3
+                .tarjeta-numerada__numero
+                  .h2.text-white 4.
+                p.mb-0 Los recursos del sistema general de regalías, de acuerdo con las disposiciones de la comisión rectora y de los órganos colegiados de administración y decisión.
+        .mb-3.col-lg-12
+          .row 
+            .col-auto
+              .tarjeta-numerada.color-secundario.px-4.py-3
+                .tarjeta-numerada__numero
+                  .h2 5.
+                p.mb-0 Los instrumentos financieros creados en el marco del sistema nacional de crédito agropecuario. 
+        .mb-3.col-lg-12
+          .row 
+            .col-auto
+              .tarjeta-numerada.color-acento-botones.px-4.py-3
+                .tarjeta-numerada__numero
+                  .h2.text-white 6.
+                p.mb-0 Los recursos de cooperación internacional. 
+        .mb-3.col-lg-12
+          .row 
+            .col-auto
+              .tarjeta-numerada.color-secundario.px-4.py-3
+                .tarjeta-numerada__numero
+                  .h2.text-white 7.
+                p.mb-0 Las donaciones de personas naturales o jurídicas, nacionales o extranjeras y organismos internacionales, de conformidad con la normatividad vigente. 
+        .mb-3.col-lg-12
+          .row 
+            .col-auto
+              .tarjeta-numerada.color-acento-botones.px-4.py-3
+                .tarjeta-numerada__numero
+                  .h2.text-white 8.
+                p.mb-0 Por último, los aportes de las entidades públicas del orden nacional o territorial, de organizaciones internacionales o de entidades privadas, deberán ser únicamente en dinero y consignados en la fiducia dispuesta por la agencia de desarrollo rural, de conformidad con lo previsto en el manual de operación del FNEA.
 
 
     .row.justify-content-center.mb-5(data-aos="fade-right")
