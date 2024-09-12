@@ -324,6 +324,11 @@ export default {
       link:
         'https://revistas.uexternado.edu.co/index.php/ecoins/article/view/240/224 ',
     },
+    {
+      referencia: 'Congreso de Colombia, 2017. Ley 1876 del 29 de Diciembre.',
+      link:
+        'https://www.mineducacion.gov.co/portal/normativa/Leyes/381683:Ley-1876-dediciembre-29-de-2017',
+    },
   ],
   creditos: [
     {
