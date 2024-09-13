@@ -454,12 +454,7 @@ export default {
           centro:
             'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
-        {
-          nombre: 'Luz Karime Amaya',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
-        },
+
         {
           nombre: 'Jairo Luis Valencia Ebratt',
           cargo: 'Validación de recursos digitales ',
