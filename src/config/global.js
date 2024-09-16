@@ -129,6 +129,7 @@ export default {
         titulo: 'Descargar PDF',
         download: 'downloads/733402_CF01_CFA.pdf',
       },
+
       {
         icono: 'fas fa-download',
         titulo: 'Descargar material',
